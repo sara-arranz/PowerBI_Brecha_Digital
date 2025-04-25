@@ -13,8 +13,8 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 ## 📂 Estructura del Proyecto
 
-### 📂 documentacion: Contiene toda la información relacionada con el proyecto. 
-    **proyecto-guia.md**:
+### 📂 documentacion: proyecto-guia:
+
   - resumen_ejecutivo del estudio y objetivos principales.
   - marco_teorico que fundamenta el estudio.
   - metodologia empleada para el análisis de la brecha digital.
