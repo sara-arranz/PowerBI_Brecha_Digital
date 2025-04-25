@@ -2,9 +2,6 @@
 
 Este proyecto está enfocado en analizar la **brecha digital** en España, identificando las desigualdades en el acceso, uso y consecuencias de las **Tecnologías de la Información y la Comunicación (TIC)** en distintos sectores de la población española. 
 
-El estudio tiene como objetivo principal 
-Igualmente se ha profundizado en las inferencias e impacto que creemos relacionado entre este fenómeno y el nivel de formación/ocupación de la población y la tasa de desempleo por regiones del país. 
-
 ## 🚀 Objetivos
 
 - **Obtener** las dimensiones de la brecha digital en España utilizando datos del **Instituto Nacional de Estadística (INE)**.
