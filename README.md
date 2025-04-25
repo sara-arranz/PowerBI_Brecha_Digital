@@ -5,25 +5,25 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 ## 🚀 Objetivos
 
 - **Obtener** las dimensiones de la brecha digital en España utilizando datos del **Instituto Nacional de Estadística (INE)**.
-- **Identificar** las dimensiones de la brecha digital presentes en España, considerando variables como el acceso a internet, la disponibilidad de dispositivos y el uso en hogares. 
+- **Identificar** los patrones de la brecha digital presentes en España, considerando variables como el acceso a internet, la disponibilidad de dispositivos y el uso de TICs en los hogares. 
 
-- **Profundizar** en las inferencias e impacto que creemos relacionado entre este fenómeno y el nivel de formación/ocupación de la población y la tasa de desempleo por regiones del país. 
+- **Profundizar** en las inferencias e impacto que creemos existe entre este fenómeno y el nivel de formación/ocupación de la población y la tasa de desempleo por regiones del país. 
 
 - **Generar visualizaciones interactivas** para facilitar la comprensión y presentación de los resultados.
 
 ## 📂 Estructura del Proyecto
-
-### 📂 files:
-
-- **/csv**: Contiene los archivos CSV con los datos extraídos del INE.
-
-- **/inferencias**: Contiene los archivos CSV con los datos extraídos del INE necesarios para profundizar en la correlación entre la brecha digital, el nivel educativo, el tipo de equipamiento en las viviendas/situacion socioecónomica y la tasa de desempleo.
 
 ### 📂 documentacion: Contiene toda la información relacionada con el proyecto.
   - `resumen_ejecutivo.md`: Resumen ejecutivo del estudio y objetivos principales.
   - `marco_teorico.md`: Documento con el marco teórico que fundamenta el estudio.
   - `metodologia.md`: Detalles sobre la metodología empleada para el análisis de la brecha digital.
   - `conclusiones.md`: Análisis final.
+
+### 📂 files:
+
+- **/csv**: Contiene los archivos CSV con los datos extraídos del INE.
+
+- **/inferencias**: Contiene los archivos CSV con los datos extraídos del INE necesarios para profundizar en la correlación entre la brecha digital, el nivel educativo, el tipo de equipamiento en las viviendas/situacion socioecónomica y la tasa de desempleo.
 
 ### 📂 transformaciones: Contiene los scripts de Python que se utilizan para limpiar y analizar los datos.
 
