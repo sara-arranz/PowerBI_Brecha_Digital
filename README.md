@@ -13,11 +13,12 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 ## 📂 Estructura del Proyecto
 
-### 📂 documentacion: Contiene toda la información relacionada con el proyecto.
-  - `resumen_ejecutivo.md`: Resumen ejecutivo del estudio y objetivos principales.
-  - `marco_teorico.md`: Documento con el marco teórico que fundamenta el estudio.
-  - `metodologia.md`: Detalles sobre la metodología empleada para el análisis de la brecha digital.
-  - `conclusiones.md`: Análisis final.
+### 📂 documentacion: Contiene toda la información relacionada con el proyecto. 
+    **proyecto-guia.md**:
+  - resumen_ejecutivo del estudio y objetivos principales.
+  - marco_teorico que fundamenta el estudio.
+  - metodologia empleada para el análisis de la brecha digital.
+  - conclusiones finales.
 
 ### 📂 files:
 
