@@ -13,7 +13,7 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 ## 📂 Estructura del Proyecto
 
-### 📂 documentacion: proyecto-guia:
+### 📂 documentacion: proyecto-guia
 
   - resumen_ejecutivo del estudio y objetivos principales.
   - marco_teorico que fundamenta el estudio.
@@ -26,14 +26,14 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 - **/inferencias**: Contiene los archivos CSV con los datos extraídos del INE necesarios para profundizar en la correlación entre la brecha digital, el nivel educativo, el tipo de equipamiento en las viviendas/situacion socioecónomica y la tasa de desempleo.
 
-### 📂 transformaciones: Contiene los scripts de Python que se utilizan para limpiar y analizar los datos.
+### 📂 transformaciones: 
 
   - `edaUE-puthon.ipynb`: Script encargado de la limpieza de los datos extraídos.
   - `dataset_global.ipynb`: Script que realiza la unión y limpieza de varios de los csv estraídos.
 
-### 📂 visualizaciones: Archivos de **Power BI** con visualizaciones interactivas para explorar los resultados.
+### 📂 visualizaciones: 
 
-  - `brecha_digital.pbix`: Archivo de Power BI con las visualizaciones y gráficos interactivos.
+  - `brecha_digital.pbix`: Archivo de Power BI con las visualizaciones y gráficos interactivos para la exploración de los resultados.
 
 ## 👥 Conclusiones
 
