@@ -56,9 +56,13 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 - **INE (Instituto Nacional de Estadística): https://www.ine.es**
 
 - **UNESCO (2021): Reimagining our futures together: A new social contract for education.**
-    Link
+    https://unesdoc.unesco.org/ark:/48223/pf0000379381_spa
 
 - **OCDE (2020): The Digital Transformation of Education: Connecting Schools and Communities.**
-    Link
+    https://www.oecd-events.org/smart-data-and-digital-technology-in-education/session/05a01636-3dfd-ec11-b47a-a04a5e7cf9da/the-digital-transformation-of-education-connecting-schools-empowering-learners
+
+
+
+
 
 **¡Gracias por tu interés en este estudio sobre la brecha digital en España!**
