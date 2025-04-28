@@ -1,0 +1,481 @@
+sexo,uso_TIC,total,caracts_socioecon_nombre,detalle_socioecon
+,telef_mov,"91,1",Estudios terminados, Menos que primaria
+,uso_internet_ultimos3meses,"61,9",Estudios terminados, Menos que primaria
+,uso_internet_semanal,"59,8",Estudios terminados, Menos que primaria
+,uso_internet_diario,"52,6",Estudios terminados, Menos que primaria
+,compra_online_ultimos3meses,"14,6",Estudios terminados, Menos que primaria
+,telef_mov,96,Estudios terminados, Educacion Primaria
+,uso_internet_ultimos3meses,"82,4",Estudios terminados, Educacion Primaria
+,uso_internet_semanal,"80,9",Estudios terminados, Educacion Primaria
+,uso_internet_diario,"72,4",Estudios terminados, Educacion Primaria
+,compra_online_ultimos3meses,17,Estudios terminados, Educacion Primaria
+,telef_mov,"98,8",Estudios terminados, Primera etapa de Educacion Secundaria
+,uso_internet_ultimos3meses,93,Estudios terminados, Primera etapa de Educacion Secundaria
+,uso_internet_semanal,"91,2",Estudios terminados, Primera etapa de Educacion Secundaria
+,uso_internet_diario,86,Estudios terminados, Primera etapa de Educacion Secundaria
+,compra_online_ultimos3meses,"39,6",Estudios terminados, Primera etapa de Educacion Secundaria
+,telef_mov,"99,7",Estudios terminados, Segunda etapa de Educacion Secundaria
+,uso_internet_ultimos3meses,"98,2",Estudios terminados, Segunda etapa de Educacion Secundaria
+,uso_internet_semanal,"97,5",Estudios terminados, Segunda etapa de Educacion Secundaria
+,uso_internet_diario,"94,6",Estudios terminados, Segunda etapa de Educacion Secundaria
+,compra_online_ultimos3meses,"59,9",Estudios terminados, Segunda etapa de Educacion Secundaria
+,telef_mov,"99,9",Estudios terminados, Formacion Profesional de Grado Superior
+,uso_internet_ultimos3meses,"99,4",Estudios terminados, Formacion Profesional de Grado Superior
+,uso_internet_semanal,"99,2",Estudios terminados, Formacion Profesional de Grado Superior
+,uso_internet_diario,"96,9",Estudios terminados, Formacion Profesional de Grado Superior
+,compra_online_ultimos3meses,68,Estudios terminados, Formacion Profesional de Grado Superior
+,telef_mov,"99,7",Estudios terminados, Diplomatura universitaria y equivalentes
+,uso_internet_ultimos3meses,99,Estudios terminados, Diplomatura universitaria y equivalentes
+,uso_internet_semanal,"98,9",Estudios terminados, Diplomatura universitaria y equivalentes
+,uso_internet_diario,"97,4",Estudios terminados, Diplomatura universitaria y equivalentes
+,compra_online_ultimos3meses,"70,8",Estudios terminados, Diplomatura universitaria y equivalentes
+,telef_mov,"99,8",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+,uso_internet_ultimos3meses,"99,3",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+,uso_internet_semanal,"99,2",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+,uso_internet_diario,"97,5",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+,compra_online_ultimos3meses,"75,7",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+,telef_mov,"98,3",Estudios terminados, Doctorado universitario
+,uso_internet_ultimos3meses,"97,7",Estudios terminados, Doctorado universitario
+,uso_internet_semanal,"97,7",Estudios terminados, Doctorado universitario
+,uso_internet_diario,"96,7",Estudios terminados, Doctorado universitario
+,compra_online_ultimos3meses,84,Estudios terminados, Doctorado universitario
+,telef_mov,..,Estudios terminados, Otros
+,uso_internet_ultimos3meses,..,Estudios terminados, Otros
+,uso_internet_semanal,..,Estudios terminados, Otros
+,uso_internet_diario,..,Estudios terminados, Otros
+,compra_online_ultimos3meses,..,Estudios terminados, Otros
+,telef_mov,"99,8",Situacion laboral, Activos ocupados
+,uso_internet_ultimos3meses,"98,7",Situacion laboral, Activos ocupados
+,uso_internet_semanal,"98,2",Situacion laboral, Activos ocupados
+,uso_internet_diario,"96,2",Situacion laboral, Activos ocupados
+,compra_online_ultimos3meses,"66,6",Situacion laboral, Activos ocupados
+,telef_mov,99,Situacion laboral, Activos parados
+,uso_internet_ultimos3meses,"96,5",Situacion laboral, Activos parados
+,uso_internet_semanal,"95,6",Situacion laboral, Activos parados
+,uso_internet_diario,"91,2",Situacion laboral, Activos parados
+,compra_online_ultimos3meses,49,Situacion laboral, Activos parados
+,telef_mov,"99,8",Situacion laboral, Inactivos: Estudiantes
+,uso_internet_ultimos3meses,"99,9",Situacion laboral, Inactivos: Estudiantes
+,uso_internet_semanal,"99,9",Situacion laboral, Inactivos: Estudiantes
+,uso_internet_diario,"99,9",Situacion laboral, Inactivos: Estudiantes
+,compra_online_ultimos3meses,"59,9",Situacion laboral, Inactivos: Estudiantes
+,telef_mov,"98,6",Situacion laboral, Inactivos: Labores del hogar
+,uso_internet_ultimos3meses,"93,4",Situacion laboral, Inactivos: Labores del hogar
+,uso_internet_semanal,"92,7",Situacion laboral, Inactivos: Labores del hogar
+,uso_internet_diario,"85,2",Situacion laboral, Inactivos: Labores del hogar
+,compra_online_ultimos3meses,"34,1",Situacion laboral, Inactivos: Labores del hogar
+,telef_mov,"96,6",Situacion laboral, Inactivos: Pensionistas
+,uso_internet_ultimos3meses,"82,6",Situacion laboral, Inactivos: Pensionistas
+,uso_internet_semanal,"80,1",Situacion laboral, Inactivos: Pensionistas
+,uso_internet_diario,"71,5",Situacion laboral, Inactivos: Pensionistas
+,compra_online_ultimos3meses,"30,2",Situacion laboral, Inactivos: Pensionistas
+,telef_mov,"96,8",Situacion laboral, Otra situacion laboral
+,uso_internet_ultimos3meses,"90,9",Situacion laboral, Otra situacion laboral
+,uso_internet_semanal,"89,8",Situacion laboral, Otra situacion laboral
+,uso_internet_diario,"82,6",Situacion laboral, Otra situacion laboral
+,compra_online_ultimos3meses,"43,5",Situacion laboral, Otra situacion laboral
+,telef_mov,"99,8",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+,uso_internet_ultimos3meses,99,Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+,uso_internet_semanal,"98,5",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+,uso_internet_diario,"96,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+,compra_online_ultimos3meses,"67,9",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+,telef_mov,"99,8",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+,uso_internet_ultimos3meses,"97,8",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+,uso_internet_semanal,"97,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+,uso_internet_diario,96,Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+,compra_online_ultimos3meses,"63,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+,telef_mov,"99,8",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+,uso_internet_ultimos3meses,"98,1",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+,uso_internet_semanal,"97,6",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+,uso_internet_diario,"92,3",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+,compra_online_ultimos3meses,"66,2",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+,telef_mov,"99,9",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+,uso_internet_ultimos3meses,"97,8",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+,uso_internet_semanal,"97,1",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+,uso_internet_diario,"94,5",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+,compra_online_ultimos3meses,"62,3",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+,telef_mov,100,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+,uso_internet_ultimos3meses,"98,7",Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+,uso_internet_semanal,"98,7",Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+,uso_internet_diario,98,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+,compra_online_ultimos3meses,"49,9",Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+,telef_mov,"99,9",Jornada laboral (en trabajo principal), A tiempo completo
+,uso_internet_ultimos3meses,"98,8",Jornada laboral (en trabajo principal), A tiempo completo
+,uso_internet_semanal,"98,3",Jornada laboral (en trabajo principal), A tiempo completo
+,uso_internet_diario,"96,2",Jornada laboral (en trabajo principal), A tiempo completo
+,compra_online_ultimos3meses,"66,4",Jornada laboral (en trabajo principal), A tiempo completo
+,telef_mov,"99,8",Jornada laboral (en trabajo principal), A tiempo parcial
+,uso_internet_ultimos3meses,"98,2",Jornada laboral (en trabajo principal), A tiempo parcial
+,uso_internet_semanal,"97,7",Jornada laboral (en trabajo principal), A tiempo parcial
+,uso_internet_diario,"96,1",Jornada laboral (en trabajo principal), A tiempo parcial
+,compra_online_ultimos3meses,"67,6",Jornada laboral (en trabajo principal), A tiempo parcial
+,telef_mov,"99,6",Ocupacion principal, Manual
+,uso_internet_ultimos3meses,"96,7",Ocupacion principal, Manual
+,uso_internet_semanal,"96,1",Ocupacion principal, Manual
+,uso_internet_diario,"92,6",Ocupacion principal, Manual
+,compra_online_ultimos3meses,"48,9",Ocupacion principal, Manual
+,telef_mov,"99,9",Ocupacion principal, No Manual
+,uso_internet_ultimos3meses,"99,4",Ocupacion principal, No Manual
+,uso_internet_semanal,99,Ocupacion principal, No Manual
+,uso_internet_diario,"97,5",Ocupacion principal, No Manual
+,compra_online_ultimos3meses,"73,1",Ocupacion principal, No Manual
+,telef_mov,"99,4",Ocupacion principal, Trabajadores TIC
+,uso_internet_ultimos3meses,"98,8",Ocupacion principal, Trabajadores TIC
+,uso_internet_semanal,"98,8",Ocupacion principal, Trabajadores TIC
+,uso_internet_diario,"98,4",Ocupacion principal, Trabajadores TIC
+,compra_online_ultimos3meses,"82,2",Ocupacion principal, Trabajadores TIC
+,telef_mov,"99,9",Ocupacion principal, Otros trabajadores
+,uso_internet_ultimos3meses,"98,7",Ocupacion principal, Otros trabajadores
+,uso_internet_semanal,"98,2",Ocupacion principal, Otros trabajadores
+,uso_internet_diario,96,Ocupacion principal, Otros trabajadores
+,compra_online_ultimos3meses,"65,7",Ocupacion principal, Otros trabajadores
+,telef_mov,"98,4",Ingresos mensuales netos del hogar, Menos de 1200 euros
+,uso_internet_ultimos3meses,"91,8",Ingresos mensuales netos del hogar, Menos de 1200 euros
+,uso_internet_semanal,"90,5",Ingresos mensuales netos del hogar, Menos de 1200 euros
+,uso_internet_diario,"86,3",Ingresos mensuales netos del hogar, Menos de 1200 euros
+,compra_online_ultimos3meses,"44,6",Ingresos mensuales netos del hogar, Menos de 1200 euros
+,telef_mov,"98,7",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+,uso_internet_ultimos3meses,"93,7",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+,uso_internet_semanal,"92,9",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+,uso_internet_diario,"87,5",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+,compra_online_ultimos3meses,"48,3",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+,telef_mov,"99,1",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+,uso_internet_ultimos3meses,"94,1",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+,uso_internet_semanal,"93,3",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+,uso_internet_diario,89,Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+,compra_online_ultimos3meses,"49,9",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+,telef_mov,"99,1",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+,uso_internet_ultimos3meses,"96,4",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+,uso_internet_semanal,"95,5",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+,uso_internet_diario,"92,4",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+,compra_online_ultimos3meses,"56,1",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+,telef_mov,"99,6",Ingresos mensuales netos del hogar, 3900 o mas euros
+,uso_internet_ultimos3meses,"98,2",Ingresos mensuales netos del hogar, 3900 o mas euros
+,uso_internet_semanal,"97,7",Ingresos mensuales netos del hogar, 3900 o mas euros
+,uso_internet_diario,"95,5",Ingresos mensuales netos del hogar, 3900 o mas euros
+,compra_online_ultimos3meses,"67,7",Ingresos mensuales netos del hogar, 3900 o mas euros
+,telef_mov,100,Ingresos mensuales netos del hogar, NS/NR
+,uso_internet_ultimos3meses,"90,5",Ingresos mensuales netos del hogar, NS/NR
+,uso_internet_semanal,"89,2",Ingresos mensuales netos del hogar, NS/NR
+,uso_internet_diario,"83,6",Ingresos mensuales netos del hogar, NS/NR
+,compra_online_ultimos3meses,"31,4",Ingresos mensuales netos del hogar, NS/NR
+hombre,telef_mov,"93,8",Estudios terminados, Menos que primaria
+hombre,uso_internet_ultimos3meses,"52,7",Estudios terminados, Menos que primaria
+hombre,uso_internet_semanal,"49,2",Estudios terminados, Menos que primaria
+hombre,uso_internet_diario,"45,6",Estudios terminados, Menos que primaria
+hombre,compra_online_ultimos3meses,"14,9",Estudios terminados, Menos que primaria
+hombre,telef_mov,"96,7",Estudios terminados, Educacion Primaria
+hombre,uso_internet_ultimos3meses,"84,2",Estudios terminados, Educacion Primaria
+hombre,uso_internet_semanal,83,Estudios terminados, Educacion Primaria
+hombre,uso_internet_diario,"75,7",Estudios terminados, Educacion Primaria
+hombre,compra_online_ultimos3meses,"21,5",Estudios terminados, Educacion Primaria
+hombre,telef_mov,"98,8",Estudios terminados, Primera etapa de Educacion Secundaria
+hombre,uso_internet_ultimos3meses,"92,2",Estudios terminados, Primera etapa de Educacion Secundaria
+hombre,uso_internet_semanal,"90,3",Estudios terminados, Primera etapa de Educacion Secundaria
+hombre,uso_internet_diario,"85,6",Estudios terminados, Primera etapa de Educacion Secundaria
+hombre,compra_online_ultimos3meses,39,Estudios terminados, Primera etapa de Educacion Secundaria
+hombre,telef_mov,"99,5",Estudios terminados, Segunda etapa de Educacion Secundaria
+hombre,uso_internet_ultimos3meses,"97,8",Estudios terminados, Segunda etapa de Educacion Secundaria
+hombre,uso_internet_semanal,"97,5",Estudios terminados, Segunda etapa de Educacion Secundaria
+hombre,uso_internet_diario,95,Estudios terminados, Segunda etapa de Educacion Secundaria
+hombre,compra_online_ultimos3meses,"59,3",Estudios terminados, Segunda etapa de Educacion Secundaria
+hombre,telef_mov,"99,9",Estudios terminados, Formacion Profesional de Grado Superior
+hombre,uso_internet_ultimos3meses,"99,3",Estudios terminados, Formacion Profesional de Grado Superior
+hombre,uso_internet_semanal,99,Estudios terminados, Formacion Profesional de Grado Superior
+hombre,uso_internet_diario,97,Estudios terminados, Formacion Profesional de Grado Superior
+hombre,compra_online_ultimos3meses,"68,5",Estudios terminados, Formacion Profesional de Grado Superior
+hombre,telef_mov,"99,5",Estudios terminados, Diplomatura universitaria y equivalentes
+hombre,uso_internet_ultimos3meses,"98,9",Estudios terminados, Diplomatura universitaria y equivalentes
+hombre,uso_internet_semanal,"98,8",Estudios terminados, Diplomatura universitaria y equivalentes
+hombre,uso_internet_diario,"97,4",Estudios terminados, Diplomatura universitaria y equivalentes
+hombre,compra_online_ultimos3meses,"71,3",Estudios terminados, Diplomatura universitaria y equivalentes
+hombre,telef_mov,"99,9",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+hombre,uso_internet_ultimos3meses,"99,5",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+hombre,uso_internet_semanal,"99,5",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+hombre,uso_internet_diario,"97,2",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+hombre,compra_online_ultimos3meses,"71,8",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+hombre,telef_mov,100,Estudios terminados, Doctorado universitario
+hombre,uso_internet_ultimos3meses,"99,8",Estudios terminados, Doctorado universitario
+hombre,uso_internet_semanal,"99,8",Estudios terminados, Doctorado universitario
+hombre,uso_internet_diario,"99,5",Estudios terminados, Doctorado universitario
+hombre,compra_online_ultimos3meses,"87,1",Estudios terminados, Doctorado universitario
+hombre,telef_mov,..,Estudios terminados, Otros
+hombre,uso_internet_ultimos3meses,..,Estudios terminados, Otros
+hombre,uso_internet_semanal,..,Estudios terminados, Otros
+hombre,uso_internet_diario,..,Estudios terminados, Otros
+hombre,compra_online_ultimos3meses,..,Estudios terminados, Otros
+hombre,telef_mov,"99,8",Situacion laboral, Activos ocupados
+hombre,uso_internet_ultimos3meses,"98,2",Situacion laboral, Activos ocupados
+hombre,uso_internet_semanal,"97,8",Situacion laboral, Activos ocupados
+hombre,uso_internet_diario,"95,6",Situacion laboral, Activos ocupados
+hombre,compra_online_ultimos3meses,"63,6",Situacion laboral, Activos ocupados
+hombre,telef_mov,"98,9",Situacion laboral, Activos parados
+hombre,uso_internet_ultimos3meses,"95,3",Situacion laboral, Activos parados
+hombre,uso_internet_semanal,"93,8",Situacion laboral, Activos parados
+hombre,uso_internet_diario,"89,5",Situacion laboral, Activos parados
+hombre,compra_online_ultimos3meses,"42,8",Situacion laboral, Activos parados
+hombre,telef_mov,"99,8",Situacion laboral, Inactivos: Estudiantes
+hombre,uso_internet_ultimos3meses,"99,9",Situacion laboral, Inactivos: Estudiantes
+hombre,uso_internet_semanal,"99,9",Situacion laboral, Inactivos: Estudiantes
+hombre,uso_internet_diario,"99,9",Situacion laboral, Inactivos: Estudiantes
+hombre,compra_online_ultimos3meses,"57,1",Situacion laboral, Inactivos: Estudiantes
+hombre,telef_mov,"98,1",Situacion laboral, Inactivos: Labores del hogar
+hombre,uso_internet_ultimos3meses,"98,1",Situacion laboral, Inactivos: Labores del hogar
+hombre,uso_internet_semanal,"98,1",Situacion laboral, Inactivos: Labores del hogar
+hombre,uso_internet_diario,"94,1",Situacion laboral, Inactivos: Labores del hogar
+hombre,compra_online_ultimos3meses,"27,6",Situacion laboral, Inactivos: Labores del hogar
+hombre,telef_mov,"96,9",Situacion laboral, Inactivos: Pensionistas
+hombre,uso_internet_ultimos3meses,82,Situacion laboral, Inactivos: Pensionistas
+hombre,uso_internet_semanal,"79,8",Situacion laboral, Inactivos: Pensionistas
+hombre,uso_internet_diario,"72,2",Situacion laboral, Inactivos: Pensionistas
+hombre,compra_online_ultimos3meses,"33,8",Situacion laboral, Inactivos: Pensionistas
+hombre,telef_mov,96,Situacion laboral, Otra situacion laboral
+hombre,uso_internet_ultimos3meses,"89,5",Situacion laboral, Otra situacion laboral
+hombre,uso_internet_semanal,88,Situacion laboral, Otra situacion laboral
+hombre,uso_internet_diario,"81,5",Situacion laboral, Otra situacion laboral
+hombre,compra_online_ultimos3meses,37,Situacion laboral, Otra situacion laboral
+hombre,telef_mov,"99,8",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+hombre,uso_internet_ultimos3meses,"98,6",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+hombre,uso_internet_semanal,"98,3",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+hombre,uso_internet_diario,"96,6",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+hombre,compra_online_ultimos3meses,"65,8",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+hombre,telef_mov,"99,9",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+hombre,uso_internet_ultimos3meses,"96,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+hombre,uso_internet_semanal,"96,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+hombre,uso_internet_diario,"93,6",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+hombre,compra_online_ultimos3meses,"56,3",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+hombre,telef_mov,"99,9",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+hombre,uso_internet_ultimos3meses,97,Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+hombre,uso_internet_semanal,"96,5",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+hombre,uso_internet_diario,"90,3",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+hombre,compra_online_ultimos3meses,"59,6",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+hombre,telef_mov,"99,9",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+hombre,uso_internet_ultimos3meses,"97,4",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+hombre,uso_internet_semanal,"96,8",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+hombre,uso_internet_diario,"94,2",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+hombre,compra_online_ultimos3meses,60,Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+hombre,telef_mov,100,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+hombre,uso_internet_ultimos3meses,100,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+hombre,uso_internet_semanal,100,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+hombre,uso_internet_diario,100,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+hombre,compra_online_ultimos3meses,"24,4",Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+hombre,telef_mov,"99,8",Jornada laboral (en trabajo principal), A tiempo completo
+hombre,uso_internet_ultimos3meses,"98,4",Jornada laboral (en trabajo principal), A tiempo completo
+hombre,uso_internet_semanal,98,Jornada laboral (en trabajo principal), A tiempo completo
+hombre,uso_internet_diario,"95,6",Jornada laboral (en trabajo principal), A tiempo completo
+hombre,compra_online_ultimos3meses,"63,4",Jornada laboral (en trabajo principal), A tiempo completo
+hombre,telef_mov,100,Jornada laboral (en trabajo principal), A tiempo parcial
+hombre,uso_internet_ultimos3meses,"96,6",Jornada laboral (en trabajo principal), A tiempo parcial
+hombre,uso_internet_semanal,"96,6",Jornada laboral (en trabajo principal), A tiempo parcial
+hombre,uso_internet_diario,"95,4",Jornada laboral (en trabajo principal), A tiempo parcial
+hombre,compra_online_ultimos3meses,"65,3",Jornada laboral (en trabajo principal), A tiempo parcial
+hombre,telef_mov,"99,6",Ocupacion principal, Manual
+hombre,uso_internet_ultimos3meses,"96,5",Ocupacion principal, Manual
+hombre,uso_internet_semanal,96,Ocupacion principal, Manual
+hombre,uso_internet_diario,"92,4",Ocupacion principal, Manual
+hombre,compra_online_ultimos3meses,"49,4",Ocupacion principal, Manual
+hombre,telef_mov,100,Ocupacion principal, No Manual
+hombre,uso_internet_ultimos3meses,"99,3",Ocupacion principal, No Manual
+hombre,uso_internet_semanal,99,Ocupacion principal, No Manual
+hombre,uso_internet_diario,"97,6",Ocupacion principal, No Manual
+hombre,compra_online_ultimos3meses,"72,5",Ocupacion principal, No Manual
+hombre,telef_mov,"99,8",Ocupacion principal, Trabajadores TIC
+hombre,uso_internet_ultimos3meses,"99,3",Ocupacion principal, Trabajadores TIC
+hombre,uso_internet_semanal,"99,3",Ocupacion principal, Trabajadores TIC
+hombre,uso_internet_diario,"98,9",Ocupacion principal, Trabajadores TIC
+hombre,compra_online_ultimos3meses,"80,3",Ocupacion principal, Trabajadores TIC
+hombre,telef_mov,"99,8",Ocupacion principal, Otros trabajadores
+hombre,uso_internet_ultimos3meses,"98,1",Ocupacion principal, Otros trabajadores
+hombre,uso_internet_semanal,"97,7",Ocupacion principal, Otros trabajadores
+hombre,uso_internet_diario,"95,3",Ocupacion principal, Otros trabajadores
+hombre,compra_online_ultimos3meses,"62,3",Ocupacion principal, Otros trabajadores
+hombre,telef_mov,"98,6",Ingresos mensuales netos del hogar, Menos de 1200 euros
+hombre,uso_internet_ultimos3meses,"90,5",Ingresos mensuales netos del hogar, Menos de 1200 euros
+hombre,uso_internet_semanal,"89,6",Ingresos mensuales netos del hogar, Menos de 1200 euros
+hombre,uso_internet_diario,"85,3",Ingresos mensuales netos del hogar, Menos de 1200 euros
+hombre,compra_online_ultimos3meses,"44,3",Ingresos mensuales netos del hogar, Menos de 1200 euros
+hombre,telef_mov,"98,6",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+hombre,uso_internet_ultimos3meses,"93,4",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+hombre,uso_internet_semanal,"92,6",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+hombre,uso_internet_diario,"88,1",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+hombre,compra_online_ultimos3meses,"44,5",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+hombre,telef_mov,"99,1",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+hombre,uso_internet_ultimos3meses,"92,8",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+hombre,uso_internet_semanal,"91,9",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+hombre,uso_internet_diario,"87,6",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+hombre,compra_online_ultimos3meses,"47,1",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+hombre,telef_mov,"99,3",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+hombre,uso_internet_ultimos3meses,"96,2",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+hombre,uso_internet_semanal,"95,1",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+hombre,uso_internet_diario,"92,2",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+hombre,compra_online_ultimos3meses,54,Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+hombre,telef_mov,"99,5",Ingresos mensuales netos del hogar, 3900 o mas euros
+hombre,uso_internet_ultimos3meses,"98,1",Ingresos mensuales netos del hogar, 3900 o mas euros
+hombre,uso_internet_semanal,"97,7",Ingresos mensuales netos del hogar, 3900 o mas euros
+hombre,uso_internet_diario,"95,7",Ingresos mensuales netos del hogar, 3900 o mas euros
+hombre,compra_online_ultimos3meses,68,Ingresos mensuales netos del hogar, 3900 o mas euros
+hombre,telef_mov,100,Ingresos mensuales netos del hogar, NS/NR
+hombre,uso_internet_ultimos3meses,"90,2",Ingresos mensuales netos del hogar, NS/NR
+hombre,uso_internet_semanal,"87,3",Ingresos mensuales netos del hogar, NS/NR
+hombre,uso_internet_diario,"85,1",Ingresos mensuales netos del hogar, NS/NR
+hombre,compra_online_ultimos3meses,"23,2",Ingresos mensuales netos del hogar, NS/NR
+mujer,telef_mov,"88,9",Estudios terminados, Menos que primaria
+mujer,uso_internet_ultimos3meses,"69,4",Estudios terminados, Menos que primaria
+mujer,uso_internet_semanal,"68,5",Estudios terminados, Menos que primaria
+mujer,uso_internet_diario,"58,3",Estudios terminados, Menos que primaria
+mujer,compra_online_ultimos3meses,"14,3",Estudios terminados, Menos que primaria
+mujer,telef_mov,"95,4",Estudios terminados, Educacion Primaria
+mujer,uso_internet_ultimos3meses,"80,5",Estudios terminados, Educacion Primaria
+mujer,uso_internet_semanal,"78,7",Estudios terminados, Educacion Primaria
+mujer,uso_internet_diario,"68,8",Estudios terminados, Educacion Primaria
+mujer,compra_online_ultimos3meses,"12,4",Estudios terminados, Educacion Primaria
+mujer,telef_mov,"98,8",Estudios terminados, Primera etapa de Educacion Secundaria
+mujer,uso_internet_ultimos3meses,"93,9",Estudios terminados, Primera etapa de Educacion Secundaria
+mujer,uso_internet_semanal,"92,3",Estudios terminados, Primera etapa de Educacion Secundaria
+mujer,uso_internet_diario,"86,4",Estudios terminados, Primera etapa de Educacion Secundaria
+mujer,compra_online_ultimos3meses,"40,3",Estudios terminados, Primera etapa de Educacion Secundaria
+mujer,telef_mov,"99,9",Estudios terminados, Segunda etapa de Educacion Secundaria
+mujer,uso_internet_ultimos3meses,"98,6",Estudios terminados, Segunda etapa de Educacion Secundaria
+mujer,uso_internet_semanal,"97,5",Estudios terminados, Segunda etapa de Educacion Secundaria
+mujer,uso_internet_diario,"94,2",Estudios terminados, Segunda etapa de Educacion Secundaria
+mujer,compra_online_ultimos3meses,"60,5",Estudios terminados, Segunda etapa de Educacion Secundaria
+mujer,telef_mov,"99,9",Estudios terminados, Formacion Profesional de Grado Superior
+mujer,uso_internet_ultimos3meses,"99,5",Estudios terminados, Formacion Profesional de Grado Superior
+mujer,uso_internet_semanal,"99,4",Estudios terminados, Formacion Profesional de Grado Superior
+mujer,uso_internet_diario,"96,8",Estudios terminados, Formacion Profesional de Grado Superior
+mujer,compra_online_ultimos3meses,"67,4",Estudios terminados, Formacion Profesional de Grado Superior
+mujer,telef_mov,"99,9",Estudios terminados, Diplomatura universitaria y equivalentes
+mujer,uso_internet_ultimos3meses,"99,1",Estudios terminados, Diplomatura universitaria y equivalentes
+mujer,uso_internet_semanal,"98,9",Estudios terminados, Diplomatura universitaria y equivalentes
+mujer,uso_internet_diario,"97,3",Estudios terminados, Diplomatura universitaria y equivalentes
+mujer,compra_online_ultimos3meses,"70,5",Estudios terminados, Diplomatura universitaria y equivalentes
+mujer,telef_mov,"99,8",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+mujer,uso_internet_ultimos3meses,"99,2",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+mujer,uso_internet_semanal,99,Estudios terminados," Licenciatura universitaria, master y equivalentes"
+mujer,uso_internet_diario,"97,7",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+mujer,compra_online_ultimos3meses,"78,8",Estudios terminados," Licenciatura universitaria, master y equivalentes"
+mujer,telef_mov,"96,6",Estudios terminados, Doctorado universitario
+mujer,uso_internet_ultimos3meses,"95,8",Estudios terminados, Doctorado universitario
+mujer,uso_internet_semanal,"95,8",Estudios terminados, Doctorado universitario
+mujer,uso_internet_diario,"94,1",Estudios terminados, Doctorado universitario
+mujer,compra_online_ultimos3meses,"80,9",Estudios terminados, Doctorado universitario
+mujer,telef_mov,..,Estudios terminados, Otros
+mujer,uso_internet_ultimos3meses,..,Estudios terminados, Otros
+mujer,uso_internet_semanal,..,Estudios terminados, Otros
+mujer,uso_internet_diario,..,Estudios terminados, Otros
+mujer,compra_online_ultimos3meses,..,Estudios terminados, Otros
+mujer,telef_mov,"99,8",Situacion laboral, Activos ocupados
+mujer,uso_internet_ultimos3meses,"99,2",Situacion laboral, Activos ocupados
+mujer,uso_internet_semanal,"98,6",Situacion laboral, Activos ocupados
+mujer,uso_internet_diario,"96,8",Situacion laboral, Activos ocupados
+mujer,compra_online_ultimos3meses,"70,1",Situacion laboral, Activos ocupados
+mujer,telef_mov,"99,2",Situacion laboral, Activos parados
+mujer,uso_internet_ultimos3meses,"97,5",Situacion laboral, Activos parados
+mujer,uso_internet_semanal,"97,1",Situacion laboral, Activos parados
+mujer,uso_internet_diario,"92,5",Situacion laboral, Activos parados
+mujer,compra_online_ultimos3meses,"53,9",Situacion laboral, Activos parados
+mujer,telef_mov,"99,8",Situacion laboral, Inactivos: Estudiantes
+mujer,uso_internet_ultimos3meses,100,Situacion laboral, Inactivos: Estudiantes
+mujer,uso_internet_semanal,100,Situacion laboral, Inactivos: Estudiantes
+mujer,uso_internet_diario,100,Situacion laboral, Inactivos: Estudiantes
+mujer,compra_online_ultimos3meses,"62,6",Situacion laboral, Inactivos: Estudiantes
+mujer,telef_mov,"98,6",Situacion laboral, Inactivos: Labores del hogar
+mujer,uso_internet_ultimos3meses,"93,1",Situacion laboral, Inactivos: Labores del hogar
+mujer,uso_internet_semanal,"92,4",Situacion laboral, Inactivos: Labores del hogar
+mujer,uso_internet_diario,"84,7",Situacion laboral, Inactivos: Labores del hogar
+mujer,compra_online_ultimos3meses,"34,5",Situacion laboral, Inactivos: Labores del hogar
+mujer,telef_mov,"96,3",Situacion laboral, Inactivos: Pensionistas
+mujer,uso_internet_ultimos3meses,"83,4",Situacion laboral, Inactivos: Pensionistas
+mujer,uso_internet_semanal,"80,4",Situacion laboral, Inactivos: Pensionistas
+mujer,uso_internet_diario,"70,6",Situacion laboral, Inactivos: Pensionistas
+mujer,compra_online_ultimos3meses,"26,1",Situacion laboral, Inactivos: Pensionistas
+mujer,telef_mov,"97,6",Situacion laboral, Otra situacion laboral
+mujer,uso_internet_ultimos3meses,"92,1",Situacion laboral, Otra situacion laboral
+mujer,uso_internet_semanal,"91,2",Situacion laboral, Otra situacion laboral
+mujer,uso_internet_diario,"83,6",Situacion laboral, Otra situacion laboral
+mujer,compra_online_ultimos3meses,49,Situacion laboral, Otra situacion laboral
+mujer,telef_mov,"99,9",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+mujer,uso_internet_ultimos3meses,"99,4",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+mujer,uso_internet_semanal,"98,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+mujer,uso_internet_diario,"96,9",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+mujer,compra_online_ultimos3meses,"70,4",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato indefinido
+mujer,telef_mov,"99,6",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+mujer,uso_internet_ultimos3meses,"98,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+mujer,uso_internet_semanal,"98,5",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+mujer,uso_internet_diario,"97,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+mujer,compra_online_ultimos3meses,"68,9",Situacion Profesional (en trabajo principal), Trabajador por cuenta ajena con contrato temporal
+mujer,telef_mov,"99,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+mujer,uso_internet_ultimos3meses,100,Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+mujer,uso_internet_semanal,"99,4",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+mujer,uso_internet_diario,"95,7",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+mujer,compra_online_ultimos3meses,"77,4",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia con empleados
+mujer,telef_mov,"99,8",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+mujer,uso_internet_ultimos3meses,"98,3",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+mujer,uso_internet_semanal,"97,6",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+mujer,uso_internet_diario,95,Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+mujer,compra_online_ultimos3meses,"65,9",Situacion Profesional (en trabajo principal), Trabajador por cuenta propia sin empleados
+mujer,telef_mov,100,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+mujer,uso_internet_ultimos3meses,98,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+mujer,uso_internet_semanal,98,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+mujer,uso_internet_diario,"96,9",Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+mujer,compra_online_ultimos3meses,64,Situacion Profesional (en trabajo principal), Ayuda familiar (sin sueldo estipulado)
+mujer,telef_mov,"99,9",Jornada laboral (en trabajo principal), A tiempo completo
+mujer,uso_internet_ultimos3meses,"99,3",Jornada laboral (en trabajo principal), A tiempo completo
+mujer,uso_internet_semanal,"98,8",Jornada laboral (en trabajo principal), A tiempo completo
+mujer,uso_internet_diario,97,Jornada laboral (en trabajo principal), A tiempo completo
+mujer,compra_online_ultimos3meses,"70,7",Jornada laboral (en trabajo principal), A tiempo completo
+mujer,telef_mov,"99,7",Jornada laboral (en trabajo principal), A tiempo parcial
+mujer,uso_internet_ultimos3meses,"98,8",Jornada laboral (en trabajo principal), A tiempo parcial
+mujer,uso_internet_semanal,"98,1",Jornada laboral (en trabajo principal), A tiempo parcial
+mujer,uso_internet_diario,"96,3",Jornada laboral (en trabajo principal), A tiempo parcial
+mujer,compra_online_ultimos3meses,"68,4",Jornada laboral (en trabajo principal), A tiempo parcial
+mujer,telef_mov,"99,3",Ocupacion principal, Manual
+mujer,uso_internet_ultimos3meses,"97,3",Ocupacion principal, Manual
+mujer,uso_internet_semanal,"96,2",Ocupacion principal, Manual
+mujer,uso_internet_diario,"93,3",Ocupacion principal, Manual
+mujer,compra_online_ultimos3meses,"47,2",Ocupacion principal, Manual
+mujer,telef_mov,"99,9",Ocupacion principal, No Manual
+mujer,uso_internet_ultimos3meses,"99,5",Ocupacion principal, No Manual
+mujer,uso_internet_semanal,99,Ocupacion principal, No Manual
+mujer,uso_internet_diario,"97,3",Ocupacion principal, No Manual
+mujer,compra_online_ultimos3meses,"73,6",Ocupacion principal, No Manual
+mujer,telef_mov,"98,7",Ocupacion principal, Trabajadores TIC
+mujer,uso_internet_ultimos3meses,"97,6",Ocupacion principal, Trabajadores TIC
+mujer,uso_internet_semanal,"97,6",Ocupacion principal, Trabajadores TIC
+mujer,uso_internet_diario,"97,3",Ocupacion principal, Trabajadores TIC
+mujer,compra_online_ultimos3meses,"86,5",Ocupacion principal, Trabajadores TIC
+mujer,telef_mov,"99,9",Ocupacion principal, Otros trabajadores
+mujer,uso_internet_ultimos3meses,"99,2",Ocupacion principal, Otros trabajadores
+mujer,uso_internet_semanal,"98,6",Ocupacion principal, Otros trabajadores
+mujer,uso_internet_diario,"96,8",Ocupacion principal, Otros trabajadores
+mujer,compra_online_ultimos3meses,"69,5",Ocupacion principal, Otros trabajadores
+mujer,telef_mov,"98,3",Ingresos mensuales netos del hogar, Menos de 1200 euros
+mujer,uso_internet_ultimos3meses,"92,9",Ingresos mensuales netos del hogar, Menos de 1200 euros
+mujer,uso_internet_semanal,"91,2",Ingresos mensuales netos del hogar, Menos de 1200 euros
+mujer,uso_internet_diario,"87,1",Ingresos mensuales netos del hogar, Menos de 1200 euros
+mujer,compra_online_ultimos3meses,"44,9",Ingresos mensuales netos del hogar, Menos de 1200 euros
+mujer,telef_mov,"98,8",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+mujer,uso_internet_ultimos3meses,94,Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+mujer,uso_internet_semanal,"93,2",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+mujer,uso_internet_diario,87,Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+mujer,compra_online_ultimos3meses,"52,1",Ingresos mensuales netos del hogar, De 1200 a menos de 1900 euros
+mujer,telef_mov,"99,1",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+mujer,uso_internet_ultimos3meses,"95,4",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+mujer,uso_internet_semanal,"94,6",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+mujer,uso_internet_diario,"90,3",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+mujer,compra_online_ultimos3meses,"52,3",Ingresos mensuales netos del hogar, De 1900 a menos de 2700 euros
+mujer,telef_mov,"98,9",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+mujer,uso_internet_ultimos3meses,"96,6",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+mujer,uso_internet_semanal,"95,9",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+mujer,uso_internet_diario,"92,5",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+mujer,compra_online_ultimos3meses,"58,3",Ingresos mensuales netos del hogar, De 2700 a menos de 3900 euros
+mujer,telef_mov,"99,7",Ingresos mensuales netos del hogar, 3900 o mas euros
+mujer,uso_internet_ultimos3meses,"98,4",Ingresos mensuales netos del hogar, 3900 o mas euros
+mujer,uso_internet_semanal,"97,7",Ingresos mensuales netos del hogar, 3900 o mas euros
+mujer,uso_internet_diario,"95,2",Ingresos mensuales netos del hogar, 3900 o mas euros
+mujer,compra_online_ultimos3meses,"67,5",Ingresos mensuales netos del hogar, 3900 o mas euros
+mujer,telef_mov,100,Ingresos mensuales netos del hogar, NS/NR
+mujer,uso_internet_ultimos3meses,"90,7",Ingresos mensuales netos del hogar, NS/NR
+mujer,uso_internet_semanal,"90,7",Ingresos mensuales netos del hogar, NS/NR
+mujer,uso_internet_diario,"82,4",Ingresos mensuales netos del hogar, NS/NR
+mujer,compra_online_ultimos3meses,"38,6",Ingresos mensuales netos del hogar, NS/NR
