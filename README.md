@@ -28,7 +28,7 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 ### 📂 transformaciones: 
 
-  - `edaUE-puthon.ipynb`: Script encargado de la limpieza de los datos extraídos.
+  - `edaUE-python.ipynb`: Script encargado de la limpieza de los datos extraídos.
   - `dataset_global.ipynb`: Script que realiza la unión y limpieza de varios de los csv estraídos.
 
 ### 📂 visualizaciones: 
@@ -61,7 +61,16 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 - **OCDE (2020): The Digital Transformation of Education: Connecting Schools and Communities.**
     https://www.oecd-events.org/smart-data-and-digital-technology-in-education/session/05a01636-3dfd-ec11-b47a-a04a5e7cf9da/the-digital-transformation-of-education-connecting-schools-empowering-learners
 
+- Digital economy and society statistics - households and individuals
 
+      [Fuente](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Digital_economy_and_society_statistics_-_households_and_individuals)
+
+      A su vez, la fuente anterior nos lleva a este dataset:
+
+      [Fuente](https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ac_i__custom_16380599/default/table?lang=en)
+
+- Otras fuentes:
+  - Obtención del mapa de formas de España: [Mapa](https://github.com/FMullor/TopoJson/blob/master/Espa%C3%B1aAgrupada.json)
 
 
 
