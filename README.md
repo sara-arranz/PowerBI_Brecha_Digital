@@ -16,29 +16,34 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 ### 📂 documentacion: proyecto-guia
 
-  - resumen_ejecutivo del estudio y objetivos principales.
-  - marco_teorico que fundamenta el estudio.
-  - metodologia empleada para el análisis de la brecha digital.
-  - conclusiones finales.
+  - Resumen_ejecutivo del estudio y objetivos principales.
+  - Marco_teorico que fundamenta el estudio.
+  - Metodologia empleada para el análisis de la brecha digital.
+  - Conclusiones finales.
 
-### 📂 datos:
+### 📂 readme
 
-- **/csv**: Contiene los archivos CSV con los datos extraídos para este estudio.
+- Acceso al documento final.
+- Imágenes de uso en el mismo.
+
+### 📂 datos
+
+- **csv**: Contiene los archivos CSV con los datos extraídos para este estudio.
 
 
-### 📂 transformaciones: 
+### 📂 transformaciones
 
   - `edaUE-python.ipynb`: Jupyter_notebook encargado de la limpieza de los datos extraídos referentes a la UE.
 
   - `dataset_global.ipynb`: Jupyter_notebook que realiza el estudio y limpieza de varios de los csv estraídos del INE (Instituto Nacional de Estadística) como valor central de la situación en España .
 
-### 📂 visualizaciones: 
+### 📂 visualizaciones
 
   - `brecha_digital.pbix`: Archivo de Power BI con las visualizaciones y gráficos interactivos para la exploración de los resultados.
 
 ## 🔍 Conclusiones derivadas del análisis:
 
-**Cambio de enfoque en la investigación sobre brecha digital:**
+### **Cambio de enfoque en la investigación sobre brecha digital:**
 
 **Ya no basta con medir cuántas personas tienen acceso a Internet o dispositivos. Es necesario analizar cómo usan las personas la tecnología y si lo hacen de manera efectiva y productiva.**
 
@@ -103,15 +108,51 @@ Para adaptar políticas públicas eficaces, es necesario un conocimiento profund
 
 ---
 
-**Objetivo final:**  
+### **Objetivo final:**  
 Desarrollar un modelo de análisis territorial y sociodemográfico que permita identificar con mayor precisión las **brechas de uso y productividad digital** en función de contextos sociales, económicos y geográficos, contribuyendo a una **inclusión digital equitativa y efectiva** en todas las regiones de España.
+
+
+
+## 📚 Fuetes Principales
+
+- **INE (Instituto Nacional de Estadística): https://www.ine.es**:
+  
+  Evolución de datos de Viviendas (2006-2024) por Comunidades y Ciudades Autónomas, tipo de equipamiento y periodo: 
+
+  [Fuente](https://www.ine.es/jaxi/Tabla.htm?tpx=70470&L=0)
+
+  Nivel y condiciones de vida: 
+
+  [Fuente](https://www.ine.es/jaxi/Datos.htm?tpx=70388#_tabs-grafico)
+
+  Datos de Viviendas por Comunidades y Ciudades Autónomas, tamaño del hogar, tipo de hogar, hábitat, ingresos mensuales netos del hogar y tipo de equipamiento.:
+
+  [Fuente](https://www.ine.es/jaxi/Datos.htm?tpx=70466)
+
+- **UNESCO (2021): Reimagining our futures together: A new social contract for education.**
+    [Fuente](https://unesdoc.unesco.org/ark:/48223/pf0000379381_spa)
+
+- **OCDE (2020): The Digital Transformation of Education: Connecting Schools and Communities.**
+    [Fuente](https://www.oecd-events.org/smart-data-and-digital-technology-in-education/session/05a01636-3dfd-ec11-b47a-a04a5e7cf9da/the-digital-transformation-of-education-connecting-schools-empowering-learners)
+
+- **Digital economy and society statistics - households and individuals**
+
+  [Fuente](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Digital_economy_and_society_statistics_-_households_and_individuals)
+
+  [Fuente](https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ac_i__custom_16380599/default/table?lang=en)
+
+- **Otras fuentes:**
+
+  Obtención del mapa de formas de España: [Mapa](https://github.com/FMullor/TopoJson/blob/master/Espa%C3%B1aAgrupada.json)
 
 
 ## 💡 Contribuciones
 
 Si deseas contribuir al proyecto, sigue estos pasos:
 
-- **Haz un fork del repositorio.**
+- **Haz un fork del [repositorio](https://github.com/sara-arranz/PowerBI_Brecha_Digital.git).**  
+   Esto creará una copia del repositorio en tu cuenta para que puedas trabajar en él libremente.
+
 
 - **Crea una nueva rama (git checkout -b feature-nueva-funcionalidad).**
 
@@ -120,32 +161,4 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 - **Envía un pull request con tus cambios.**
 
 
-
-## 📚 Fuetes Principales
-
-- **INE (Instituto Nacional de Estadística): https://www.ine.es**:
-  Evolución de datos de Viviendas (2006-2024) por Comunidades y Ciudades Autónomas, tipo de equipamiento y periodo: 
-  [Fuente](https://www.ine.es/jaxi/Tabla.htm?tpx=70470&L=0)
-
-  Nivel y condiciones de vida: 
-  [Fuente](https://www.ine.es/jaxi/Datos.htm?tpx=70388#_tabs-grafico)
-
-  Datos de Viviendas por Comunidades y Ciudades Autónomas, tamaño del hogar, tipo de hogar, hábitat, ingresos mensuales netos del hogar y tipo de equipamiento.:
-  [Fuente](https://www.ine.es/jaxi/Datos.htm?tpx=70466)
-
-- **UNESCO (2021): Reimagining our futures together: A new social contract for education.**
-    **[Fuente](https://unesdoc.unesco.org/ark:/48223/pf0000379381_spa)**
-
-- **OCDE (2020): The Digital Transformation of Education: Connecting Schools and Communities.**
-    [Fuente](https://www.oecd-events.org/smart-data-and-digital-technology-in-education/session/05a01636-3dfd-ec11-b47a-a04a5e7cf9da/the-digital-transformation-of-education-connecting-schools-empowering-learners)
-
-- **Digital economy and society statistics - households and individuals**
-  [Fuente](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Digital_economy_and_society_statistics_-_households_and_individuals)
-  [Fuente](https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ac_i__custom_16380599/default/table?lang=en)
-
-- **Otras fuentes:**
-  Obtención del mapa de formas de España: [Mapa](https://github.com/FMullor/TopoJson/blob/master/Espa%C3%B1aAgrupada.json)
-
-
-
-**¡Gracias por tu interés en este estudio sobre la brecha digital en España!**
+### **¡Gracias por tu interés en este estudio sobre la brecha digital en España!**
