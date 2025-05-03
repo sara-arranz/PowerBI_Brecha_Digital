@@ -11,7 +11,7 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 - **Profundizar** en las inferencias e impacto que creemos existe entre este fenómeno y el nivel de formación/ocupación de la población y la tasa de desempleo por regiones del país. 
 
 - **Generar visualizaciones interactivas** para facilitar la comprensión y presentación de los resultados.
-
+---
 ## 📂 Estructura del Proyecto
 
 ### 📂 documentacion: proyecto-guia
@@ -20,11 +20,6 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
   - Marco_teorico que fundamenta el estudio.
   - Metodologia empleada para el análisis de la brecha digital.
   - Conclusiones finales.
-
-### 📂 readme
-
-- Acceso al documento final.
-- Imágenes de uso en el mismo.
 
 ### 📂 datos
 
@@ -41,6 +36,7 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
   - `brecha_digital.pbix`: Archivo de Power BI con las visualizaciones y gráficos interactivos para la exploración de los resultados.
 
+---
 ## 🔍 Conclusiones derivadas del análisis:
 
 ### **Cambio de enfoque en la investigación sobre brecha digital:**
@@ -66,6 +62,7 @@ Esto incluye desde oportunidades laborales hasta acceso a servicios públicos, i
 Las políticas no deben centrarse sólo en ofrecer conectividad, sino en formación en competencias digitales, adaptadas a cada grupo social.
 **Programas de alfabetización digital deben ir más allá de lo básico, incorporando habilidades para el trabajo, seguridad digital, pensamiento crítico y resolución de problemas.**
 
+---
 
 ## 🪜 Próximos pasos
 
@@ -73,9 +70,25 @@ A partir de las conclusiones obtenidas, se plantea la necesidad de continuar el 
 
 ---
 
-## 1. Estudio específico de Ceuta y Melilla
+## 1. Profundizar en la relación entre uso de Internet y desempleo
 
-![Mapa Ceuta y Melilla](images/ceuta_melilla.png)
+Es fundamental **comprender mejor cómo el nivel de uso digital incide en la empleabilidad** y viceversa. Para ello:
+
+- Explorar correlaciones entre **niveles de uso de Internet, competencias digitales y tasas de desempleo** por territorios.
+- Identificar si existen **barreras específicas que impiden a personas desempleadas aprovechar las herramientas digitales** para la búsqueda de empleo o el autoempleo.
+
+---
+
+## 2. Análisis sociodemográfico detallado por Comunidades Autónomas
+
+Para adaptar políticas públicas eficaces, es necesario un conocimiento profundo de las realidades sociales en cada territorio. Se propone:
+
+- **Segmentar los datos por CCAA**, analizando variables como edad, nivel educativo, entorno urbano/rural, renta media y situación laboral.
+- Estudiar las **necesidades digitales específicas** de cada grupo sociodemográfico y su potencial impacto en la calidad de vida.
+- Diseñar estrategias de intervención **territorializadas y basadas en evidencia**.
+
+---
+## 3. Estudio específico de Ceuta y Melilla
 
 Ceuta y Melilla presentan **características estructurales particulares**, tanto por su evolución histórica como por sus **elevadas tasas de desempleo**, que justifican una investigación diferenciada. Se propone:
 
@@ -85,33 +98,10 @@ Ceuta y Melilla presentan **características estructurales particulares**, tanto
 
 ---
 
-## 2. Profundizar en la relación entre uso de Internet y desempleo
-
-![Icono conexión y trabajo](images/empleo_internet.png)
-
-Es fundamental **comprender mejor cómo el nivel de uso digital incide en la empleabilidad** y viceversa. Para ello:
-
-- Explorar correlaciones entre **niveles de uso de Internet, competencias digitales y tasas de desempleo** por territorios.
-- Identificar si existen **barreras específicas que impiden a personas desempleadas aprovechar las herramientas digitales** para la búsqueda de empleo o el autoempleo.
-
----
-
-## 3. Análisis sociodemográfico detallado por Comunidades Autónomas
-
-![Mapa sociodemográfico España](images/mapa_ccaa.png)
-
-Para adaptar políticas públicas eficaces, es necesario un conocimiento profundo de las realidades sociales en cada territorio. Se propone:
-
-- **Segmentar los datos por CCAA**, analizando variables como edad, nivel educativo, entorno urbano/rural, renta media y situación laboral.
-- Estudiar las **necesidades digitales específicas** de cada grupo sociodemográfico y su potencial impacto en la calidad de vida.
-- Diseñar estrategias de intervención **territorializadas y basadas en evidencia**.
-
----
-
 ### **Objetivo final:**  
 Desarrollar un modelo de análisis territorial y sociodemográfico que permita identificar con mayor precisión las **brechas de uso y productividad digital** en función de contextos sociales, económicos y geográficos, contribuyendo a una **inclusión digital equitativa y efectiva** en todas las regiones de España.
 
-
+---
 
 ## 📚 Fuetes Principales
 
@@ -130,9 +120,11 @@ Desarrollar un modelo de análisis territorial y sociodemográfico que permita i
   [Fuente](https://www.ine.es/jaxi/Datos.htm?tpx=70466)
 
 - **UNESCO (2021): Reimagining our futures together: A new social contract for education.**
+
     [Fuente](https://unesdoc.unesco.org/ark:/48223/pf0000379381_spa)
 
 - **OCDE (2020): The Digital Transformation of Education: Connecting Schools and Communities.**
+
     [Fuente](https://www.oecd-events.org/smart-data-and-digital-technology-in-education/session/05a01636-3dfd-ec11-b47a-a04a5e7cf9da/the-digital-transformation-of-education-connecting-schools-empowering-learners)
 
 - **Digital economy and society statistics - households and individuals**
@@ -145,7 +137,7 @@ Desarrollar un modelo de análisis territorial y sociodemográfico que permita i
 
   Obtención del mapa de formas de España: [Mapa](https://github.com/FMullor/TopoJson/blob/master/Espa%C3%B1aAgrupada.json)
 
-
+---
 ## 💡 Contribuciones
 
 Si deseas contribuir al proyecto, sigue estos pasos:
