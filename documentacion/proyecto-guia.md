@@ -4,7 +4,7 @@
 
 Este documento presenta un estudio sobre la brecha digital, entendiendo este fenómeno social como el conjunto de desigualdades en el acceso, uso y consecuencias significativas de las tecnologías de la información y la comunicación (TIC) por parte de distintos sectores de la población.
 
-El estudio tiene como objetivo principal identificar y analizar las dimensiones de la brecha digital presentes en España, considerando variables como el acceso a internet, la disponibilidad de dispositivos y el uso en hogares. 
+El estudio tiene como objetivo principal **identificar y analizar las dimensiones de la brecha digital presentes en España**, considerando variables como el acceso a internet, la disponibilidad de dispositivos y el uso en hogares. 
 
 Igualmente se ha profundizado en las inferencias e impacto que creemos relacionado entre este fenómeno y el nivel de formación/ocupación de la población y la tasa de desempleo por regiones del país. 
 
@@ -12,7 +12,7 @@ La metodología utilizada combina enfoques cuantitativos y cualitativos, mediant
 
 El Instituto Nacional de Estadística es un organismo autónomo de carácter administrativo, con personalidad jurídica y patrimonio propio, adscrito al Ministerio de Economía, Comercio y Empresa a través de la Secretaría de Estado de Economía y Apoyo a la Empresa. 
 
-Este primer estudio busca ser una puerta clave de identificación de factores para una futura formulación de estrategias que contribuyan al cierre de la brecha digital y a la promoción de una sociedad más equitativa y conectada.
+**Este primer estudio busca ser una puerta clave de identificación de factores para una futura formulación de estrategias que contribuyan al cierre de la brecha digital y a la promoción de una sociedad más equitativa y conectada.**
 
 ## 2. Introducción
 
@@ -20,7 +20,7 @@ Este primer estudio busca ser una puerta clave de identificación de factores pa
 
 En la era digital, el acceso y uso de las tecnologías de la información y la comunicación (TIC) se han convertido en factores determinantes para el desarrollo económico, educativo, social y cultural de las personas y las comunidades. Sin embargo, el acceso desigual a estas tecnologías ha generado lo que se conoce como **brecha digital**, una forma de exclusión que profundiza otras desigualdades estructurales preexistentes.
 
-La brecha digital no solo se manifiesta en la disponibilidad de dispositivos o acceso a internet, sino también en la calidad de la conexión, las competencias digitales de los usuarios y el uso significativo que se hace de las TIC para mejorar la calidad de vida. 
+La brecha digital no solo se manifiesta en la disponibilidad de dispositivos o acceso a internet, sino también en la calidad de la conexión, **las competencias digitales de los usuarios y el uso significativo que se hace de las TIC para mejorar la calidad de vida.** 
 
 Nuestra principal hipótesis es la siguiente:
 
@@ -79,9 +79,9 @@ La metodología se centra en la recolección de **datos secundarios** que propor
 
 - **Extracción de Datos**: Los datos se han extraído de las bases del **Instituto Nacional de Estadística (INE)**, que ofrece acceso a conjuntos de datos completos sobre la penetración digital en diferentes sectores de la sociedad. 👉 [https://www.ine.es](https://www.ine.es)
 
-- **Limpieza de Datos con Visual Studio Code (VS Code)**: El proceso de limpieza y preprocesamiento de datos se ha realizado utilizando **Visual Studio Code**, donde se han aplicado técnicas de depuración y transformación de datos (eliminación de valores nulos, corrección de formatos, eliminación de registros duplicados, etc.). Se han empleado **scripts en Python** (con bibliotecas como Pandas y NumPy) para manejar grandes volúmenes de datos y realizar transformaciones necesarias para su análisis posterior.
+- **Limpieza de Datos con Visual Studio Code (VS Code)**: El proceso de limpieza y preprocesamiento de datos se ha realizado utilizando **Visual Studio Code**, donde se han aplicado técnicas de depuración y transformación de datos (eliminación de valores nulos, corrección de formatos, eliminación de registros duplicados, etc.). Se han empleado **jupyter_notebooks** (con bibliotecas como Pandas y NumPy) para manejar grandes volúmenes de datos y realizar transformaciones necesarias para su análisis posterior.
 
-- **Análisis de Datos**: Una vez limpiados, los datos se analizan utilizando **Power BI**, que permite generar visualizaciones interactivas y dashboards que transmiten los resultados de manera clara y accesible.
+- **Análisis de Datos**: Una vez limpios, los datos se analizan utilizando **Power BI**, que permite generar visualizaciones interactivas y dashboards que transmiten los resultados de manera clara y accesible.
 
 - **Visualización con Power BI**: Creación de informes visuales interactivos, como gráficos de barras, líneas y mapas geográficos, que han facilitado la interpretación de los resultados.
 
@@ -93,4 +93,33 @@ La metodología se centra en la recolección de **datos secundarios** que propor
 
 - **Análisis espacial**: Usando mapas geográficos generados en Power BI para explorar la distribución de las brechas digitales a nivel regional.
 
-### 5. Conclusiones 
+### 5. Conclusiones del análisis 
+
+La conclusión principal de este análisis establece que:
+
+> **"La accesibilidad ya es un hecho; la nueva brecha a estudiar debe basarse en el uso y productividad que las personas pueden hacer de ese acceso y cómo esto impacta de manera directa en sus competencias digitales y su mejora de calidad de vida."**
+
+A partir de esta afirmación, se desprenden las siguientes conclusiones clave:
+
+### 1. Cambio de enfoque en el estudio de la brecha digital
+La investigación sobre brecha digital debe ir más allá de la conectividad. Hoy en día, el acceso básico a Internet está ampliamente extendido; sin embargo, se observa una brecha significativa en **el uso efectivo y productivo de las tecnologías digitales**.
+
+### 2. Persistencia de desigualdades en competencias digitales
+El acceso no garantiza la igualdad en el aprovechamiento de las tecnologías. Se identifican diferencias marcadas en las **habilidades digitales según edad, nivel educativo, ubicación geográfica y situación socioeconómica**, lo que limita las oportunidades de desarrollo individual y colectivo.
+
+### 3. La productividad digital como nuevo indicador de inclusión
+Es fundamental incorporar métricas que evalúen **el valor añadido que las personas obtienen del uso digital**, como mejoras en empleabilidad, acceso a servicios, educación o bienestar. No se trata solo de estar conectados, sino de **saber usar la tecnología para generar beneficios concretos**.
+
+### 4. Impacto directo en la calidad de vida
+El uso efectivo de herramientas digitales tiene un **efecto directo en la calidad de vida**: acceso a mejor información, servicios públicos, redes de apoyo y oportunidades económicas. Esta dimensión debe ser central en el análisis de la brecha digital contemporánea.
+
+### 5. Implicaciones para las políticas públicas
+Las estrategias públicas deben evolucionar:
+- Ir más allá de la infraestructura de conectividad.
+- **Incorporar formación en competencias digitales avanzadas**, adaptadas a las realidades y necesidades de cada grupo social.
+- Fomentar el pensamiento crítico, la seguridad digital, la autonomía tecnológica y la capacidad de resolución de problemas en entornos digitales.
+
+---
+
+**Conclusión general:**  
+La brecha digital ya no se mide solo en términos de acceso, sino en la **capacidad de transformar ese acceso en desarrollo personal, social y económico**. La verdadera inclusión digital requiere equidad en el uso, las competencias y la productividad tecnológica.
