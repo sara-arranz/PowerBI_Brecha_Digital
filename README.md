@@ -37,30 +37,66 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
   - `brecha_digital.pbix`: Archivo de Power BI con las visualizaciones y gráficos interactivos para la exploración de los resultados.
 
 ---
-## 🔍 Conclusiones derivadas del análisis:
 
-### **Cambio de enfoque en la investigación sobre brecha digital:**
+### 🎯 Conclusiones: Brecha Digital. Más Allá del Acceso
+---
 
-**Ya no basta con medir cuántas personas tienen acceso a Internet o dispositivos. Es necesario analizar cómo usan las personas la tecnología y si lo hacen de manera efectiva y productiva.**
+### 🧭  1. Nuevo Enfoque
 
-### Desigualdades en las competencias digitales:
+**Antes: ¿Tienes acceso a Internet?**
 
-Aunque muchas personas tienen acceso a tecnología, existe una gran disparidad en el nivel de competencias digitales. Grupos vulnerables (adultos mayores, personas con bajo nivel educativo o en zonas rurales) tienden a tener menores habilidades digitales.
+**Ahora: ¿Usas la tecnología de forma efectiva y productiva?**
 
-### Productividad digital como nuevo indicador:
+**La brecha digital ya no se mide solo por conexión, sino por el uso significativo de la tecnología.**
 
-Se debe evaluar si las personas pueden traducir el acceso en beneficios concretos, como empleo, educación, salud o participación cívica.
-**La productividad del uso digital debe convertirse en un criterio central para medir la inclusión digital real.**
 
-### Impacto en la calidad de vida:
+### 📉 2. Desigualdades en Competencias
 
-**El verdadero valor del acceso digital está en cómo contribuye a mejorar la calidad de vida de los usuarios.**
-Esto incluye desde oportunidades laborales hasta acceso a servicios públicos, información útil y redes de apoyo.
+**Grupos más afectados:**
 
-### Necesidad de políticas públicas más específicas:
+👵 Adultos mayores
 
-Las políticas no deben centrarse sólo en ofrecer conectividad, sino en formación en competencias digitales, adaptadas a cada grupo social.
-**Programas de alfabetización digital deben ir más allá de lo básico, incorporando habilidades para el trabajo, seguridad digital, pensamiento crítico y resolución de problemas.**
+🧑‍🏫 Personas con bajo nivel educativo
+
+🌄 Habitantes de zonas rurales
+
+**La mayoría tiene acceso, pero no todos saben aprovecharlo.**
+
+### 🚀 3. Productividad Digital: ¿El uso digital mejora tu vida?
+
+- Empleo
+
+- Educación
+
+- Salud
+
+- Participación ciudadana
+
+**Se necesita medir si el uso tecnológico genera beneficios reales.**
+
+### 💡 4. Impacto en la Calidad de Vida: Más que conectarse, se trata de:
+
+**- Acceder a servicios útiles**
+
+**- Encontrar oportunidades**
+
+**- Construir redes de apoyo**
+
+**El verdadero valor está en cómo la tecnología transforma vidas.**
+
+### 🏛️ 5. Políticas Públicas Inteligentes
+
+**Más que conexión: formación digital adaptada**
+
+Enfoque en:
+
+**✅ Habilidades para el trabajo**
+
+**✅ Seguridad digital**
+
+**✅ Pensamiento crítico**
+
+**✅ Resolución de problemas**
 
 ---
 
