@@ -54,35 +54,27 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 **Grupos más afectados:**
 
-👵 Adultos mayores
-
-🧑‍🏫 Personas con bajo nivel educativo
-
-🌄 Habitantes de zonas rurales
+- 👵 Adultos mayores
+- 🧑‍🏫 Personas con bajo nivel educativo
+- 🌄 Habitantes de zonas rurales
 
 **La mayoría tiene acceso, pero no todos saben aprovecharlo.**
 
 ### 🚀 3. Productividad Digital: ¿El uso digital mejora tu vida?
 
 - Empleo
-
 - Educación
-
 - Salud
-
 - Participación ciudadana
 
 **Se necesita medir si el uso tecnológico genera beneficios reales.**
 
 ### 💡 4. Impacto en la Calidad de Vida: Más que conectarse, se trata de:
 
-**- Acceder a servicios útiles**
-
-**- Encontrar oportunidades**
-
-**- Construir redes de apoyo**
-
-**El verdadero valor está en cómo la tecnología transforma vidas.**
+- **Acceder a servicios útiles**
+- **Encontrar oportunidades**
+- **Construir redes de apoyo**
+- **El verdadero valor está en cómo la tecnología transforma vidas.**
 
 ### 🏛️ 5. Políticas Públicas Inteligentes
 
