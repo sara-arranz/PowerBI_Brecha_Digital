@@ -1,0 +1,1901 @@
+Periodo,CCAA,tasa_paro,Tipo de equipamiento,% equipamiento
+2006,Andalucía,17.20380952380952,Viviendas con algún tipo de ordenador,50.6
+2006,Andalucía,17.20380952380952,Viviendas que disponen de acceso a Internet,30.7
+2006,Andalucía,17.20380952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",23.3
+2006,Andalucía,17.20380952380952,Viviendas con teléfono fijo,75.3
+2006,Andalucía,17.20380952380952,Viviendas con teléfono móvil,84.7
+2006,Aragón,9.25297619047619,Viviendas con algún tipo de ordenador,55.7
+2006,Aragón,9.25297619047619,Viviendas que disponen de acceso a Internet,38.8
+2006,Aragón,9.25297619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",28.3
+2006,Aragón,9.25297619047619,Viviendas con teléfono fijo,89.6
+2006,Aragón,9.25297619047619,Viviendas con teléfono móvil,84.6
+2006,Principado de Asturias,14.64642857142857,Viviendas con algún tipo de ordenador,53.7
+2006,Principado de Asturias,14.64642857142857,Viviendas que disponen de acceso a Internet,38.5
+2006,Principado de Asturias,14.64642857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",30.6
+2006,Principado de Asturias,14.64642857142857,Viviendas con teléfono fijo,86.8
+2006,Principado de Asturias,14.64642857142857,Viviendas con teléfono móvil,85.6
+2006,Islas Baleares,10.662619047619048,Viviendas con algún tipo de ordenador,55.4
+2006,Islas Baleares,10.662619047619048,Viviendas que disponen de acceso a Internet,40.9
+2006,Islas Baleares,10.662619047619048,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",32.8
+2006,Islas Baleares,10.662619047619048,Viviendas con teléfono fijo,82.4
+2006,Islas Baleares,10.662619047619048,Viviendas con teléfono móvil,88.3
+2006,Islas Canarias,17.98071428571429,Viviendas con algún tipo de ordenador,56.1
+2006,Islas Canarias,17.98071428571429,Viviendas que disponen de acceso a Internet,39.6
+2006,Islas Canarias,17.98071428571429,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",33.2
+2006,Islas Canarias,17.98071428571429,Viviendas con teléfono fijo,79.9
+2006,Islas Canarias,17.98071428571429,Viviendas con teléfono móvil,86.7
+2006,Cantabria,12.31132530120482,Viviendas con algún tipo de ordenador,57.5
+2006,Cantabria,12.31132530120482,Viviendas que disponen de acceso a Internet,42.2
+2006,Cantabria,12.31132530120482,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",31.6
+2006,Cantabria,12.31132530120482,Viviendas con teléfono fijo,84.5
+2006,Cantabria,12.31132530120482,Viviendas con teléfono móvil,86.4
+2006,Castilla y León,12.788333333333334,Viviendas con algún tipo de ordenador,52.0
+2006,Castilla y León,12.788333333333334,Viviendas que disponen de acceso a Internet,33.8
+2006,Castilla y León,12.788333333333334,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",23.1
+2006,Castilla y León,12.788333333333334,Viviendas con teléfono fijo,85.8
+2006,Castilla y León,12.788333333333334,Viviendas con teléfono móvil,83.3
+2006,Castilla-La Mancha,13.17452380952381,Viviendas con algún tipo de ordenador,50.3
+2006,Castilla-La Mancha,13.17452380952381,Viviendas que disponen de acceso a Internet,29.6
+2006,Castilla-La Mancha,13.17452380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",19.9
+2006,Castilla-La Mancha,13.17452380952381,Viviendas con teléfono fijo,77.4
+2006,Castilla-La Mancha,13.17452380952381,Viviendas con teléfono móvil,85.5
+2006,Cataluña,10.591666666666669,Viviendas con algún tipo de ordenador,60.2
+2006,Cataluña,10.591666666666669,Viviendas que disponen de acceso a Internet,45.6
+2006,Cataluña,10.591666666666669,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",35.8
+2006,Cataluña,10.591666666666669,Viviendas con teléfono fijo,85.5
+2006,Cataluña,10.591666666666669,Viviendas con teléfono móvil,89.4
+2006,Ceuta,35.82271604938271,Viviendas con algún tipo de ordenador,51.5
+2006,Ceuta,35.82271604938271,Viviendas que disponen de acceso a Internet,39.2
+2006,Ceuta,35.82271604938271,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",37.5
+2006,Ceuta,35.82271604938271,Viviendas con teléfono fijo,72.3
+2006,Ceuta,35.82271604938271,Viviendas con teléfono móvil,86.9
+2006,España,13.242261904761904,Viviendas con algún tipo de ordenador,55.9
+2006,España,13.242261904761904,Viviendas que disponen de acceso a Internet,38.0
+2006,España,13.242261904761904,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",28.5
+2006,España,13.242261904761904,Viviendas con teléfono fijo,82.8
+2006,España,13.242261904761904,Viviendas con teléfono móvil,87.2
+2006,Extremadura,19.15285714285714,Viviendas con algún tipo de ordenador,44.0
+2006,Extremadura,19.15285714285714,Viviendas que disponen de acceso a Internet,23.0
+2006,Extremadura,19.15285714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",15.6
+2006,Extremadura,19.15285714285714,Viviendas con teléfono fijo,77.8
+2006,Extremadura,19.15285714285714,Viviendas con teléfono móvil,83.0
+2006,Galicia,12.598928571428573,Viviendas con algún tipo de ordenador,50.0
+2006,Galicia,12.598928571428573,Viviendas que disponen de acceso a Internet,29.7
+2006,Galicia,12.598928571428573,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",19.5
+2006,Galicia,12.598928571428573,Viviendas con teléfono fijo,83.6
+2006,Galicia,12.598928571428573,Viviendas con teléfono móvil,82.0
+2006,La Rioja,10.474819277108434,Viviendas con algún tipo de ordenador,51.1
+2006,La Rioja,10.474819277108434,Viviendas que disponen de acceso a Internet,36.2
+2006,La Rioja,10.474819277108434,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",25.1
+2006,La Rioja,10.474819277108434,Viviendas con teléfono fijo,83.5
+2006,La Rioja,10.474819277108434,Viviendas con teléfono móvil,82.7
+2006,Comunidad de Madrid,11.040833333333332,Viviendas con algún tipo de ordenador,66.8
+2006,Comunidad de Madrid,11.040833333333332,Viviendas que disponen de acceso a Internet,49.4
+2006,Comunidad de Madrid,11.040833333333332,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",38.8
+2006,Comunidad de Madrid,11.040833333333332,Viviendas con teléfono fijo,90.1
+2006,Comunidad de Madrid,11.040833333333332,Viviendas con teléfono móvil,91.9
+2006,Melilla,19.79373333333333,Viviendas con algún tipo de ordenador,51.6
+2006,Melilla,19.79373333333333,Viviendas que disponen de acceso a Internet,45.6
+2006,Melilla,19.79373333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",38.4
+2006,Melilla,19.79373333333333,Viviendas con teléfono fijo,72.3
+2006,Melilla,19.79373333333333,Viviendas con teléfono móvil,84.4
+2006,Región de Murcia,12.742261904761904,Viviendas con algún tipo de ordenador,55.8
+2006,Región de Murcia,12.742261904761904,Viviendas que disponen de acceso a Internet,33.3
+2006,Región de Murcia,12.742261904761904,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",25.3
+2006,Región de Murcia,12.742261904761904,Viviendas con teléfono fijo,76.2
+2006,Región de Murcia,12.742261904761904,Viviendas con teléfono móvil,89.6
+2006,Comunidad Foral de Navarra,9.045119047619048,Viviendas con algún tipo de ordenador,56.5
+2006,Comunidad Foral de Navarra,9.045119047619048,Viviendas que disponen de acceso a Internet,40.8
+2006,Comunidad Foral de Navarra,9.045119047619048,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",25.5
+2006,Comunidad Foral de Navarra,9.045119047619048,Viviendas con teléfono fijo,91.1
+2006,Comunidad Foral de Navarra,9.045119047619048,Viviendas con teléfono móvil,86.4
+2006,País Vasco,14.90952380952381,Viviendas con algún tipo de ordenador,60.2
+2006,País Vasco,14.90952380952381,Viviendas que disponen de acceso a Internet,45.2
+2006,País Vasco,14.90952380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",29.1
+2006,País Vasco,14.90952380952381,Viviendas con teléfono fijo,91.5
+2006,País Vasco,14.90952380952381,Viviendas con teléfono móvil,91.2
+2006,Comunidad Valenciana,13.153928571428573,Viviendas con algún tipo de ordenador,52.3
+2006,Comunidad Valenciana,13.153928571428573,Viviendas que disponen de acceso a Internet,32.7
+2006,Comunidad Valenciana,13.153928571428573,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",23.7
+2006,Comunidad Valenciana,13.153928571428573,Viviendas con teléfono fijo,77.2
+2006,Comunidad Valenciana,13.153928571428573,Viviendas con teléfono móvil,87.8
+2007,Andalucía,17.896547619047617,Viviendas con algún tipo de ordenador,55.0
+2007,Andalucía,17.896547619047617,Viviendas que disponen de acceso a Internet,37.5
+2007,Andalucía,17.896547619047617,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",33.8
+2007,Andalucía,17.896547619047617,Viviendas con teléfono fijo,74.3
+2007,Andalucía,17.896547619047617,Viviendas con teléfono móvil,88.0
+2007,Aragón,9.583333333333334,Viviendas con algún tipo de ordenador,58.7
+2007,Aragón,9.583333333333334,Viviendas que disponen de acceso a Internet,46.6
+2007,Aragón,9.583333333333334,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",39.0
+2007,Aragón,9.583333333333334,Viviendas con teléfono fijo,88.7
+2007,Aragón,9.583333333333334,Viviendas con teléfono móvil,89.4
+2007,Principado de Asturias,13.362976190476193,Viviendas con algún tipo de ordenador,57.1
+2007,Principado de Asturias,13.362976190476193,Viviendas que disponen de acceso a Internet,40.6
+2007,Principado de Asturias,13.362976190476193,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",37.3
+2007,Principado de Asturias,13.362976190476193,Viviendas con teléfono fijo,84.3
+2007,Principado de Asturias,13.362976190476193,Viviendas con teléfono móvil,88.9
+2007,Islas Baleares,11.201904761904762,Viviendas con algún tipo de ordenador,59.5
+2007,Islas Baleares,11.201904761904762,Viviendas que disponen de acceso a Internet,48.1
+2007,Islas Baleares,11.201904761904762,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",44.6
+2007,Islas Baleares,11.201904761904762,Viviendas con teléfono fijo,82.1
+2007,Islas Baleares,11.201904761904762,Viviendas con teléfono móvil,89.4
+2007,Islas Canarias,16.71666666666667,Viviendas con algún tipo de ordenador,57.5
+2007,Islas Canarias,16.71666666666667,Viviendas que disponen de acceso a Internet,43.5
+2007,Islas Canarias,16.71666666666667,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",40.5
+2007,Islas Canarias,16.71666666666667,Viviendas con teléfono fijo,74.4
+2007,Islas Canarias,16.71666666666667,Viviendas con teléfono móvil,91.2
+2007,Cantabria,9.717380952380951,Viviendas con algún tipo de ordenador,58.2
+2007,Cantabria,9.717380952380951,Viviendas que disponen de acceso a Internet,45.2
+2007,Cantabria,9.717380952380951,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",40.6
+2007,Cantabria,9.717380952380951,Viviendas con teléfono fijo,82.1
+2007,Cantabria,9.717380952380951,Viviendas con teléfono móvil,90.1
+2007,Castilla y León,12.654285714285717,Viviendas con algún tipo de ordenador,56.3
+2007,Castilla y León,12.654285714285717,Viviendas que disponen de acceso a Internet,38.0
+2007,Castilla y León,12.654285714285717,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",31.6
+2007,Castilla y León,12.654285714285717,Viviendas con teléfono fijo,82.3
+2007,Castilla y León,12.654285714285717,Viviendas con teléfono móvil,85.6
+2007,Castilla-La Mancha,11.862023809523809,Viviendas con algún tipo de ordenador,50.5
+2007,Castilla-La Mancha,11.862023809523809,Viviendas que disponen de acceso a Internet,31.2
+2007,Castilla-La Mancha,11.862023809523809,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",26.9
+2007,Castilla-La Mancha,11.862023809523809,Viviendas con teléfono fijo,74.2
+2007,Castilla-La Mancha,11.862023809523809,Viviendas con teléfono móvil,84.0
+2007,Cataluña,10.2625,Viviendas con algún tipo de ordenador,64.3
+2007,Cataluña,10.2625,Viviendas que disponen de acceso a Internet,50.3
+2007,Cataluña,10.2625,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",45.1
+2007,Cataluña,10.2625,Viviendas con teléfono fijo,85.3
+2007,Cataluña,10.2625,Viviendas con teléfono móvil,92.0
+2007,Ceuta,28.61817073170732,Viviendas con algún tipo de ordenador,54.1
+2007,Ceuta,28.61817073170732,Viviendas que disponen de acceso a Internet,45.9
+2007,Ceuta,28.61817073170732,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",44.0
+2007,Ceuta,28.61817073170732,Viviendas con teléfono fijo,65.2
+2007,Ceuta,28.61817073170732,Viviendas con teléfono móvil,82.8
+2007,España,13.157261904761905,Viviendas con algún tipo de ordenador,58.9
+2007,España,13.157261904761905,Viviendas que disponen de acceso a Internet,43.5
+2007,España,13.157261904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",38.2
+2007,España,13.157261904761905,Viviendas con teléfono fijo,80.7
+2007,España,13.157261904761905,Viviendas con teléfono móvil,90.0
+2007,Extremadura,18.891666666666666,Viviendas con algún tipo de ordenador,44.9
+2007,Extremadura,18.891666666666666,Viviendas que disponen de acceso a Internet,28.9
+2007,Extremadura,18.891666666666666,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",22.3
+2007,Extremadura,18.891666666666666,Viviendas con teléfono fijo,72.0
+2007,Extremadura,18.891666666666666,Viviendas con teléfono móvil,86.7
+2007,Galicia,11.81452380952381,Viviendas con algún tipo de ordenador,50.8
+2007,Galicia,11.81452380952381,Viviendas que disponen de acceso a Internet,32.0
+2007,Galicia,11.81452380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",25.5
+2007,Galicia,11.81452380952381,Viviendas con teléfono fijo,80.4
+2007,Galicia,11.81452380952381,Viviendas con teléfono móvil,86.2
+2007,La Rioja,10.915119047619047,Viviendas con algún tipo de ordenador,54.0
+2007,La Rioja,10.915119047619047,Viviendas que disponen de acceso a Internet,41.2
+2007,La Rioja,10.915119047619047,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",35.6
+2007,La Rioja,10.915119047619047,Viviendas con teléfono fijo,82.6
+2007,La Rioja,10.915119047619047,Viviendas con teléfono móvil,85.6
+2007,Comunidad de Madrid,11.606785714285715,Viviendas con algún tipo de ordenador,69.4
+2007,Comunidad de Madrid,11.606785714285715,Viviendas que disponen de acceso a Internet,55.8
+2007,Comunidad de Madrid,11.606785714285715,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",51.1
+2007,Comunidad de Madrid,11.606785714285715,Viviendas con teléfono fijo,88.7
+2007,Comunidad de Madrid,11.606785714285715,Viviendas con teléfono móvil,94.2
+2007,Melilla,25.458717948717947,Viviendas con algún tipo de ordenador,60.9
+2007,Melilla,25.458717948717947,Viviendas que disponen de acceso a Internet,49.0
+2007,Melilla,25.458717948717947,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",46.7
+2007,Melilla,25.458717948717947,Viviendas con teléfono fijo,72.0
+2007,Melilla,25.458717948717947,Viviendas con teléfono móvil,92.6
+2007,Región de Murcia,12.155714285714286,Viviendas con algún tipo de ordenador,55.8
+2007,Región de Murcia,12.155714285714286,Viviendas que disponen de acceso a Internet,35.4
+2007,Región de Murcia,12.155714285714286,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",30.9
+2007,Región de Murcia,12.155714285714286,Viviendas con teléfono fijo,71.3
+2007,Región de Murcia,12.155714285714286,Viviendas con teléfono móvil,91.0
+2007,Comunidad Foral de Navarra,8.311190476190475,Viviendas con algún tipo de ordenador,62.5
+2007,Comunidad Foral de Navarra,8.311190476190475,Viviendas que disponen de acceso a Internet,48.4
+2007,Comunidad Foral de Navarra,8.311190476190475,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",39.6
+2007,Comunidad Foral de Navarra,8.311190476190475,Viviendas con teléfono fijo,89.8
+2007,Comunidad Foral de Navarra,8.311190476190475,Viviendas con teléfono móvil,89.7
+2007,País Vasco,12.296309523809525,Viviendas con algún tipo de ordenador,63.3
+2007,País Vasco,12.296309523809525,Viviendas que disponen de acceso a Internet,49.8
+2007,País Vasco,12.296309523809525,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",39.8
+2007,País Vasco,12.296309523809525,Viviendas con teléfono fijo,90.9
+2007,País Vasco,12.296309523809525,Viviendas con teléfono móvil,91.5
+2007,Comunidad Valenciana,13.60285714285714,Viviendas con algún tipo de ordenador,56.0
+2007,Comunidad Valenciana,13.60285714285714,Viviendas que disponen de acceso a Internet,41.4
+2007,Comunidad Valenciana,13.60285714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",35.5
+2007,Comunidad Valenciana,13.60285714285714,Viviendas con teléfono fijo,74.0
+2007,Comunidad Valenciana,13.60285714285714,Viviendas con teléfono móvil,91.9
+2008,Andalucía,24.05130952380952,Viviendas con algún tipo de ordenador,57.6
+2008,Andalucía,24.05130952380952,Viviendas que disponen de acceso a Internet,42.2
+2008,Andalucía,24.05130952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",37.5
+2008,Andalucía,24.05130952380952,Viviendas con teléfono fijo,73.2
+2008,Andalucía,24.05130952380952,Viviendas con teléfono móvil,89.1
+2008,Aragón,13.358571428571429,Viviendas con algún tipo de ordenador,63.2
+2008,Aragón,13.358571428571429,Viviendas que disponen de acceso a Internet,50.9
+2008,Aragón,13.358571428571429,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",44.4
+2008,Aragón,13.358571428571429,Viviendas con teléfono fijo,89.7
+2008,Aragón,13.358571428571429,Viviendas con teléfono móvil,89.0
+2008,Principado de Asturias,15.20345238095238,Viviendas con algún tipo de ordenador,60.8
+2008,Principado de Asturias,15.20345238095238,Viviendas que disponen de acceso a Internet,50.9
+2008,Principado de Asturias,15.20345238095238,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",45.7
+2008,Principado de Asturias,15.20345238095238,Viviendas con teléfono fijo,85.7
+2008,Principado de Asturias,15.20345238095238,Viviendas con teléfono móvil,91.6
+2008,Islas Baleares,16.903333333333336,Viviendas con algún tipo de ordenador,62.4
+2008,Islas Baleares,16.903333333333336,Viviendas que disponen de acceso a Internet,53.3
+2008,Islas Baleares,16.903333333333336,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",48.5
+2008,Islas Baleares,16.903333333333336,Viviendas con teléfono fijo,82.5
+2008,Islas Baleares,16.903333333333336,Viviendas con teléfono móvil,90.6
+2008,Islas Canarias,24.81809523809524,Viviendas con algún tipo de ordenador,63.5
+2008,Islas Canarias,24.81809523809524,Viviendas que disponen de acceso a Internet,50.5
+2008,Islas Canarias,24.81809523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",43.8
+2008,Islas Canarias,24.81809523809524,Viviendas con teléfono fijo,74.5
+2008,Islas Canarias,24.81809523809524,Viviendas con teléfono móvil,93.1
+2008,Cantabria,12.839761904761904,Viviendas con algún tipo de ordenador,63.8
+2008,Cantabria,12.839761904761904,Viviendas que disponen de acceso a Internet,51.2
+2008,Cantabria,12.839761904761904,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",47.1
+2008,Cantabria,12.839761904761904,Viviendas con teléfono fijo,80.7
+2008,Cantabria,12.839761904761904,Viviendas con teléfono móvil,92.8
+2008,Castilla y León,16.494285714285713,Viviendas con algún tipo de ordenador,56.9
+2008,Castilla y León,16.494285714285713,Viviendas que disponen de acceso a Internet,40.7
+2008,Castilla y León,16.494285714285713,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",34.0
+2008,Castilla y León,16.494285714285713,Viviendas con teléfono fijo,80.7
+2008,Castilla y León,16.494285714285713,Viviendas con teléfono móvil,88.2
+2008,Castilla-La Mancha,16.97047619047619,Viviendas con algún tipo de ordenador,53.8
+2008,Castilla-La Mancha,16.97047619047619,Viviendas que disponen de acceso a Internet,38.6
+2008,Castilla-La Mancha,16.97047619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",34.6
+2008,Castilla-La Mancha,16.97047619047619,Viviendas con teléfono fijo,74.0
+2008,Castilla-La Mancha,16.97047619047619,Viviendas con teléfono móvil,87.3
+2008,Cataluña,14.295,Viviendas con algún tipo de ordenador,70.0
+2008,Cataluña,14.295,Viviendas que disponen de acceso a Internet,59.2
+2008,Cataluña,14.295,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",51.7
+2008,Cataluña,14.295,Viviendas con teléfono fijo,86.5
+2008,Cataluña,14.295,Viviendas con teléfono móvil,93.8
+2008,Ceuta,26.45345238095238,Viviendas con algún tipo de ordenador,58.2
+2008,Ceuta,26.45345238095238,Viviendas que disponen de acceso a Internet,49.3
+2008,Ceuta,26.45345238095238,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",47.5
+2008,Ceuta,26.45345238095238,Viviendas con teléfono fijo,66.5
+2008,Ceuta,26.45345238095238,Viviendas con teléfono móvil,83.3
+2008,España,17.616190476190475,Viviendas con algún tipo de ordenador,62.2
+2008,España,17.616190476190475,Viviendas que disponen de acceso a Internet,49.9
+2008,España,17.616190476190475,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",43.6
+2008,España,17.616190476190475,Viviendas con teléfono fijo,80.8
+2008,España,17.616190476190475,Viviendas con teléfono móvil,91.4
+2008,Extremadura,22.52261904761905,Viviendas con algún tipo de ordenador,51.7
+2008,Extremadura,22.52261904761905,Viviendas que disponen de acceso a Internet,41.7
+2008,Extremadura,22.52261904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",34.3
+2008,Extremadura,22.52261904761905,Viviendas con teléfono fijo,72.1
+2008,Extremadura,22.52261904761905,Viviendas con teléfono móvil,90.5
+2008,Galicia,14.563928571428573,Viviendas con algún tipo de ordenador,52.4
+2008,Galicia,14.563928571428573,Viviendas que disponen de acceso a Internet,38.9
+2008,Galicia,14.563928571428573,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",31.2
+2008,Galicia,14.563928571428573,Viviendas con teléfono fijo,81.5
+2008,Galicia,14.563928571428573,Viviendas con teléfono móvil,86.3
+2008,La Rioja,15.780119047619047,Viviendas con algún tipo de ordenador,61.3
+2008,La Rioja,15.780119047619047,Viviendas que disponen de acceso a Internet,48.7
+2008,La Rioja,15.780119047619047,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",43.6
+2008,La Rioja,15.780119047619047,Viviendas con teléfono fijo,80.3
+2008,La Rioja,15.780119047619047,Viviendas con teléfono móvil,91.7
+2008,Comunidad de Madrid,14.789285714285716,Viviendas con algún tipo de ordenador,70.8
+2008,Comunidad de Madrid,14.789285714285716,Viviendas que disponen de acceso a Internet,61.2
+2008,Comunidad de Madrid,14.789285714285716,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",56.7
+2008,Comunidad de Madrid,14.789285714285716,Viviendas con teléfono fijo,88.1
+2008,Comunidad de Madrid,14.789285714285716,Viviendas con teléfono móvil,94.8
+2008,Melilla,31.791875,Viviendas con algún tipo de ordenador,63.6
+2008,Melilla,31.791875,Viviendas que disponen de acceso a Internet,51.1
+2008,Melilla,31.791875,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",46.6
+2008,Melilla,31.791875,Viviendas con teléfono fijo,71.0
+2008,Melilla,31.791875,Viviendas con teléfono móvil,93.5
+2008,Región de Murcia,16.950238095238095,Viviendas con algún tipo de ordenador,55.9
+2008,Región de Murcia,16.950238095238095,Viviendas que disponen de acceso a Internet,41.3
+2008,Región de Murcia,16.950238095238095,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",35.0
+2008,Región de Murcia,16.950238095238095,Viviendas con teléfono fijo,69.8
+2008,Región de Murcia,16.950238095238095,Viviendas con teléfono móvil,91.8
+2008,Comunidad Foral de Navarra,14.093333333333332,Viviendas con algún tipo de ordenador,66.0
+2008,Comunidad Foral de Navarra,14.093333333333332,Viviendas que disponen de acceso a Internet,55.5
+2008,Comunidad Foral de Navarra,14.093333333333332,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",43.8
+2008,Comunidad Foral de Navarra,14.093333333333332,Viviendas con teléfono fijo,87.8
+2008,Comunidad Foral de Navarra,14.093333333333332,Viviendas con teléfono móvil,92.7
+2008,País Vasco,13.801309523809524,Viviendas con algún tipo de ordenador,66.2
+2008,País Vasco,13.801309523809524,Viviendas que disponen de acceso a Internet,56.9
+2008,País Vasco,13.801309523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",43.6
+2008,País Vasco,13.801309523809524,Viviendas con teléfono fijo,92.5
+2008,País Vasco,13.801309523809524,Viviendas con teléfono móvil,91.8
+2008,Comunidad Valenciana,18.545357142857146,Viviendas con algún tipo de ordenador,59.4
+2008,Comunidad Valenciana,18.545357142857146,Viviendas que disponen de acceso a Internet,47.2
+2008,Comunidad Valenciana,18.545357142857146,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",41.5
+2008,Comunidad Valenciana,18.545357142857146,Viviendas con teléfono fijo,75.2
+2008,Comunidad Valenciana,18.545357142857146,Viviendas con teléfono móvil,92.6
+2009,Andalucía,33.92714285714286,Viviendas con algún tipo de ordenador,61.0
+2009,Andalucía,33.92714285714286,Viviendas que disponen de acceso a Internet,47.3
+2009,Andalucía,33.92714285714286,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",45.3
+2009,Andalucía,33.92714285714286,Viviendas con teléfono fijo,71.7
+2009,Andalucía,33.92714285714286,Viviendas con teléfono móvil,91.6
+2009,Aragón,20.525952380952383,Viviendas con algún tipo de ordenador,66.9
+2009,Aragón,20.525952380952383,Viviendas que disponen de acceso a Internet,52.9
+2009,Aragón,20.525952380952383,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",49.6
+2009,Aragón,20.525952380952383,Viviendas con teléfono fijo,87.5
+2009,Aragón,20.525952380952383,Viviendas con teléfono móvil,90.2
+2009,Principado de Asturias,24.250119047619048,Viviendas con algún tipo de ordenador,62.3
+2009,Principado de Asturias,24.250119047619048,Viviendas que disponen de acceso a Internet,52.4
+2009,Principado de Asturias,24.250119047619048,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",48.6
+2009,Principado de Asturias,24.250119047619048,Viviendas con teléfono fijo,83.0
+2009,Principado de Asturias,24.250119047619048,Viviendas con teléfono móvil,93.3
+2009,Islas Baleares,24.91428571428572,Viviendas con algún tipo de ordenador,66.8
+2009,Islas Baleares,24.91428571428572,Viviendas que disponen de acceso a Internet,59.0
+2009,Islas Baleares,24.91428571428572,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",57.3
+2009,Islas Baleares,24.91428571428572,Viviendas con teléfono fijo,85.7
+2009,Islas Baleares,24.91428571428572,Viviendas con teléfono móvil,93.8
+2009,Islas Canarias,34.968809523809526,Viviendas con algún tipo de ordenador,64.8
+2009,Islas Canarias,34.968809523809526,Viviendas que disponen de acceso a Internet,52.6
+2009,Islas Canarias,34.968809523809526,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",50.9
+2009,Islas Canarias,34.968809523809526,Viviendas con teléfono fijo,74.7
+2009,Islas Canarias,34.968809523809526,Viviendas con teléfono móvil,94.1
+2009,Cantabria,20.61904761904762,Viviendas con algún tipo de ordenador,64.0
+2009,Cantabria,20.61904761904762,Viviendas que disponen de acceso a Internet,54.2
+2009,Cantabria,20.61904761904762,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",52.7
+2009,Cantabria,20.61904761904762,Viviendas con teléfono fijo,83.2
+2009,Cantabria,20.61904761904762,Viviendas con teléfono móvil,94.8
+2009,Castilla y León,22.992738095238096,Viviendas con algún tipo de ordenador,60.5
+2009,Castilla y León,22.992738095238096,Viviendas que disponen de acceso a Internet,44.3
+2009,Castilla y León,22.992738095238096,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",40.1
+2009,Castilla y León,22.992738095238096,Viviendas con teléfono fijo,81.7
+2009,Castilla y León,22.992738095238096,Viviendas con teléfono móvil,89.8
+2009,Castilla-La Mancha,26.74702380952381,Viviendas con algún tipo de ordenador,58.1
+2009,Castilla-La Mancha,26.74702380952381,Viviendas que disponen de acceso a Internet,43.9
+2009,Castilla-La Mancha,26.74702380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",41.9
+2009,Castilla-La Mancha,26.74702380952381,Viviendas con teléfono fijo,74.7
+2009,Castilla-La Mancha,26.74702380952381,Viviendas con teléfono móvil,89.9
+2009,Cataluña,25.36380952380952,Viviendas con algún tipo de ordenador,71.9
+2009,Cataluña,25.36380952380952,Viviendas que disponen de acceso a Internet,61.8
+2009,Cataluña,25.36380952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",59.5
+2009,Cataluña,25.36380952380952,Viviendas con teléfono fijo,86.4
+2009,Cataluña,25.36380952380952,Viviendas con teléfono móvil,94.2
+2009,Ceuta,28.443703703703704,Viviendas con algún tipo de ordenador,58.6
+2009,Ceuta,28.443703703703704,Viviendas que disponen de acceso a Internet,47.9
+2009,Ceuta,28.443703703703704,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",46.7
+2009,Ceuta,28.443703703703704,Viviendas con teléfono fijo,68.6
+2009,Ceuta,28.443703703703704,Viviendas con teléfono móvil,90.8
+2009,España,26.851547619047626,Viviendas con algún tipo de ordenador,65.1
+2009,España,26.851547619047626,Viviendas que disponen de acceso a Internet,52.9
+2009,España,26.851547619047626,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",50.3
+2009,España,26.851547619047626,Viviendas con teléfono fijo,79.8
+2009,España,26.851547619047626,Viviendas con teléfono móvil,93.0
+2009,Extremadura,30.42690476190476,Viviendas con algún tipo de ordenador,56.9
+2009,Extremadura,30.42690476190476,Viviendas que disponen de acceso a Internet,40.4
+2009,Extremadura,30.42690476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",38.1
+2009,Extremadura,30.42690476190476,Viviendas con teléfono fijo,67.4
+2009,Extremadura,30.42690476190476,Viviendas con teléfono móvil,91.2
+2009,Galicia,20.50202380952381,Viviendas con algún tipo de ordenador,57.9
+2009,Galicia,20.50202380952381,Viviendas que disponen de acceso a Internet,41.8
+2009,Galicia,20.50202380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",37.8
+2009,Galicia,20.50202380952381,Viviendas con teléfono fijo,80.6
+2009,Galicia,20.50202380952381,Viviendas con teléfono móvil,89.5
+2009,La Rioja,22.9,Viviendas con algún tipo de ordenador,60.0
+2009,La Rioja,22.9,Viviendas que disponen de acceso a Internet,48.7
+2009,La Rioja,22.9,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",45.7
+2009,La Rioja,22.9,Viviendas con teléfono fijo,78.5
+2009,La Rioja,22.9,Viviendas con teléfono móvil,91.0
+2009,Comunidad de Madrid,23.60083333333333,Viviendas con algún tipo de ordenador,71.9
+2009,Comunidad de Madrid,23.60083333333333,Viviendas que disponen de acceso a Internet,63.5
+2009,Comunidad de Madrid,23.60083333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",61.7
+2009,Comunidad de Madrid,23.60083333333333,Viviendas con teléfono fijo,88.3
+2009,Comunidad de Madrid,23.60083333333333,Viviendas con teléfono móvil,95.9
+2009,Melilla,32.29246575342466,Viviendas con algún tipo de ordenador,67.7
+2009,Melilla,32.29246575342466,Viviendas que disponen de acceso a Internet,51.0
+2009,Melilla,32.29246575342466,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",51.0
+2009,Melilla,32.29246575342466,Viviendas con teléfono fijo,67.1
+2009,Melilla,32.29246575342466,Viviendas con teléfono móvil,96.8
+2009,Región de Murcia,26.452738095238097,Viviendas con algún tipo de ordenador,62.1
+2009,Región de Murcia,26.452738095238097,Viviendas que disponen de acceso a Internet,46.3
+2009,Región de Murcia,26.452738095238097,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",43.8
+2009,Región de Murcia,26.452738095238097,Viviendas con teléfono fijo,66.4
+2009,Región de Murcia,26.452738095238097,Viviendas con teléfono móvil,93.5
+2009,Comunidad Foral de Navarra,19.47440476190476,Viviendas con algún tipo de ordenador,69.6
+2009,Comunidad Foral de Navarra,19.47440476190476,Viviendas que disponen de acceso a Internet,56.5
+2009,Comunidad Foral de Navarra,19.47440476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",51.4
+2009,Comunidad Foral de Navarra,19.47440476190476,Viviendas con teléfono fijo,86.5
+2009,Comunidad Foral de Navarra,19.47440476190476,Viviendas con teléfono móvil,94.6
+2009,País Vasco,20.18880952380952,Viviendas con algún tipo de ordenador,68.1
+2009,País Vasco,20.18880952380952,Viviendas que disponen de acceso a Internet,59.6
+2009,País Vasco,20.18880952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",55.0
+2009,País Vasco,20.18880952380952,Viviendas con teléfono fijo,90.0
+2009,País Vasco,20.18880952380952,Viviendas con teléfono móvil,94.6
+2009,Comunidad Valenciana,29.24011904761905,Viviendas con algún tipo de ordenador,62.6
+2009,Comunidad Valenciana,29.24011904761905,Viviendas que disponen de acceso a Internet,48.9
+2009,Comunidad Valenciana,29.24011904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",46.0
+2009,Comunidad Valenciana,29.24011904761905,Viviendas con teléfono fijo,71.3
+2009,Comunidad Valenciana,29.24011904761905,Viviendas con teléfono móvil,93.5
+2010,Andalucía,37.6927380952381,Viviendas con algún tipo de ordenador,65.0
+2010,Andalucía,37.6927380952381,Viviendas que disponen de acceso a Internet,53.1
+2010,Andalucía,37.6927380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",51.5
+2010,Andalucía,37.6927380952381,Viviendas con teléfono fijo,72.9
+2010,Andalucía,37.6927380952381,Viviendas con teléfono móvil,93.0
+2010,Aragón,22.8725,Viviendas con algún tipo de ordenador,68.3
+2010,Aragón,22.8725,Viviendas que disponen de acceso a Internet,59.0
+2010,Aragón,22.8725,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",56.9
+2010,Aragón,22.8725,Viviendas con teléfono fijo,84.6
+2010,Aragón,22.8725,Viviendas con teléfono móvil,94.7
+2010,Principado de Asturias,25.869880952380957,Viviendas con algún tipo de ordenador,64.8
+2010,Principado de Asturias,25.869880952380957,Viviendas que disponen de acceso a Internet,57.3
+2010,Principado de Asturias,25.869880952380957,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",55.0
+2010,Principado de Asturias,25.869880952380957,Viviendas con teléfono fijo,83.0
+2010,Principado de Asturias,25.869880952380957,Viviendas con teléfono móvil,94.4
+2010,Islas Baleares,31.41321428571429,Viviendas con algún tipo de ordenador,73.2
+2010,Islas Baleares,31.41321428571429,Viviendas que disponen de acceso a Internet,65.1
+2010,Islas Baleares,31.41321428571429,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",63.4
+2010,Islas Baleares,31.41321428571429,Viviendas con teléfono fijo,84.3
+2010,Islas Baleares,31.41321428571429,Viviendas con teléfono móvil,93.8
+2010,Islas Canarias,38.766547619047614,Viviendas con algún tipo de ordenador,65.3
+2010,Islas Canarias,38.766547619047614,Viviendas que disponen de acceso a Internet,56.7
+2010,Islas Canarias,38.766547619047614,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",54.8
+2010,Islas Canarias,38.766547619047614,Viviendas con teléfono fijo,73.9
+2010,Islas Canarias,38.766547619047614,Viviendas con teléfono móvil,93.6
+2010,Cantabria,24.46595238095238,Viviendas con algún tipo de ordenador,65.7
+2010,Cantabria,24.46595238095238,Viviendas que disponen de acceso a Internet,56.3
+2010,Cantabria,24.46595238095238,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",54.7
+2010,Cantabria,24.46595238095238,Viviendas con teléfono fijo,83.5
+2010,Cantabria,24.46595238095238,Viviendas con teléfono móvil,94.8
+2010,Castilla y León,24.162738095238097,Viviendas con algún tipo de ordenador,62.6
+2010,Castilla y León,24.162738095238097,Viviendas que disponen de acceso a Internet,49.1
+2010,Castilla y León,24.162738095238097,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",46.0
+2010,Castilla y León,24.162738095238097,Viviendas con teléfono fijo,81.4
+2010,Castilla y León,24.162738095238097,Viviendas con teléfono móvil,90.6
+2010,Castilla-La Mancha,31.293571428571425,Viviendas con algún tipo de ordenador,64.5
+2010,Castilla-La Mancha,31.293571428571425,Viviendas que disponen de acceso a Internet,52.0
+2010,Castilla-La Mancha,31.293571428571425,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",50.4
+2010,Castilla-La Mancha,31.293571428571425,Viviendas con teléfono fijo,74.3
+2010,Castilla-La Mancha,31.293571428571425,Viviendas con teléfono móvil,92.4
+2010,Cataluña,27.78440476190476,Viviendas con algún tipo de ordenador,71.6
+2010,Cataluña,27.78440476190476,Viviendas que disponen de acceso a Internet,66.9
+2010,Cataluña,27.78440476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",65.7
+2010,Cataluña,27.78440476190476,Viviendas con teléfono fijo,87.3
+2010,Cataluña,27.78440476190476,Viviendas con teléfono móvil,94.7
+2010,Ceuta,41.573375,Viviendas con algún tipo de ordenador,65.3
+2010,Ceuta,41.573375,Viviendas que disponen de acceso a Internet,63.4
+2010,Ceuta,41.573375,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",62.1
+2010,Ceuta,41.573375,Viviendas con teléfono fijo,74.7
+2010,Ceuta,41.573375,Viviendas con teléfono móvil,87.9
+2010,España,29.89714285714286,Viviendas con algún tipo de ordenador,67.4
+2010,España,29.89714285714286,Viviendas que disponen de acceso a Internet,57.8
+2010,España,29.89714285714286,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",56.1
+2010,España,29.89714285714286,Viviendas con teléfono fijo,79.8
+2010,España,29.89714285714286,Viviendas con teléfono móvil,94.2
+2010,Extremadura,32.58535714285714,Viviendas con algún tipo de ordenador,59.1
+2010,Extremadura,32.58535714285714,Viviendas que disponen de acceso a Internet,46.0
+2010,Extremadura,32.58535714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",44.5
+2010,Extremadura,32.58535714285714,Viviendas con teléfono fijo,68.0
+2010,Extremadura,32.58535714285714,Viviendas con teléfono móvil,91.4
+2010,Galicia,24.364761904761902,Viviendas con algún tipo de ordenador,60.7
+2010,Galicia,24.364761904761902,Viviendas que disponen de acceso a Internet,48.3
+2010,Galicia,24.364761904761902,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",45.9
+2010,Galicia,24.364761904761902,Viviendas con teléfono fijo,78.3
+2010,Galicia,24.364761904761902,Viviendas con teléfono móvil,91.4
+2010,La Rioja,26.432380952380957,Viviendas con algún tipo de ordenador,62.6
+2010,La Rioja,26.432380952380957,Viviendas que disponen de acceso a Internet,53.9
+2010,La Rioja,26.432380952380957,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",53.0
+2010,La Rioja,26.432380952380957,Viviendas con teléfono fijo,74.4
+2010,La Rioja,26.432380952380957,Viviendas con teléfono móvil,94.5
+2010,Comunidad de Madrid,26.147261904761905,Viviendas con algún tipo de ordenador,73.9
+2010,Comunidad de Madrid,26.147261904761905,Viviendas que disponen de acceso a Internet,66.0
+2010,Comunidad de Madrid,26.147261904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",65.1
+2010,Comunidad de Madrid,26.147261904761905,Viviendas con teléfono fijo,88.9
+2010,Comunidad de Madrid,26.147261904761905,Viviendas con teléfono móvil,96.6
+2010,Melilla,36.74506493506493,Viviendas con algún tipo de ordenador,77.3
+2010,Melilla,36.74506493506493,Viviendas que disponen de acceso a Internet,69.4
+2010,Melilla,36.74506493506493,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",67.1
+2010,Melilla,36.74506493506493,Viviendas con teléfono fijo,71.0
+2010,Melilla,36.74506493506493,Viviendas con teléfono móvil,90.5
+2010,Región de Murcia,29.56547619047619,Viviendas con algún tipo de ordenador,66.4
+2010,Región de Murcia,29.56547619047619,Viviendas que disponen de acceso a Internet,52.6
+2010,Región de Murcia,29.56547619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",50.5
+2010,Región de Murcia,29.56547619047619,Viviendas con teléfono fijo,65.2
+2010,Región de Murcia,29.56547619047619,Viviendas con teléfono móvil,95.5
+2010,Comunidad Foral de Navarra,20.60440476190476,Viviendas con algún tipo de ordenador,71.2
+2010,Comunidad Foral de Navarra,20.60440476190476,Viviendas que disponen de acceso a Internet,61.1
+2010,Comunidad Foral de Navarra,20.60440476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",58.2
+2010,Comunidad Foral de Navarra,20.60440476190476,Viviendas con teléfono fijo,84.1
+2010,Comunidad Foral de Navarra,20.60440476190476,Viviendas con teléfono móvil,95.9
+2010,País Vasco,19.519285714285715,Viviendas con algún tipo de ordenador,71.4
+2010,País Vasco,19.519285714285715,Viviendas que disponen de acceso a Internet,63.9
+2010,País Vasco,19.519285714285715,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",62.5
+2010,País Vasco,19.519285714285715,Viviendas con teléfono fijo,89.5
+2010,País Vasco,19.519285714285715,Viviendas con teléfono móvil,95.1
+2010,Comunidad Valenciana,32.8072619047619,Viviendas con algún tipo de ordenador,64.2
+2010,Comunidad Valenciana,32.8072619047619,Viviendas que disponen de acceso a Internet,52.8
+2010,Comunidad Valenciana,32.8072619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",50.8
+2010,Comunidad Valenciana,32.8072619047619,Viviendas con teléfono fijo,71.6
+2010,Comunidad Valenciana,32.8072619047619,Viviendas con teléfono móvil,96.4
+2011,Andalucía,40.336309523809526,Viviendas con algún tipo de ordenador,68.1
+2011,Andalucía,40.336309523809526,Viviendas que disponen de acceso a Internet,58.2
+2011,Andalucía,40.336309523809526,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",55.0
+2011,Andalucía,40.336309523809526,Viviendas con teléfono fijo,72.8
+2011,Andalucía,40.336309523809526,Viviendas con teléfono móvil,93.3
+2011,Aragón,28.27940476190476,Viviendas con algún tipo de ordenador,69.7
+2011,Aragón,28.27940476190476,Viviendas que disponen de acceso a Internet,61.8
+2011,Aragón,28.27940476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",60.9
+2011,Aragón,28.27940476190476,Viviendas con teléfono fijo,85.1
+2011,Aragón,28.27940476190476,Viviendas con teléfono móvil,93.4
+2011,Principado de Asturias,31.057261904761905,Viviendas con algún tipo de ordenador,66.9
+2011,Principado de Asturias,31.057261904761905,Viviendas que disponen de acceso a Internet,60.9
+2011,Principado de Asturias,31.057261904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",59.4
+2011,Principado de Asturias,31.057261904761905,Viviendas con teléfono fijo,80.0
+2011,Principado de Asturias,31.057261904761905,Viviendas con teléfono móvil,93.9
+2011,Islas Baleares,32.99559523809524,Viviendas con algún tipo de ordenador,73.9
+2011,Islas Baleares,32.99559523809524,Viviendas que disponen de acceso a Internet,68.7
+2011,Islas Baleares,32.99559523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",66.2
+2011,Islas Baleares,32.99559523809524,Viviendas con teléfono fijo,84.1
+2011,Islas Baleares,32.99559523809524,Viviendas con teléfono móvil,95.9
+2011,Islas Canarias,39.245714285714286,Viviendas con algún tipo de ordenador,68.6
+2011,Islas Canarias,39.245714285714286,Viviendas que disponen de acceso a Internet,60.4
+2011,Islas Canarias,39.245714285714286,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",59.0
+2011,Islas Canarias,39.245714285714286,Viviendas con teléfono fijo,75.9
+2011,Islas Canarias,39.245714285714286,Viviendas con teléfono móvil,93.7
+2011,Cantabria,26.80369047619048,Viviendas con algún tipo de ordenador,71.7
+2011,Cantabria,26.80369047619048,Viviendas que disponen de acceso a Internet,64.6
+2011,Cantabria,26.80369047619048,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",63.6
+2011,Cantabria,26.80369047619048,Viviendas con teléfono fijo,81.6
+2011,Cantabria,26.80369047619048,Viviendas con teléfono móvil,94.9
+2011,Castilla y León,26.612857142857145,Viviendas con algún tipo de ordenador,64.7
+2011,Castilla y León,26.612857142857145,Viviendas que disponen de acceso a Internet,56.1
+2011,Castilla y León,26.612857142857145,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",53.3
+2011,Castilla y León,26.612857142857145,Viviendas con teléfono fijo,80.9
+2011,Castilla y León,26.612857142857145,Viviendas con teléfono móvil,93.2
+2011,Castilla-La Mancha,33.851309523809526,Viviendas con algún tipo de ordenador,68.4
+2011,Castilla-La Mancha,33.851309523809526,Viviendas que disponen de acceso a Internet,58.4
+2011,Castilla-La Mancha,33.851309523809526,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",56.2
+2011,Castilla-La Mancha,33.851309523809526,Viviendas con teléfono fijo,75.9
+2011,Castilla-La Mancha,33.851309523809526,Viviendas con teléfono móvil,94.4
+2011,Cataluña,30.26559523809524,Viviendas con algún tipo de ordenador,74.9
+2011,Cataluña,30.26559523809524,Viviendas que disponen de acceso a Internet,70.1
+2011,Cataluña,30.26559523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",68.3
+2011,Cataluña,30.26559523809524,Viviendas con teléfono fijo,86.8
+2011,Cataluña,30.26559523809524,Viviendas con teléfono móvil,95.8
+2011,Ceuta,43.913373493975904,Viviendas con algún tipo de ordenador,70.7
+2011,Ceuta,43.913373493975904,Viviendas que disponen de acceso a Internet,67.9
+2011,Ceuta,43.913373493975904,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",65.2
+2011,Ceuta,43.913373493975904,Viviendas con teléfono fijo,84.9
+2011,Ceuta,43.913373493975904,Viviendas con teléfono móvil,92.5
+2011,España,32.51535714285714,Viviendas con algún tipo de ordenador,70.3
+2011,España,32.51535714285714,Viviendas que disponen de acceso a Internet,62.7
+2011,España,32.51535714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",60.8
+2011,España,32.51535714285714,Viviendas con teléfono fijo,80.1
+2011,España,32.51535714285714,Viviendas con teléfono móvil,94.7
+2011,Extremadura,36.01285714285714,Viviendas con algún tipo de ordenador,61.3
+2011,Extremadura,36.01285714285714,Viviendas que disponen de acceso a Internet,53.0
+2011,Extremadura,36.01285714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",50.8
+2011,Extremadura,36.01285714285714,Viviendas con teléfono fijo,68.4
+2011,Extremadura,36.01285714285714,Viviendas con teléfono móvil,91.5
+2011,Galicia,26.085,Viviendas con algún tipo de ordenador,64.5
+2011,Galicia,26.085,Viviendas que disponen de acceso a Internet,52.7
+2011,Galicia,26.085,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",51.0
+2011,Galicia,26.085,Viviendas con teléfono fijo,79.3
+2011,Galicia,26.085,Viviendas con teléfono móvil,92.0
+2011,La Rioja,30.873809523809523,Viviendas con algún tipo de ordenador,67.3
+2011,La Rioja,30.873809523809523,Viviendas que disponen de acceso a Internet,59.3
+2011,La Rioja,30.873809523809523,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",55.6
+2011,La Rioja,30.873809523809523,Viviendas con teléfono fijo,74.9
+2011,La Rioja,30.873809523809523,Viviendas con teléfono móvil,96.2
+2011,Comunidad de Madrid,28.21190476190477,Viviendas con algún tipo de ordenador,76.5
+2011,Comunidad de Madrid,28.21190476190477,Viviendas que disponen de acceso a Internet,71.4
+2011,Comunidad de Madrid,28.21190476190477,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",70.5
+2011,Comunidad de Madrid,28.21190476190477,Viviendas con teléfono fijo,91.0
+2011,Comunidad de Madrid,28.21190476190477,Viviendas con teléfono móvil,96.2
+2011,Melilla,39.99265060240964,Viviendas con algún tipo de ordenador,80.0
+2011,Melilla,39.99265060240964,Viviendas que disponen de acceso a Internet,63.3
+2011,Melilla,39.99265060240964,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",59.8
+2011,Melilla,39.99265060240964,Viviendas con teléfono fijo,65.9
+2011,Melilla,39.99265060240964,Viviendas con teléfono móvil,100.0
+2011,Región de Murcia,35.33940476190477,Viviendas con algún tipo de ordenador,68.7
+2011,Región de Murcia,35.33940476190477,Viviendas que disponen de acceso a Internet,58.8
+2011,Región de Murcia,35.33940476190477,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",57.9
+2011,Región de Murcia,35.33940476190477,Viviendas con teléfono fijo,66.1
+2011,Región de Murcia,35.33940476190477,Viviendas con teléfono móvil,96.6
+2011,Comunidad Foral de Navarra,21.770357142857144,Viviendas con algún tipo de ordenador,72.7
+2011,Comunidad Foral de Navarra,21.770357142857144,Viviendas que disponen de acceso a Internet,65.7
+2011,Comunidad Foral de Navarra,21.770357142857144,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",62.1
+2011,Comunidad Foral de Navarra,21.770357142857144,Viviendas con teléfono fijo,83.3
+2011,Comunidad Foral de Navarra,21.770357142857144,Viviendas con teléfono móvil,96.4
+2011,País Vasco,22.895357142857144,Viviendas con algún tipo de ordenador,74.0
+2011,País Vasco,22.895357142857144,Viviendas que disponen de acceso a Internet,66.8
+2011,País Vasco,22.895357142857144,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",64.1
+2011,País Vasco,22.895357142857144,Viviendas con teléfono fijo,87.5
+2011,País Vasco,22.895357142857144,Viviendas con teléfono móvil,96.2
+2011,Comunidad Valenciana,35.72988095238095,Viviendas con algún tipo de ordenador,67.3
+2011,Comunidad Valenciana,35.72988095238095,Viviendas que disponen de acceso a Internet,59.0
+2011,Comunidad Valenciana,35.72988095238095,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",57.9
+2011,Comunidad Valenciana,35.72988095238095,Viviendas con teléfono fijo,72.0
+2011,Comunidad Valenciana,35.72988095238095,Viviendas con teléfono móvil,95.3
+2012,Andalucía,46.33178571428572,Viviendas con algún tipo de ordenador,71.2
+2012,Andalucía,46.33178571428572,Viviendas que disponen de acceso a Internet,63.3
+2012,Andalucía,46.33178571428572,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",61.3
+2012,Andalucía,46.33178571428572,Viviendas con teléfono fijo,73.5
+2012,Andalucía,46.33178571428572,Viviendas con teléfono móvil,94.7
+2012,Aragón,31.35214285714285,Viviendas con algún tipo de ordenador,71.9
+2012,Aragón,31.35214285714285,Viviendas que disponen de acceso a Internet,66.5
+2012,Aragón,31.35214285714285,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",65.9
+2012,Aragón,31.35214285714285,Viviendas con teléfono fijo,84.5
+2012,Aragón,31.35214285714285,Viviendas con teléfono móvil,95.5
+2012,Principado de Asturias,33.43964285714286,Viviendas con algún tipo de ordenador,70.3
+2012,Principado de Asturias,33.43964285714286,Viviendas que disponen de acceso a Internet,65.5
+2012,Principado de Asturias,33.43964285714286,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",65.1
+2012,Principado de Asturias,33.43964285714286,Viviendas con teléfono fijo,82.5
+2012,Principado de Asturias,33.43964285714286,Viviendas con teléfono móvil,94.5
+2012,Islas Baleares,35.57178571428572,Viviendas con algún tipo de ordenador,78.3
+2012,Islas Baleares,35.57178571428572,Viviendas que disponen de acceso a Internet,72.8
+2012,Islas Baleares,35.57178571428572,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",70.4
+2012,Islas Baleares,35.57178571428572,Viviendas con teléfono fijo,82.4
+2012,Islas Baleares,35.57178571428572,Viviendas con teléfono móvil,93.2
+2012,Islas Canarias,44.42285714285714,Viviendas con algún tipo de ordenador,71.9
+2012,Islas Canarias,44.42285714285714,Viviendas que disponen de acceso a Internet,63.9
+2012,Islas Canarias,44.42285714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",63.0
+2012,Islas Canarias,44.42285714285714,Viviendas con teléfono fijo,74.8
+2012,Islas Canarias,44.42285714285714,Viviendas con teléfono móvil,95.9
+2012,Cantabria,28.87309523809524,Viviendas con algún tipo de ordenador,72.6
+2012,Cantabria,28.87309523809524,Viviendas que disponen de acceso a Internet,66.9
+2012,Cantabria,28.87309523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",66.3
+2012,Cantabria,28.87309523809524,Viviendas con teléfono fijo,78.3
+2012,Cantabria,28.87309523809524,Viviendas con teléfono móvil,96.1
+2012,Castilla y León,33.417857142857144,Viviendas con algún tipo de ordenador,69.6
+2012,Castilla y León,33.417857142857144,Viviendas que disponen de acceso a Internet,62.9
+2012,Castilla y León,33.417857142857144,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",61.7
+2012,Castilla y León,33.417857142857144,Viviendas con teléfono fijo,80.7
+2012,Castilla y León,33.417857142857144,Viviendas con teléfono móvil,95.4
+2012,Castilla-La Mancha,40.987857142857145,Viviendas con algún tipo de ordenador,68.0
+2012,Castilla-La Mancha,40.987857142857145,Viviendas que disponen de acceso a Internet,60.6
+2012,Castilla-La Mancha,40.987857142857145,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",59.4
+2012,Castilla-La Mancha,40.987857142857145,Viviendas con teléfono fijo,76.6
+2012,Castilla-La Mancha,40.987857142857145,Viviendas con teléfono móvil,94.6
+2012,Cataluña,35.15988095238095,Viviendas con algún tipo de ordenador,75.2
+2012,Cataluña,35.15988095238095,Viviendas que disponen de acceso a Internet,70.3
+2012,Cataluña,35.15988095238095,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",69.3
+2012,Cataluña,35.15988095238095,Viviendas con teléfono fijo,82.1
+2012,Cataluña,35.15988095238095,Viviendas con teléfono móvil,96.6
+2012,Ceuta,50.45547619047619,Viviendas con algún tipo de ordenador,75.5
+2012,Ceuta,50.45547619047619,Viviendas que disponen de acceso a Internet,71.3
+2012,Ceuta,50.45547619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",71.3
+2012,Ceuta,50.45547619047619,Viviendas con teléfono fijo,70.3
+2012,Ceuta,50.45547619047619,Viviendas con teléfono móvil,81.3
+2012,España,37.44261904761905,Viviendas con algún tipo de ordenador,72.6
+2012,España,37.44261904761905,Viviendas que disponen de acceso a Internet,66.6
+2012,España,37.44261904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",65.5
+2012,España,37.44261904761905,Viviendas con teléfono fijo,79.2
+2012,España,37.44261904761905,Viviendas con teléfono móvil,95.6
+2012,Extremadura,45.42821428571428,Viviendas con algún tipo de ordenador,65.0
+2012,Extremadura,45.42821428571428,Viviendas que disponen de acceso a Internet,58.4
+2012,Extremadura,45.42821428571428,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",56.4
+2012,Extremadura,45.42821428571428,Viviendas con teléfono fijo,69.9
+2012,Extremadura,45.42821428571428,Viviendas con teléfono móvil,94.8
+2012,Galicia,30.97309523809524,Viviendas con algún tipo de ordenador,67.2
+2012,Galicia,30.97309523809524,Viviendas que disponen de acceso a Internet,62.3
+2012,Galicia,30.97309523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",61.6
+2012,Galicia,30.97309523809524,Viviendas con teléfono fijo,78.2
+2012,Galicia,30.97309523809524,Viviendas con teléfono móvil,94.6
+2012,La Rioja,33.134166666666665,Viviendas con algún tipo de ordenador,69.5
+2012,La Rioja,33.134166666666665,Viviendas que disponen de acceso a Internet,64.3
+2012,La Rioja,33.134166666666665,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",63.1
+2012,La Rioja,33.134166666666665,Viviendas con teléfono fijo,75.6
+2012,La Rioja,33.134166666666665,Viviendas con teléfono móvil,96.8
+2012,Comunidad de Madrid,33.25035714285715,Viviendas con algún tipo de ordenador,80.3
+2012,Comunidad de Madrid,33.25035714285715,Viviendas que disponen de acceso a Internet,77.3
+2012,Comunidad de Madrid,33.25035714285715,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",76.6
+2012,Comunidad de Madrid,33.25035714285715,Viviendas con teléfono fijo,91.1
+2012,Comunidad de Madrid,33.25035714285715,Viviendas con teléfono móvil,96.7
+2012,Melilla,40.03825,Viviendas con algún tipo de ordenador,71.4
+2012,Melilla,40.03825,Viviendas que disponen de acceso a Internet,64.5
+2012,Melilla,40.03825,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",64.5
+2012,Melilla,40.03825,Viviendas con teléfono fijo,70.5
+2012,Melilla,40.03825,Viviendas con teléfono móvil,91.0
+2012,Región de Murcia,38.046547619047615,Viviendas con algún tipo de ordenador,70.9
+2012,Región de Murcia,38.046547619047615,Viviendas que disponen de acceso a Internet,62.9
+2012,Región de Murcia,38.046547619047615,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",62.2
+2012,Región de Murcia,38.046547619047615,Viviendas con teléfono fijo,63.7
+2012,Región de Murcia,38.046547619047615,Viviendas con teléfono móvil,96.6
+2012,Comunidad Foral de Navarra,28.691190476190474,Viviendas con algún tipo de ordenador,74.5
+2012,Comunidad Foral de Navarra,28.691190476190474,Viviendas que disponen de acceso a Internet,68.2
+2012,Comunidad Foral de Navarra,28.691190476190474,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",67.7
+2012,Comunidad Foral de Navarra,28.691190476190474,Viviendas con teléfono fijo,84.0
+2012,Comunidad Foral de Navarra,28.691190476190474,Viviendas con teléfono móvil,95.3
+2012,País Vasco,28.720357142857143,Viviendas con algún tipo de ordenador,74.8
+2012,País Vasco,28.720357142857143,Viviendas que disponen de acceso a Internet,70.7
+2012,País Vasco,28.720357142857143,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",70.4
+2012,País Vasco,28.720357142857143,Viviendas con teléfono fijo,87.5
+2012,País Vasco,28.720357142857143,Viviendas con teléfono móvil,95.6
+2012,Comunidad Valenciana,38.10857142857143,Viviendas con algún tipo de ordenador,68.1
+2012,Comunidad Valenciana,38.10857142857143,Viviendas que disponen de acceso a Internet,60.1
+2012,Comunidad Valenciana,38.10857142857143,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",58.8
+2012,Comunidad Valenciana,38.10857142857143,Viviendas con teléfono fijo,70.7
+2012,Comunidad Valenciana,38.10857142857143,Viviendas con teléfono móvil,96.0
+2013,Andalucía,48.96083333333333,Viviendas con algún tipo de ordenador,71.1
+2013,Andalucía,48.96083333333333,Viviendas que disponen de acceso a Internet,66.3
+2013,Andalucía,48.96083333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",65.8
+2013,Andalucía,48.96083333333333,Viviendas con teléfono fijo,71.2
+2013,Andalucía,48.96083333333333,Viviendas con teléfono móvil,95.4
+2013,Aragón,35.97392857142857,Viviendas con algún tipo de ordenador,71.9
+2013,Aragón,35.97392857142857,Viviendas que disponen de acceso a Internet,67.6
+2013,Aragón,35.97392857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",67.0
+2013,Aragón,35.97392857142857,Viviendas con teléfono fijo,82.5
+2013,Aragón,35.97392857142857,Viviendas con teléfono móvil,96.2
+2013,Principado de Asturias,38.95166666666667,Viviendas con algún tipo de ordenador,73.3
+2013,Principado de Asturias,38.95166666666667,Viviendas que disponen de acceso a Internet,70.7
+2013,Principado de Asturias,38.95166666666667,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",69.8
+2013,Principado de Asturias,38.95166666666667,Viviendas con teléfono fijo,80.0
+2013,Principado de Asturias,38.95166666666667,Viviendas con teléfono móvil,94.6
+2013,Islas Baleares,33.09952380952381,Viviendas con algún tipo de ordenador,74.7
+2013,Islas Baleares,33.09952380952381,Viviendas que disponen de acceso a Internet,68.9
+2013,Islas Baleares,33.09952380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",67.8
+2013,Islas Baleares,33.09952380952381,Viviendas con teléfono fijo,79.0
+2013,Islas Baleares,33.09952380952381,Viviendas con teléfono móvil,95.5
+2013,Islas Canarias,47.272619047619045,Viviendas con algún tipo de ordenador,70.1
+2013,Islas Canarias,47.272619047619045,Viviendas que disponen de acceso a Internet,67.0
+2013,Islas Canarias,47.272619047619045,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",66.7
+2013,Islas Canarias,47.272619047619045,Viviendas con teléfono fijo,76.3
+2013,Islas Canarias,47.272619047619045,Viviendas con teléfono móvil,96.1
+2013,Cantabria,32.96392857142857,Viviendas con algún tipo de ordenador,75.8
+2013,Cantabria,32.96392857142857,Viviendas que disponen de acceso a Internet,74.6
+2013,Cantabria,32.96392857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",74.2
+2013,Cantabria,32.96392857142857,Viviendas con teléfono fijo,80.0
+2013,Cantabria,32.96392857142857,Viviendas con teléfono móvil,96.0
+2013,Castilla y León,35.351547619047615,Viviendas con algún tipo de ordenador,71.8
+2013,Castilla y León,35.351547619047615,Viviendas que disponen de acceso a Internet,67.0
+2013,Castilla y León,35.351547619047615,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",65.9
+2013,Castilla y León,35.351547619047615,Viviendas con teléfono fijo,82.3
+2013,Castilla y León,35.351547619047615,Viviendas con teléfono móvil,95.5
+2013,Castilla-La Mancha,44.14035714285714,Viviendas con algún tipo de ordenador,71.9
+2013,Castilla-La Mancha,44.14035714285714,Viviendas que disponen de acceso a Internet,63.4
+2013,Castilla-La Mancha,44.14035714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",62.9
+2013,Castilla-La Mancha,44.14035714285714,Viviendas con teléfono fijo,73.7
+2013,Castilla-La Mancha,44.14035714285714,Viviendas con teléfono móvil,94.9
+2013,Cataluña,35.665119047619044,Viviendas con algún tipo de ordenador,74.7
+2013,Cataluña,35.665119047619044,Viviendas que disponen de acceso a Internet,72.1
+2013,Cataluña,35.665119047619044,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",70.8
+2013,Cataluña,35.665119047619044,Viviendas con teléfono fijo,82.0
+2013,Cataluña,35.665119047619044,Viviendas con teléfono móvil,96.1
+2013,Ceuta,50.38464285714287,Viviendas con algún tipo de ordenador,85.0
+2013,Ceuta,50.38464285714287,Viviendas que disponen de acceso a Internet,81.4
+2013,Ceuta,50.38464285714287,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",81.4
+2013,Ceuta,50.38464285714287,Viviendas con teléfono fijo,80.4
+2013,Ceuta,50.38464285714287,Viviendas con teléfono móvil,97.5
+2013,España,39.315,Viviendas con algún tipo de ordenador,73.3
+2013,España,39.315,Viviendas que disponen de acceso a Internet,69.7
+2013,España,39.315,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",68.8
+2013,España,39.315,Viviendas con teléfono fijo,77.9
+2013,España,39.315,Viviendas con teléfono móvil,96.1
+2013,Extremadura,45.5572619047619,Viviendas con algún tipo de ordenador,66.6
+2013,Extremadura,45.5572619047619,Viviendas que disponen de acceso a Internet,63.0
+2013,Extremadura,45.5572619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",60.5
+2013,Extremadura,45.5572619047619,Viviendas con teléfono fijo,69.7
+2013,Extremadura,45.5572619047619,Viviendas con teléfono móvil,95.9
+2013,Galicia,34.56869047619048,Viviendas con algún tipo de ordenador,68.4
+2013,Galicia,34.56869047619048,Viviendas que disponen de acceso a Internet,64.6
+2013,Galicia,34.56869047619048,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",63.9
+2013,Galicia,34.56869047619048,Viviendas con teléfono fijo,79.1
+2013,Galicia,34.56869047619048,Viviendas con teléfono móvil,95.0
+2013,La Rioja,31.94345238095238,Viviendas con algún tipo de ordenador,71.8
+2013,La Rioja,31.94345238095238,Viviendas que disponen de acceso a Internet,64.8
+2013,La Rioja,31.94345238095238,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",63.4
+2013,La Rioja,31.94345238095238,Viviendas con teléfono fijo,73.5
+2013,La Rioja,31.94345238095238,Viviendas con teléfono móvil,96.9
+2013,Comunidad de Madrid,34.29940476190476,Viviendas con algún tipo de ordenador,82.5
+2013,Comunidad de Madrid,34.29940476190476,Viviendas que disponen de acceso a Internet,79.8
+2013,Comunidad de Madrid,34.29940476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.4
+2013,Comunidad de Madrid,34.29940476190476,Viviendas con teléfono fijo,90.7
+2013,Comunidad de Madrid,34.29940476190476,Viviendas con teléfono móvil,97.4
+2013,Melilla,40.08390243902439,Viviendas con algún tipo de ordenador,65.3
+2013,Melilla,40.08390243902439,Viviendas que disponen de acceso a Internet,66.6
+2013,Melilla,40.08390243902439,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",64.6
+2013,Melilla,40.08390243902439,Viviendas con teléfono fijo,60.6
+2013,Melilla,40.08390243902439,Viviendas con teléfono móvil,97.3
+2013,Región de Murcia,39.9247619047619,Viviendas con algún tipo de ordenador,70.4
+2013,Región de Murcia,39.9247619047619,Viviendas que disponen de acceso a Internet,66.3
+2013,Región de Murcia,39.9247619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",66.1
+2013,Región de Murcia,39.9247619047619,Viviendas con teléfono fijo,56.9
+2013,Región de Murcia,39.9247619047619,Viviendas con teléfono móvil,96.5
+2013,Comunidad Foral de Navarra,31.359166666666667,Viviendas con algún tipo de ordenador,72.4
+2013,Comunidad Foral de Navarra,31.359166666666667,Viviendas que disponen de acceso a Internet,71.5
+2013,Comunidad Foral de Navarra,31.359166666666667,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",70.6
+2013,Comunidad Foral de Navarra,31.359166666666667,Viviendas con teléfono fijo,86.2
+2013,Comunidad Foral de Navarra,31.359166666666667,Viviendas con teléfono móvil,95.9
+2013,País Vasco,30.12238095238095,Viviendas con algún tipo de ordenador,74.6
+2013,País Vasco,30.12238095238095,Viviendas que disponen de acceso a Internet,73.4
+2013,País Vasco,30.12238095238095,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",72.6
+2013,País Vasco,30.12238095238095,Viviendas con teléfono fijo,86.1
+2013,País Vasco,30.12238095238095,Viviendas con teléfono móvil,97.1
+2013,Comunidad Valenciana,40.18202380952381,Viviendas con algún tipo de ordenador,70.3
+2013,Comunidad Valenciana,40.18202380952381,Viviendas que disponen de acceso a Internet,67.1
+2013,Comunidad Valenciana,40.18202380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",66.4
+2013,Comunidad Valenciana,40.18202380952381,Viviendas con teléfono fijo,66.7
+2013,Comunidad Valenciana,40.18202380952381,Viviendas con teléfono móvil,97.0
+2014,Andalucía,46.24809523809524,Viviendas con algún tipo de ordenador,71.6
+2014,Andalucía,46.24809523809524,Viviendas que disponen de acceso a Internet,72.7
+2014,Andalucía,46.24809523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",69.9
+2014,Andalucía,46.24809523809524,Viviendas con teléfono fijo,71.6
+2014,Andalucía,46.24809523809524,Viviendas con teléfono móvil,95.3
+2014,Aragón,33.86392857142857,Viviendas con algún tipo de ordenador,74.4
+2014,Aragón,33.86392857142857,Viviendas que disponen de acceso a Internet,70.5
+2014,Aragón,33.86392857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",69.7
+2014,Aragón,33.86392857142857,Viviendas con teléfono fijo,85.0
+2014,Aragón,33.86392857142857,Viviendas con teléfono móvil,95.7
+2014,Principado de Asturias,31.69392857142857,Viviendas con algún tipo de ordenador,71.0
+2014,Principado de Asturias,31.69392857142857,Viviendas que disponen de acceso a Internet,72.8
+2014,Principado de Asturias,31.69392857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",72.2
+2014,Principado de Asturias,31.69392857142857,Viviendas con teléfono fijo,77.7
+2014,Principado de Asturias,31.69392857142857,Viviendas con teléfono móvil,97.0
+2014,Islas Baleares,32.700476190476195,Viviendas con algún tipo de ordenador,79.5
+2014,Islas Baleares,32.700476190476195,Viviendas que disponen de acceso a Internet,78.4
+2014,Islas Baleares,32.700476190476195,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",77.5
+2014,Islas Baleares,32.700476190476195,Viviendas con teléfono fijo,82.2
+2014,Islas Baleares,32.700476190476195,Viviendas con teléfono móvil,96.8
+2014,Islas Canarias,42.73630952380952,Viviendas con algún tipo de ordenador,72.3
+2014,Islas Canarias,42.73630952380952,Viviendas que disponen de acceso a Internet,72.6
+2014,Islas Canarias,42.73630952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",71.0
+2014,Islas Canarias,42.73630952380952,Viviendas con teléfono fijo,75.5
+2014,Islas Canarias,42.73630952380952,Viviendas con teléfono móvil,94.8
+2014,Cantabria,33.2510843373494,Viviendas con algún tipo de ordenador,74.6
+2014,Cantabria,33.2510843373494,Viviendas que disponen de acceso a Internet,73.9
+2014,Cantabria,33.2510843373494,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",72.4
+2014,Cantabria,33.2510843373494,Viviendas con teléfono fijo,80.3
+2014,Cantabria,33.2510843373494,Viviendas con teléfono móvil,96.6
+2014,Castilla y León,34.42071428571429,Viviendas con algún tipo de ordenador,72.6
+2014,Castilla y León,34.42071428571429,Viviendas que disponen de acceso a Internet,68.7
+2014,Castilla y León,34.42071428571429,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",67.6
+2014,Castilla y León,34.42071428571429,Viviendas con teléfono fijo,81.7
+2014,Castilla y León,34.42071428571429,Viviendas con teléfono móvil,94.5
+2014,Castilla-La Mancha,43.90535714285714,Viviendas con algún tipo de ordenador,69.9
+2014,Castilla-La Mancha,43.90535714285714,Viviendas que disponen de acceso a Internet,66.8
+2014,Castilla-La Mancha,43.90535714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",65.6
+2014,Castilla-La Mancha,43.90535714285714,Viviendas con teléfono fijo,73.9
+2014,Castilla-La Mancha,43.90535714285714,Viviendas con teléfono móvil,94.9
+2014,Cataluña,32.36047619047619,Viviendas con algún tipo de ordenador,78.7
+2014,Cataluña,32.36047619047619,Viviendas que disponen de acceso a Internet,77.6
+2014,Cataluña,32.36047619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",76.4
+2014,Cataluña,32.36047619047619,Viviendas con teléfono fijo,82.1
+2014,Cataluña,32.36047619047619,Viviendas con teléfono móvil,97.1
+2014,Ceuta,46.78144578313253,Viviendas con algún tipo de ordenador,80.3
+2014,Ceuta,46.78144578313253,Viviendas que disponen de acceso a Internet,81.3
+2014,Ceuta,46.78144578313253,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",81.3
+2014,Ceuta,46.78144578313253,Viviendas con teléfono fijo,76.9
+2014,Ceuta,46.78144578313253,Viviendas con teléfono móvil,96.6
+2014,España,37.33083333333333,Viviendas con algún tipo de ordenador,74.8
+2014,España,37.33083333333333,Viviendas que disponen de acceso a Internet,74.4
+2014,España,37.33083333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",73.0
+2014,España,37.33083333333333,Viviendas con teléfono fijo,78.2
+2014,España,37.33083333333333,Viviendas con teléfono móvil,96.4
+2014,Extremadura,41.77630952380952,Viviendas con algún tipo de ordenador,67.9
+2014,Extremadura,41.77630952380952,Viviendas que disponen de acceso a Internet,68.0
+2014,Extremadura,41.77630952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",62.2
+2014,Extremadura,41.77630952380952,Viviendas con teléfono fijo,70.4
+2014,Extremadura,41.77630952380952,Viviendas con teléfono móvil,94.4
+2014,Galicia,34.35333333333333,Viviendas con algún tipo de ordenador,72.6
+2014,Galicia,34.35333333333333,Viviendas que disponen de acceso a Internet,69.6
+2014,Galicia,34.35333333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",69.1
+2014,Galicia,34.35333333333333,Viviendas con teléfono fijo,79.2
+2014,Galicia,34.35333333333333,Viviendas con teléfono móvil,95.4
+2014,La Rioja,31.435714285714283,Viviendas con algún tipo de ordenador,72.0
+2014,La Rioja,31.435714285714283,Viviendas que disponen de acceso a Internet,70.0
+2014,La Rioja,31.435714285714283,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",68.5
+2014,La Rioja,31.435714285714283,Viviendas con teléfono fijo,76.8
+2014,La Rioja,31.435714285714283,Viviendas con teléfono móvil,96.6
+2014,Comunidad de Madrid,32.926904761904765,Viviendas con algún tipo de ordenador,82.9
+2014,Comunidad de Madrid,32.926904761904765,Viviendas que disponen de acceso a Internet,83.1
+2014,Comunidad de Madrid,32.926904761904765,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.9
+2014,Comunidad de Madrid,32.926904761904765,Viviendas con teléfono fijo,90.1
+2014,Comunidad de Madrid,32.926904761904765,Viviendas con teléfono móvil,98.2
+2014,Melilla,41.79179487179488,Viviendas con algún tipo de ordenador,75.0
+2014,Melilla,41.79179487179488,Viviendas que disponen de acceso a Internet,83.2
+2014,Melilla,41.79179487179488,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",81.8
+2014,Melilla,41.79179487179488,Viviendas con teléfono fijo,64.9
+2014,Melilla,41.79179487179488,Viviendas con teléfono móvil,100.0
+2014,Región de Murcia,37.674523809523805,Viviendas con algún tipo de ordenador,72.7
+2014,Región de Murcia,37.674523809523805,Viviendas que disponen de acceso a Internet,72.8
+2014,Región de Murcia,37.674523809523805,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",72.0
+2014,Región de Murcia,37.674523809523805,Viviendas con teléfono fijo,58.5
+2014,Región de Murcia,37.674523809523805,Viviendas con teléfono móvil,96.9
+2014,Comunidad Foral de Navarra,30.329047619047618,Viviendas con algún tipo de ordenador,75.6
+2014,Comunidad Foral de Navarra,30.329047619047618,Viviendas que disponen de acceso a Internet,76.0
+2014,Comunidad Foral de Navarra,30.329047619047618,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",76.0
+2014,Comunidad Foral de Navarra,30.329047619047618,Viviendas con teléfono fijo,85.4
+2014,Comunidad Foral de Navarra,30.329047619047618,Viviendas con teléfono móvil,95.9
+2014,País Vasco,27.94404761904762,Viviendas con algún tipo de ordenador,77.8
+2014,País Vasco,27.94404761904762,Viviendas que disponen de acceso a Internet,77.8
+2014,País Vasco,27.94404761904762,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",76.6
+2014,País Vasco,27.94404761904762,Viviendas con teléfono fijo,84.6
+2014,País Vasco,27.94404761904762,Viviendas con teléfono móvil,98.6
+2014,Comunidad Valenciana,39.69130952380952,Viviendas con algún tipo de ordenador,69.6
+2014,Comunidad Valenciana,39.69130952380952,Viviendas que disponen de acceso a Internet,70.6
+2014,Comunidad Valenciana,39.69130952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",69.8
+2014,Comunidad Valenciana,39.69130952380952,Viviendas con teléfono fijo,68.8
+2014,Comunidad Valenciana,39.69130952380952,Viviendas con teléfono móvil,96.5
+2015,Andalucía,43.24738095238096,Viviendas con algún tipo de ordenador,71.4
+2015,Andalucía,43.24738095238096,Viviendas que disponen de acceso a Internet,76.4
+2015,Andalucía,43.24738095238096,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",75.2
+2015,Andalucía,43.24738095238096,Viviendas con teléfono fijo,73.4
+2015,Andalucía,43.24738095238096,Viviendas con teléfono móvil,95.2
+2015,Aragón,27.674047619047617,Viviendas con algún tipo de ordenador,75.4
+2015,Aragón,27.674047619047617,Viviendas que disponen de acceso a Internet,77.2
+2015,Aragón,27.674047619047617,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",75.3
+2015,Aragón,27.674047619047617,Viviendas con teléfono fijo,85.0
+2015,Aragón,27.674047619047617,Viviendas con teléfono móvil,97.4
+2015,Principado de Asturias,28.329285714285717,Viviendas con algún tipo de ordenador,73.9
+2015,Principado de Asturias,28.329285714285717,Viviendas que disponen de acceso a Internet,78.8
+2015,Principado de Asturias,28.329285714285717,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.7
+2015,Principado de Asturias,28.329285714285717,Viviendas con teléfono fijo,77.2
+2015,Principado de Asturias,28.329285714285717,Viviendas con teléfono móvil,96.6
+2015,Islas Baleares,30.21595238095238,Viviendas con algún tipo de ordenador,77.5
+2015,Islas Baleares,30.21595238095238,Viviendas que disponen de acceso a Internet,80.0
+2015,Islas Baleares,30.21595238095238,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.2
+2015,Islas Baleares,30.21595238095238,Viviendas con teléfono fijo,77.9
+2015,Islas Baleares,30.21595238095238,Viviendas con teléfono móvil,97.2
+2015,Islas Canarias,40.35440476190476,Viviendas con algún tipo de ordenador,71.0
+2015,Islas Canarias,40.35440476190476,Viviendas que disponen de acceso a Internet,78.6
+2015,Islas Canarias,40.35440476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",77.3
+2015,Islas Canarias,40.35440476190476,Viviendas con teléfono fijo,77.5
+2015,Islas Canarias,40.35440476190476,Viviendas con teléfono móvil,96.3
+2015,Cantabria,28.68807228915663,Viviendas con algún tipo de ordenador,77.3
+2015,Cantabria,28.68807228915663,Viviendas que disponen de acceso a Internet,79.6
+2015,Cantabria,28.68807228915663,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.8
+2015,Cantabria,28.68807228915663,Viviendas con teléfono fijo,82.2
+2015,Cantabria,28.68807228915663,Viviendas con teléfono móvil,98.1
+2015,Castilla y León,32.52047619047619,Viviendas con algún tipo de ordenador,73.6
+2015,Castilla y León,32.52047619047619,Viviendas que disponen de acceso a Internet,73.9
+2015,Castilla y León,32.52047619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",73.5
+2015,Castilla y León,32.52047619047619,Viviendas con teléfono fijo,82.0
+2015,Castilla y León,32.52047619047619,Viviendas con teléfono móvil,96.0
+2015,Castilla-La Mancha,40.91666666666666,Viviendas con algún tipo de ordenador,74.1
+2015,Castilla-La Mancha,40.91666666666666,Viviendas que disponen de acceso a Internet,73.9
+2015,Castilla-La Mancha,40.91666666666666,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",73.6
+2015,Castilla-La Mancha,40.91666666666666,Viviendas con teléfono fijo,76.4
+2015,Castilla-La Mancha,40.91666666666666,Viviendas con teléfono móvil,96.4
+2015,Cataluña,30.791071428571428,Viviendas con algún tipo de ordenador,79.4
+2015,Cataluña,30.791071428571428,Viviendas que disponen de acceso a Internet,80.7
+2015,Cataluña,30.791071428571428,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",79.5
+2015,Cataluña,30.791071428571428,Viviendas con teléfono fijo,82.8
+2015,Cataluña,30.791071428571428,Viviendas con teléfono móvil,96.2
+2015,Ceuta,46.56645569620253,Viviendas con algún tipo de ordenador,81.9
+2015,Ceuta,46.56645569620253,Viviendas que disponen de acceso a Internet,82.2
+2015,Ceuta,46.56645569620253,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",80.2
+2015,Ceuta,46.56645569620253,Viviendas con teléfono fijo,83.6
+2015,Ceuta,46.56645569620253,Viviendas con teléfono móvil,99.0
+2015,España,34.5052380952381,Viviendas con algún tipo de ordenador,75.9
+2015,España,34.5052380952381,Viviendas que disponen de acceso a Internet,78.7
+2015,España,34.5052380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",77.8
+2015,España,34.5052380952381,Viviendas con teléfono fijo,78.4
+2015,España,34.5052380952381,Viviendas con teléfono móvil,96.7
+2015,Extremadura,42.098333333333336,Viviendas con algún tipo de ordenador,66.9
+2015,Extremadura,42.098333333333336,Viviendas que disponen de acceso a Internet,71.6
+2015,Extremadura,42.098333333333336,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",70.3
+2015,Extremadura,42.098333333333336,Viviendas con teléfono fijo,70.8
+2015,Extremadura,42.098333333333336,Viviendas con teléfono móvil,96.3
+2015,Galicia,31.03738095238095,Viviendas con algún tipo de ordenador,73.1
+2015,Galicia,31.03738095238095,Viviendas que disponen de acceso a Internet,75.6
+2015,Galicia,31.03738095238095,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",75.2
+2015,Galicia,31.03738095238095,Viviendas con teléfono fijo,78.5
+2015,Galicia,31.03738095238095,Viviendas con teléfono móvil,95.9
+2015,La Rioja,28.168571428571425,Viviendas con algún tipo de ordenador,73.5
+2015,La Rioja,28.168571428571425,Viviendas que disponen de acceso a Internet,75.2
+2015,La Rioja,28.168571428571425,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",74.3
+2015,La Rioja,28.168571428571425,Viviendas con teléfono fijo,79.2
+2015,La Rioja,28.168571428571425,Viviendas con teléfono móvil,96.9
+2015,Comunidad de Madrid,30.442500000000003,Viviendas con algún tipo de ordenador,84.9
+2015,Comunidad de Madrid,30.442500000000003,Viviendas que disponen de acceso a Internet,86.4
+2015,Comunidad de Madrid,30.442500000000003,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",85.7
+2015,Comunidad de Madrid,30.442500000000003,Viviendas con teléfono fijo,89.1
+2015,Comunidad de Madrid,30.442500000000003,Viviendas con teléfono móvil,98.1
+2015,Melilla,50.34321428571428,Viviendas con algún tipo de ordenador,69.5
+2015,Melilla,50.34321428571428,Viviendas que disponen de acceso a Internet,78.5
+2015,Melilla,50.34321428571428,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.5
+2015,Melilla,50.34321428571428,Viviendas con teléfono fijo,65.2
+2015,Melilla,50.34321428571428,Viviendas con teléfono móvil,97.5
+2015,Región de Murcia,36.44726190476191,Viviendas con algún tipo de ordenador,72.8
+2015,Región de Murcia,36.44726190476191,Viviendas que disponen de acceso a Internet,78.9
+2015,Región de Murcia,36.44726190476191,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",77.7
+2015,Región de Murcia,36.44726190476191,Viviendas con teléfono fijo,56.6
+2015,Región de Murcia,36.44726190476191,Viviendas con teléfono móvil,97.8
+2015,Comunidad Foral de Navarra,25.31785714285714,Viviendas con algún tipo de ordenador,78.2
+2015,Comunidad Foral de Navarra,25.31785714285714,Viviendas que disponen de acceso a Internet,80.8
+2015,Comunidad Foral de Navarra,25.31785714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",79.6
+2015,Comunidad Foral de Navarra,25.31785714285714,Viviendas con teléfono fijo,83.0
+2015,Comunidad Foral de Navarra,25.31785714285714,Viviendas con teléfono móvil,96.8
+2015,País Vasco,26.36773809523809,Viviendas con algún tipo de ordenador,79.7
+2015,País Vasco,26.36773809523809,Viviendas que disponen de acceso a Internet,82.8
+2015,País Vasco,26.36773809523809,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.8
+2015,País Vasco,26.36773809523809,Viviendas con teléfono fijo,85.8
+2015,País Vasco,26.36773809523809,Viviendas con teléfono móvil,98.8
+2015,Comunidad Valenciana,34.42428571428572,Viviendas con algún tipo de ordenador,72.4
+2015,Comunidad Valenciana,34.42428571428572,Viviendas que disponen de acceso a Internet,75.4
+2015,Comunidad Valenciana,34.42428571428572,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",74.3
+2015,Comunidad Valenciana,34.42428571428572,Viviendas con teléfono fijo,67.7
+2015,Comunidad Valenciana,34.42428571428572,Viviendas con teléfono móvil,97.2
+2016,Andalucía,41.89488095238095,Viviendas con algún tipo de ordenador,73.2
+2016,Andalucía,41.89488095238095,Viviendas que disponen de acceso a Internet,80.6
+2016,Andalucía,41.89488095238095,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",79.8
+2016,Andalucía,41.89488095238095,Viviendas con teléfono fijo,73.5
+2016,Andalucía,41.89488095238095,Viviendas con teléfono móvil,95.0
+2016,Aragón,25.63714285714285,Viviendas con algún tipo de ordenador,76.8
+2016,Aragón,25.63714285714285,Viviendas que disponen de acceso a Internet,81.6
+2016,Aragón,25.63714285714285,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",80.2
+2016,Aragón,25.63714285714285,Viviendas con teléfono fijo,86.0
+2016,Aragón,25.63714285714285,Viviendas con teléfono móvil,98.3
+2016,Principado de Asturias,28.954047619047618,Viviendas con algún tipo de ordenador,74.0
+2016,Principado de Asturias,28.954047619047618,Viviendas que disponen de acceso a Internet,79.7
+2016,Principado de Asturias,28.954047619047618,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",79.2
+2016,Principado de Asturias,28.954047619047618,Viviendas con teléfono fijo,76.2
+2016,Principado de Asturias,28.954047619047618,Viviendas con teléfono móvil,96.4
+2016,Islas Baleares,24.544047619047618,Viviendas con algún tipo de ordenador,77.9
+2016,Islas Baleares,24.544047619047618,Viviendas que disponen de acceso a Internet,82.0
+2016,Islas Baleares,24.544047619047618,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",81.2
+2016,Islas Baleares,24.544047619047618,Viviendas con teléfono fijo,78.1
+2016,Islas Baleares,24.544047619047618,Viviendas con teléfono móvil,97.1
+2016,Islas Canarias,38.43761904761905,Viviendas con algún tipo de ordenador,72.2
+2016,Islas Canarias,38.43761904761905,Viviendas que disponen de acceso a Internet,82.1
+2016,Islas Canarias,38.43761904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",80.7
+2016,Islas Canarias,38.43761904761905,Viviendas con teléfono fijo,77.4
+2016,Islas Canarias,38.43761904761905,Viviendas con teléfono móvil,95.0
+2016,Cantabria,23.415357142857143,Viviendas con algún tipo de ordenador,78.0
+2016,Cantabria,23.415357142857143,Viviendas que disponen de acceso a Internet,79.6
+2016,Cantabria,23.415357142857143,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",77.3
+2016,Cantabria,23.415357142857143,Viviendas con teléfono fijo,83.5
+2016,Cantabria,23.415357142857143,Viviendas con teléfono móvil,96.6
+2016,Castilla y León,27.265476190476196,Viviendas con algún tipo de ordenador,75.7
+2016,Castilla y León,27.265476190476196,Viviendas que disponen de acceso a Internet,77.5
+2016,Castilla y León,27.265476190476196,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",76.5
+2016,Castilla y León,27.265476190476196,Viviendas con teléfono fijo,81.0
+2016,Castilla y León,27.265476190476196,Viviendas con teléfono móvil,95.6
+2016,Castilla-La Mancha,36.73202380952381,Viviendas con algún tipo de ordenador,73.3
+2016,Castilla-La Mancha,36.73202380952381,Viviendas que disponen de acceso a Internet,78.2
+2016,Castilla-La Mancha,36.73202380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",77.9
+2016,Castilla-La Mancha,36.73202380952381,Viviendas con teléfono fijo,73.1
+2016,Castilla-La Mancha,36.73202380952381,Viviendas con teléfono móvil,96.3
+2016,Cataluña,25.071071428571425,Viviendas con algún tipo de ordenador,80.9
+2016,Cataluña,25.071071428571425,Viviendas que disponen de acceso a Internet,82.9
+2016,Cataluña,25.071071428571425,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.3
+2016,Cataluña,25.071071428571425,Viviendas con teléfono fijo,84.9
+2016,Cataluña,25.071071428571425,Viviendas con teléfono móvil,96.7
+2016,Ceuta,39.49292682926829,Viviendas con algún tipo de ordenador,78.7
+2016,Ceuta,39.49292682926829,Viviendas que disponen de acceso a Internet,83.9
+2016,Ceuta,39.49292682926829,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.6
+2016,Ceuta,39.49292682926829,Viviendas con teléfono fijo,82.2
+2016,Ceuta,39.49292682926829,Viviendas con teléfono móvil,94.6
+2016,España,31.252261904761905,Viviendas con algún tipo de ordenador,77.1
+2016,España,31.252261904761905,Viviendas que disponen de acceso a Internet,81.9
+2016,España,31.252261904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",81.2
+2016,España,31.252261904761905,Viviendas con teléfono fijo,78.5
+2016,España,31.252261904761905,Viviendas con teléfono móvil,96.7
+2016,Extremadura,37.78333333333334,Viviendas con algún tipo de ordenador,69.1
+2016,Extremadura,37.78333333333334,Viviendas que disponen de acceso a Internet,79.6
+2016,Extremadura,37.78333333333334,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.3
+2016,Extremadura,37.78333333333334,Viviendas con teléfono fijo,68.6
+2016,Extremadura,37.78333333333334,Viviendas con teléfono móvil,96.6
+2016,Galicia,28.06083333333333,Viviendas con algún tipo de ordenador,74.3
+2016,Galicia,28.06083333333333,Viviendas que disponen de acceso a Internet,78.7
+2016,Galicia,28.06083333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.1
+2016,Galicia,28.06083333333333,Viviendas con teléfono fijo,78.1
+2016,Galicia,28.06083333333333,Viviendas con teléfono móvil,96.8
+2016,La Rioja,25.663452380952386,Viviendas con algún tipo de ordenador,74.4
+2016,La Rioja,25.663452380952386,Viviendas que disponen de acceso a Internet,79.2
+2016,La Rioja,25.663452380952386,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",79.1
+2016,La Rioja,25.663452380952386,Viviendas con teléfono fijo,80.8
+2016,La Rioja,25.663452380952386,Viviendas con teléfono móvil,97.6
+2016,Comunidad de Madrid,27.84440476190476,Viviendas con algún tipo de ordenador,85.3
+2016,Comunidad de Madrid,27.84440476190476,Viviendas que disponen de acceso a Internet,88.3
+2016,Comunidad de Madrid,27.84440476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",87.5
+2016,Comunidad de Madrid,27.84440476190476,Viviendas con teléfono fijo,88.1
+2016,Comunidad de Madrid,27.84440476190476,Viviendas con teléfono móvil,98.6
+2016,Melilla,45.51875,Viviendas con algún tipo de ordenador,66.0
+2016,Melilla,45.51875,Viviendas que disponen de acceso a Internet,86.2
+2016,Melilla,45.51875,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",85.0
+2016,Melilla,45.51875,Viviendas con teléfono fijo,70.6
+2016,Melilla,45.51875,Viviendas con teléfono móvil,96.5
+2016,Región de Murcia,32.358333333333334,Viviendas con algún tipo de ordenador,74.5
+2016,Región de Murcia,32.358333333333334,Viviendas que disponen de acceso a Internet,81.4
+2016,Región de Murcia,32.358333333333334,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",81.0
+2016,Región de Murcia,32.358333333333334,Viviendas con teléfono fijo,56.7
+2016,Región de Murcia,32.358333333333334,Viviendas con teléfono móvil,97.1
+2016,Comunidad Foral de Navarra,21.47192771084337,Viviendas con algún tipo de ordenador,80.1
+2016,Comunidad Foral de Navarra,21.47192771084337,Viviendas que disponen de acceso a Internet,82.5
+2016,Comunidad Foral de Navarra,21.47192771084337,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",81.6
+2016,Comunidad Foral de Navarra,21.47192771084337,Viviendas con teléfono fijo,85.3
+2016,Comunidad Foral de Navarra,21.47192771084337,Viviendas con teléfono móvil,96.5
+2016,País Vasco,23.90047619047619,Viviendas con algún tipo de ordenador,80.5
+2016,País Vasco,23.90047619047619,Viviendas que disponen de acceso a Internet,82.6
+2016,País Vasco,23.90047619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.2
+2016,País Vasco,23.90047619047619,Viviendas con teléfono fijo,84.2
+2016,País Vasco,23.90047619047619,Viviendas con teléfono móvil,98.8
+2016,Comunidad Valenciana,32.12654761904762,Viviendas con algún tipo de ordenador,73.9
+2016,Comunidad Valenciana,32.12654761904762,Viviendas que disponen de acceso a Internet,80.7
+2016,Comunidad Valenciana,32.12654761904762,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",79.9
+2016,Comunidad Valenciana,32.12654761904762,Viviendas con teléfono fijo,68.7
+2016,Comunidad Valenciana,32.12654761904762,Viviendas con teléfono móvil,97.3
+2017,Andalucía,36.48630952380952,Viviendas con algún tipo de ordenador,74.3
+2017,Andalucía,36.48630952380952,Viviendas que disponen de acceso a Internet,81.7
+2017,Andalucía,36.48630952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",81.0
+2017,Andalucía,36.48630952380952,Viviendas con teléfono fijo,69.8
+2017,Andalucía,36.48630952380952,Viviendas con teléfono móvil,96.9
+2017,Aragón,21.096071428571427,Viviendas con algún tipo de ordenador,80.1
+2017,Aragón,21.096071428571427,Viviendas que disponen de acceso a Internet,84.9
+2017,Aragón,21.096071428571427,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",83.8
+2017,Aragón,21.096071428571427,Viviendas con teléfono fijo,84.9
+2017,Aragón,21.096071428571427,Viviendas con teléfono móvil,97.5
+2017,Principado de Asturias,24.362738095238097,Viviendas con algún tipo de ordenador,75.9
+2017,Principado de Asturias,24.362738095238097,Viviendas que disponen de acceso a Internet,81.3
+2017,Principado de Asturias,24.362738095238097,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",80.8
+2017,Principado de Asturias,24.362738095238097,Viviendas con teléfono fijo,77.7
+2017,Principado de Asturias,24.362738095238097,Viviendas con teléfono móvil,97.8
+2017,Islas Baleares,21.3725,Viviendas con algún tipo de ordenador,84.0
+2017,Islas Baleares,21.3725,Viviendas que disponen de acceso a Internet,89.3
+2017,Islas Baleares,21.3725,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",87.8
+2017,Islas Baleares,21.3725,Viviendas con teléfono fijo,81.4
+2017,Islas Baleares,21.3725,Viviendas con teléfono móvil,98.8
+2017,Islas Canarias,34.85821428571429,Viviendas con algún tipo de ordenador,73.1
+2017,Islas Canarias,34.85821428571429,Viviendas que disponen de acceso a Internet,80.9
+2017,Islas Canarias,34.85821428571429,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",80.1
+2017,Islas Canarias,34.85821428571429,Viviendas con teléfono fijo,79.8
+2017,Islas Canarias,34.85821428571429,Viviendas con teléfono móvil,94.0
+2017,Cantabria,21.718192771084336,Viviendas con algún tipo de ordenador,81.7
+2017,Cantabria,21.718192771084336,Viviendas que disponen de acceso a Internet,83.5
+2017,Cantabria,21.718192771084336,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.4
+2017,Cantabria,21.718192771084336,Viviendas con teléfono fijo,80.5
+2017,Cantabria,21.718192771084336,Viviendas con teléfono móvil,97.2
+2017,Castilla y León,25.46416666666667,Viviendas con algún tipo de ordenador,77.1
+2017,Castilla y León,25.46416666666667,Viviendas que disponen de acceso a Internet,79.2
+2017,Castilla y León,25.46416666666667,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.2
+2017,Castilla y León,25.46416666666667,Viviendas con teléfono fijo,80.0
+2017,Castilla y León,25.46416666666667,Viviendas con teléfono móvil,97.0
+2017,Castilla-La Mancha,32.18833333333333,Viviendas con algún tipo de ordenador,74.1
+2017,Castilla-La Mancha,32.18833333333333,Viviendas que disponen de acceso a Internet,80.6
+2017,Castilla-La Mancha,32.18833333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",80.1
+2017,Castilla-La Mancha,32.18833333333333,Viviendas con teléfono fijo,72.5
+2017,Castilla-La Mancha,32.18833333333333,Viviendas con teléfono móvil,96.8
+2017,Cataluña,22.012857142857143,Viviendas con algún tipo de ordenador,81.2
+2017,Cataluña,22.012857142857143,Viviendas que disponen de acceso a Internet,83.7
+2017,Cataluña,22.012857142857143,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.9
+2017,Cataluña,22.012857142857143,Viviendas con teléfono fijo,84.6
+2017,Cataluña,22.012857142857143,Viviendas con teléfono móvil,96.9
+2017,Ceuta,35.90278481012658,Viviendas con algún tipo de ordenador,84.6
+2017,Ceuta,35.90278481012658,Viviendas que disponen de acceso a Internet,88.4
+2017,Ceuta,35.90278481012658,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",88.4
+2017,Ceuta,35.90278481012658,Viviendas con teléfono fijo,86.3
+2017,Ceuta,35.90278481012658,Viviendas con teléfono móvil,94.7
+2017,España,27.526904761904763,Viviendas con algún tipo de ordenador,78.4
+2017,España,27.526904761904763,Viviendas que disponen de acceso a Internet,83.4
+2017,España,27.526904761904763,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.7
+2017,España,27.526904761904763,Viviendas con teléfono fijo,77.6
+2017,España,27.526904761904763,Viviendas con teléfono móvil,97.4
+2017,Extremadura,37.2102380952381,Viviendas con algún tipo de ordenador,70.4
+2017,Extremadura,37.2102380952381,Viviendas que disponen de acceso a Internet,79.4
+2017,Extremadura,37.2102380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.4
+2017,Extremadura,37.2102380952381,Viviendas con teléfono fijo,66.2
+2017,Extremadura,37.2102380952381,Viviendas con teléfono móvil,97.4
+2017,Galicia,26.205238095238094,Viviendas con algún tipo de ordenador,74.6
+2017,Galicia,26.205238095238094,Viviendas que disponen de acceso a Internet,78.8
+2017,Galicia,26.205238095238094,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.4
+2017,Galicia,26.205238095238094,Viviendas con teléfono fijo,75.3
+2017,Galicia,26.205238095238094,Viviendas con teléfono móvil,97.0
+2017,La Rioja,21.20024096385542,Viviendas con algún tipo de ordenador,74.4
+2017,La Rioja,21.20024096385542,Viviendas que disponen de acceso a Internet,81.0
+2017,La Rioja,21.20024096385542,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",80.1
+2017,La Rioja,21.20024096385542,Viviendas con teléfono fijo,78.1
+2017,La Rioja,21.20024096385542,Viviendas con teléfono móvil,97.4
+2017,Comunidad de Madrid,24.889642857142857,Viviendas con algún tipo de ordenador,86.5
+2017,Comunidad de Madrid,24.889642857142857,Viviendas que disponen de acceso a Internet,88.9
+2017,Comunidad de Madrid,24.889642857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",88.5
+2017,Comunidad de Madrid,24.889642857142857,Viviendas con teléfono fijo,88.1
+2017,Comunidad de Madrid,24.889642857142857,Viviendas con teléfono móvil,98.8
+2017,Melilla,43.49207317073171,Viviendas con algún tipo de ordenador,82.7
+2017,Melilla,43.49207317073171,Viviendas que disponen de acceso a Internet,80.8
+2017,Melilla,43.49207317073171,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.9
+2017,Melilla,43.49207317073171,Viviendas con teléfono fijo,74.1
+2017,Melilla,43.49207317073171,Viviendas con teléfono móvil,98.1
+2017,Región de Murcia,27.51690476190476,Viviendas con algún tipo de ordenador,77.6
+2017,Región de Murcia,27.51690476190476,Viviendas que disponen de acceso a Internet,86.0
+2017,Región de Murcia,27.51690476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",84.7
+2017,Región de Murcia,27.51690476190476,Viviendas con teléfono fijo,58.7
+2017,Región de Murcia,27.51690476190476,Viviendas con teléfono móvil,98.3
+2017,Comunidad Foral de Navarra,20.252409638554216,Viviendas con algún tipo de ordenador,82.6
+2017,Comunidad Foral de Navarra,20.252409638554216,Viviendas que disponen de acceso a Internet,88.3
+2017,Comunidad Foral de Navarra,20.252409638554216,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",87.7
+2017,Comunidad Foral de Navarra,20.252409638554216,Viviendas con teléfono fijo,82.6
+2017,Comunidad Foral de Navarra,20.252409638554216,Viviendas con teléfono móvil,97.8
+2017,País Vasco,18.54142857142857,Viviendas con algún tipo de ordenador,81.7
+2017,País Vasco,18.54142857142857,Viviendas que disponen de acceso a Internet,86.8
+2017,País Vasco,18.54142857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",86.3
+2017,País Vasco,18.54142857142857,Viviendas con teléfono fijo,82.9
+2017,País Vasco,18.54142857142857,Viviendas con teléfono móvil,98.4
+2017,Comunidad Valenciana,28.629047619047626,Viviendas con algún tipo de ordenador,75.3
+2017,Comunidad Valenciana,28.629047619047626,Viviendas que disponen de acceso a Internet,82.0
+2017,Comunidad Valenciana,28.629047619047626,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",81.2
+2017,Comunidad Valenciana,28.629047619047626,Viviendas con teléfono fijo,68.5
+2017,Comunidad Valenciana,28.629047619047626,Viviendas con teléfono móvil,98.0
+2018,Andalucía,33.9925,Viviendas con algún tipo de ordenador,74.4
+2018,Andalucía,33.9925,Viviendas que disponen de acceso a Internet,83.7
+2018,Andalucía,33.9925,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",83.5
+2018,Andalucía,33.9925,Viviendas con teléfono fijo,66.8
+2018,Andalucía,33.9925,Viviendas con teléfono móvil,97.9
+2018,Aragón,18.99011904761905,Viviendas con algún tipo de ordenador,83.2
+2018,Aragón,18.99011904761905,Viviendas que disponen de acceso a Internet,88.7
+2018,Aragón,18.99011904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",88.4
+2018,Aragón,18.99011904761905,Viviendas con teléfono fijo,83.9
+2018,Aragón,18.99011904761905,Viviendas con teléfono móvil,98.1
+2018,Principado de Asturias,25.66690476190476,Viviendas con algún tipo de ordenador,78.2
+2018,Principado de Asturias,25.66690476190476,Viviendas que disponen de acceso a Internet,85.9
+2018,Principado de Asturias,25.66690476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",85.1
+2018,Principado de Asturias,25.66690476190476,Viviendas con teléfono fijo,74.6
+2018,Principado de Asturias,25.66690476190476,Viviendas con teléfono móvil,98.6
+2018,Islas Baleares,19.43797619047619,Viviendas con algún tipo de ordenador,83.7
+2018,Islas Baleares,19.43797619047619,Viviendas que disponen de acceso a Internet,90.8
+2018,Islas Baleares,19.43797619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",90.6
+2018,Islas Baleares,19.43797619047619,Viviendas con teléfono fijo,83.7
+2018,Islas Baleares,19.43797619047619,Viviendas con teléfono móvil,98.0
+2018,Islas Canarias,28.579047619047618,Viviendas con algún tipo de ordenador,77.9
+2018,Islas Canarias,28.579047619047618,Viviendas que disponen de acceso a Internet,87.4
+2018,Islas Canarias,28.579047619047618,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",86.8
+2018,Islas Canarias,28.579047619047618,Viviendas con teléfono fijo,79.8
+2018,Islas Canarias,28.579047619047618,Viviendas con teléfono móvil,96.8
+2018,Cantabria,19.29578313253012,Viviendas con algún tipo de ordenador,78.9
+2018,Cantabria,19.29578313253012,Viviendas que disponen de acceso a Internet,83.0
+2018,Cantabria,19.29578313253012,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.4
+2018,Cantabria,19.29578313253012,Viviendas con teléfono fijo,79.8
+2018,Cantabria,19.29578313253012,Viviendas con teléfono móvil,98.9
+2018,Castilla y León,20.282619047619047,Viviendas con algún tipo de ordenador,76.1
+2018,Castilla y León,20.282619047619047,Viviendas que disponen de acceso a Internet,82.3
+2018,Castilla y León,20.282619047619047,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.2
+2018,Castilla y León,20.282619047619047,Viviendas con teléfono fijo,77.7
+2018,Castilla y León,20.282619047619047,Viviendas con teléfono móvil,97.6
+2018,Castilla-La Mancha,31.21809523809524,Viviendas con algún tipo de ordenador,74.8
+2018,Castilla-La Mancha,31.21809523809524,Viviendas que disponen de acceso a Internet,80.9
+2018,Castilla-La Mancha,31.21809523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",80.8
+2018,Castilla-La Mancha,31.21809523809524,Viviendas con teléfono fijo,69.9
+2018,Castilla-La Mancha,31.21809523809524,Viviendas con teléfono móvil,97.4
+2018,Cataluña,19.68309523809524,Viviendas con algún tipo de ordenador,82.2
+2018,Cataluña,19.68309523809524,Viviendas que disponen de acceso a Internet,87.7
+2018,Cataluña,19.68309523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",87.2
+2018,Cataluña,19.68309523809524,Viviendas con teléfono fijo,81.8
+2018,Cataluña,19.68309523809524,Viviendas con teléfono móvil,97.7
+2018,Ceuta,42.70256097560976,Viviendas con algún tipo de ordenador,84.9
+2018,Ceuta,42.70256097560976,Viviendas que disponen de acceso a Internet,91.7
+2018,Ceuta,42.70256097560976,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",91.7
+2018,Ceuta,42.70256097560976,Viviendas con teléfono fijo,84.4
+2018,Ceuta,42.70256097560976,Viviendas con teléfono móvil,100.0
+2018,España,24.597738095238096,Viviendas con algún tipo de ordenador,79.5
+2018,España,24.597738095238096,Viviendas que disponen de acceso a Internet,86.4
+2018,España,24.597738095238096,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",86.1
+2018,España,24.597738095238096,Viviendas con teléfono fijo,75.8
+2018,España,24.597738095238096,Viviendas con teléfono móvil,98.0
+2018,Extremadura,33.78892857142857,Viviendas con algún tipo de ordenador,72.1
+2018,Extremadura,33.78892857142857,Viviendas que disponen de acceso a Internet,78.6
+2018,Extremadura,33.78892857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",78.4
+2018,Extremadura,33.78892857142857,Viviendas con teléfono fijo,67.0
+2018,Extremadura,33.78892857142857,Viviendas con teléfono móvil,97.4
+2018,Galicia,23.12059523809524,Viviendas con algún tipo de ordenador,74.3
+2018,Galicia,23.12059523809524,Viviendas que disponen de acceso a Internet,82.6
+2018,Galicia,23.12059523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.1
+2018,Galicia,23.12059523809524,Viviendas con teléfono fijo,74.5
+2018,Galicia,23.12059523809524,Viviendas con teléfono móvil,97.9
+2018,La Rioja,18.98831325301205,Viviendas con algún tipo de ordenador,76.3
+2018,La Rioja,18.98831325301205,Viviendas que disponen de acceso a Internet,82.5
+2018,La Rioja,18.98831325301205,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",82.2
+2018,La Rioja,18.98831325301205,Viviendas con teléfono fijo,76.2
+2018,La Rioja,18.98831325301205,Viviendas con teléfono móvil,97.2
+2018,Comunidad de Madrid,21.272738095238097,Viviendas con algún tipo de ordenador,86.5
+2018,Comunidad de Madrid,21.272738095238097,Viviendas que disponen de acceso a Internet,91.5
+2018,Comunidad de Madrid,21.272738095238097,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",91.4
+2018,Comunidad de Madrid,21.272738095238097,Viviendas con teléfono fijo,87.0
+2018,Comunidad de Madrid,21.272738095238097,Viviendas con teléfono móvil,98.5
+2018,Melilla,43.4552380952381,Viviendas con algún tipo de ordenador,82.5
+2018,Melilla,43.4552380952381,Viviendas que disponen de acceso a Internet,88.9
+2018,Melilla,43.4552380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",88.9
+2018,Melilla,43.4552380952381,Viviendas con teléfono fijo,70.7
+2018,Melilla,43.4552380952381,Viviendas con teléfono móvil,98.2
+2018,Región de Murcia,26.50440476190476,Viviendas con algún tipo de ordenador,77.1
+2018,Región de Murcia,26.50440476190476,Viviendas que disponen de acceso a Internet,87.4
+2018,Región de Murcia,26.50440476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",87.4
+2018,Región de Murcia,26.50440476190476,Viviendas con teléfono fijo,54.1
+2018,Región de Murcia,26.50440476190476,Viviendas con teléfono móvil,98.4
+2018,Comunidad Foral de Navarra,18.169166666666666,Viviendas con algún tipo de ordenador,84.1
+2018,Comunidad Foral de Navarra,18.169166666666666,Viviendas que disponen de acceso a Internet,87.2
+2018,Comunidad Foral de Navarra,18.169166666666666,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",86.6
+2018,Comunidad Foral de Navarra,18.169166666666666,Viviendas con teléfono fijo,84.1
+2018,Comunidad Foral de Navarra,18.169166666666666,Viviendas con teléfono móvil,99.3
+2018,País Vasco,16.846785714285716,Viviendas con algún tipo de ordenador,84.3
+2018,País Vasco,16.846785714285716,Viviendas que disponen de acceso a Internet,89.1
+2018,País Vasco,16.846785714285716,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",89.0
+2018,País Vasco,16.846785714285716,Viviendas con teléfono fijo,83.3
+2018,País Vasco,16.846785714285716,Viviendas con teléfono móvil,98.6
+2018,Comunidad Valenciana,24.469047619047625,Viviendas con algún tipo de ordenador,79.9
+2018,Comunidad Valenciana,24.469047619047625,Viviendas que disponen de acceso a Internet,86.8
+2018,Comunidad Valenciana,24.469047619047625,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",86.7
+2018,Comunidad Valenciana,24.469047619047625,Viviendas con teléfono fijo,66.3
+2018,Comunidad Valenciana,24.469047619047625,Viviendas con teléfono móvil,98.6
+2019,Andalucía,30.878333333333337,Viviendas con algún tipo de ordenador,76.8
+2019,Andalucía,30.878333333333337,Viviendas que disponen de acceso a Internet,89.7
+2019,Andalucía,30.878333333333337,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",89.2
+2019,Andalucía,30.878333333333337,Viviendas con teléfono fijo,68.2
+2019,Andalucía,30.878333333333337,Viviendas con teléfono móvil,98.1
+2019,Aragón,18.410119047619048,Viviendas con algún tipo de ordenador,84.9
+2019,Aragón,18.410119047619048,Viviendas que disponen de acceso a Internet,92.1
+2019,Aragón,18.410119047619048,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",91.6
+2019,Aragón,18.410119047619048,Viviendas con teléfono fijo,81.8
+2019,Aragón,18.410119047619048,Viviendas con teléfono móvil,98.7
+2019,Principado de Asturias,20.408048780487807,Viviendas con algún tipo de ordenador,79.5
+2019,Principado de Asturias,20.408048780487807,Viviendas que disponen de acceso a Internet,91.1
+2019,Principado de Asturias,20.408048780487807,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",90.8
+2019,Principado de Asturias,20.408048780487807,Viviendas con teléfono fijo,72.9
+2019,Principado de Asturias,20.408048780487807,Viviendas con teléfono móvil,98.1
+2019,Islas Baleares,20.30095238095238,Viviendas con algún tipo de ordenador,84.5
+2019,Islas Baleares,20.30095238095238,Viviendas que disponen de acceso a Internet,93.1
+2019,Islas Baleares,20.30095238095238,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.0
+2019,Islas Baleares,20.30095238095238,Viviendas con teléfono fijo,82.2
+2019,Islas Baleares,20.30095238095238,Viviendas con teléfono móvil,99.2
+2019,Islas Canarias,31.080952380952382,Viviendas con algún tipo de ordenador,80.3
+2019,Islas Canarias,31.080952380952382,Viviendas que disponen de acceso a Internet,91.1
+2019,Islas Canarias,31.080952380952382,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",90.4
+2019,Islas Canarias,31.080952380952382,Viviendas con teléfono fijo,79.2
+2019,Islas Canarias,31.080952380952382,Viviendas con teléfono móvil,97.9
+2019,Cantabria,20.02265060240964,Viviendas con algún tipo de ordenador,80.7
+2019,Cantabria,20.02265060240964,Viviendas que disponen de acceso a Internet,90.8
+2019,Cantabria,20.02265060240964,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",90.8
+2019,Cantabria,20.02265060240964,Viviendas con teléfono fijo,78.2
+2019,Cantabria,20.02265060240964,Viviendas con teléfono móvil,97.2
+2019,Castilla y León,20.160238095238096,Viviendas con algún tipo de ordenador,78.0
+2019,Castilla y León,20.160238095238096,Viviendas que disponen de acceso a Internet,89.0
+2019,Castilla y León,20.160238095238096,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",88.6
+2019,Castilla y León,20.160238095238096,Viviendas con teléfono fijo,76.5
+2019,Castilla y León,20.160238095238096,Viviendas con teléfono móvil,98.0
+2019,Castilla-La Mancha,27.62892857142857,Viviendas con algún tipo de ordenador,74.2
+2019,Castilla-La Mancha,27.62892857142857,Viviendas que disponen de acceso a Internet,86.8
+2019,Castilla-La Mancha,27.62892857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",86.7
+2019,Castilla-La Mancha,27.62892857142857,Viviendas con teléfono fijo,66.7
+2019,Castilla-La Mancha,27.62892857142857,Viviendas con teléfono móvil,97.2
+2019,Cataluña,18.139642857142857,Viviendas con algún tipo de ordenador,84.9
+2019,Cataluña,18.139642857142857,Viviendas que disponen de acceso a Internet,94.0
+2019,Cataluña,18.139642857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.9
+2019,Cataluña,18.139642857142857,Viviendas con teléfono fijo,79.8
+2019,Cataluña,18.139642857142857,Viviendas con teléfono móvil,98.4
+2019,Ceuta,38.81916666666667,Viviendas con algún tipo de ordenador,86.3
+2019,Ceuta,38.81916666666667,Viviendas que disponen de acceso a Internet,91.7
+2019,Ceuta,38.81916666666667,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",91.7
+2019,Ceuta,38.81916666666667,Viviendas con teléfono fijo,85.7
+2019,Ceuta,38.81916666666667,Viviendas con teléfono móvil,98.0
+2019,España,22.942380952380955,Viviendas con algún tipo de ordenador,80.9
+2019,España,22.942380952380955,Viviendas que disponen de acceso a Internet,91.4
+2019,España,22.942380952380955,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",91.2
+2019,España,22.942380952380955,Viviendas con teléfono fijo,74.9
+2019,España,22.942380952380955,Viviendas con teléfono móvil,98.5
+2019,Extremadura,33.70607142857143,Viviendas con algún tipo de ordenador,74.7
+2019,Extremadura,33.70607142857143,Viviendas que disponen de acceso a Internet,89.3
+2019,Extremadura,33.70607142857143,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",89.2
+2019,Extremadura,33.70607142857143,Viviendas con teléfono fijo,64.9
+2019,Extremadura,33.70607142857143,Viviendas con teléfono móvil,98.5
+2019,Galicia,20.04702380952381,Viviendas con algún tipo de ordenador,73.3
+2019,Galicia,20.04702380952381,Viviendas que disponen de acceso a Internet,88.8
+2019,Galicia,20.04702380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",88.1
+2019,Galicia,20.04702380952381,Viviendas con teléfono fijo,72.3
+2019,Galicia,20.04702380952381,Viviendas con teléfono móvil,98.2
+2019,La Rioja,17.557142857142857,Viviendas con algún tipo de ordenador,78.4
+2019,La Rioja,17.557142857142857,Viviendas que disponen de acceso a Internet,90.6
+2019,La Rioja,17.557142857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",90.0
+2019,La Rioja,17.557142857142857,Viviendas con teléfono fijo,75.1
+2019,La Rioja,17.557142857142857,Viviendas con teléfono móvil,97.5
+2019,Comunidad de Madrid,20.18380952380953,Viviendas con algún tipo de ordenador,87.8
+2019,Comunidad de Madrid,20.18380952380953,Viviendas que disponen de acceso a Internet,94.5
+2019,Comunidad de Madrid,20.18380952380953,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.5
+2019,Comunidad de Madrid,20.18380952380953,Viviendas con teléfono fijo,87.4
+2019,Comunidad de Madrid,20.18380952380953,Viviendas con teléfono móvil,99.1
+2019,Melilla,43.86833333333333,Viviendas con algún tipo de ordenador,82.2
+2019,Melilla,43.86833333333333,Viviendas que disponen de acceso a Internet,91.2
+2019,Melilla,43.86833333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",91.2
+2019,Melilla,43.86833333333333,Viviendas con teléfono fijo,73.3
+2019,Melilla,43.86833333333333,Viviendas con teléfono móvil,100.0
+2019,Región de Murcia,23.67047619047619,Viviendas con algún tipo de ordenador,78.1
+2019,Región de Murcia,23.67047619047619,Viviendas que disponen de acceso a Internet,91.3
+2019,Región de Murcia,23.67047619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",91.0
+2019,Región de Murcia,23.67047619047619,Viviendas con teléfono fijo,52.5
+2019,Región de Murcia,23.67047619047619,Viviendas con teléfono móvil,98.9
+2019,Comunidad Foral de Navarra,16.4675,Viviendas con algún tipo de ordenador,87.5
+2019,Comunidad Foral de Navarra,16.4675,Viviendas que disponen de acceso a Internet,95.0
+2019,Comunidad Foral de Navarra,16.4675,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.5
+2019,Comunidad Foral de Navarra,16.4675,Viviendas con teléfono fijo,81.6
+2019,Comunidad Foral de Navarra,16.4675,Viviendas con teléfono móvil,99.6
+2019,País Vasco,17.79011904761905,Viviendas con algún tipo de ordenador,83.2
+2019,País Vasco,17.79011904761905,Viviendas que disponen de acceso a Internet,91.5
+2019,País Vasco,17.79011904761905,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",91.4
+2019,País Vasco,17.79011904761905,Viviendas con teléfono fijo,82.7
+2019,País Vasco,17.79011904761905,Viviendas con teléfono móvil,98.9
+2019,Comunidad Valenciana,22.2225,Viviendas con algún tipo de ordenador,80.0
+2019,Comunidad Valenciana,22.2225,Viviendas que disponen de acceso a Internet,90.6
+2019,Comunidad Valenciana,22.2225,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",90.5
+2019,Comunidad Valenciana,22.2225,Viviendas con teléfono fijo,64.1
+2019,Comunidad Valenciana,22.2225,Viviendas con teléfono móvil,98.8
+2020,Andalucía,34.945952380952384,Viviendas con algún tipo de ordenador,76.8
+2020,Andalucía,34.945952380952384,Viviendas que disponen de acceso a Internet,94.7
+2020,Andalucía,34.945952380952384,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.6
+2020,Andalucía,34.945952380952384,Viviendas con teléfono fijo,61.8
+2020,Andalucía,34.945952380952384,Viviendas con teléfono móvil,99.3
+2020,Aragón,19.65964285714286,Viviendas con algún tipo de ordenador,85.0
+2020,Aragón,19.65964285714286,Viviendas que disponen de acceso a Internet,96.3
+2020,Aragón,19.65964285714286,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.0
+2020,Aragón,19.65964285714286,Viviendas con teléfono fijo,80.0
+2020,Aragón,19.65964285714286,Viviendas con teléfono móvil,99.7
+2020,Principado de Asturias,26.07857142857143,Viviendas con algún tipo de ordenador,79.2
+2020,Principado de Asturias,26.07857142857143,Viviendas que disponen de acceso a Internet,93.4
+2020,Principado de Asturias,26.07857142857143,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.2
+2020,Principado de Asturias,26.07857142857143,Viviendas con teléfono fijo,69.8
+2020,Principado de Asturias,26.07857142857143,Viviendas con teléfono móvil,99.0
+2020,Islas Baleares,27.92333333333333,Viviendas con algún tipo de ordenador,85.2
+2020,Islas Baleares,27.92333333333333,Viviendas que disponen de acceso a Internet,95.6
+2020,Islas Baleares,27.92333333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.6
+2020,Islas Baleares,27.92333333333333,Viviendas con teléfono fijo,75.4
+2020,Islas Baleares,27.92333333333333,Viviendas con teléfono móvil,98.9
+2020,Islas Canarias,36.63785714285714,Viviendas con algún tipo de ordenador,80.5
+2020,Islas Canarias,36.63785714285714,Viviendas que disponen de acceso a Internet,96.2
+2020,Islas Canarias,36.63785714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.7
+2020,Islas Canarias,36.63785714285714,Viviendas con teléfono fijo,81.8
+2020,Islas Canarias,36.63785714285714,Viviendas con teléfono móvil,99.5
+2020,Cantabria,25.16530120481928,Viviendas con algún tipo de ordenador,82.1
+2020,Cantabria,25.16530120481928,Viviendas que disponen de acceso a Internet,93.9
+2020,Cantabria,25.16530120481928,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.9
+2020,Cantabria,25.16530120481928,Viviendas con teléfono fijo,74.3
+2020,Cantabria,25.16530120481928,Viviendas con teléfono móvil,99.1
+2020,Castilla y León,23.084047619047617,Viviendas con algún tipo de ordenador,79.4
+2020,Castilla y León,23.084047619047617,Viviendas que disponen de acceso a Internet,93.9
+2020,Castilla y León,23.084047619047617,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.9
+2020,Castilla y León,23.084047619047617,Viviendas con teléfono fijo,73.9
+2020,Castilla y León,23.084047619047617,Viviendas con teléfono móvil,99.4
+2020,Castilla-La Mancha,29.25654761904762,Viviendas con algún tipo de ordenador,77.2
+2020,Castilla-La Mancha,29.25654761904762,Viviendas que disponen de acceso a Internet,93.2
+2020,Castilla-La Mancha,29.25654761904762,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.2
+2020,Castilla-La Mancha,29.25654761904762,Viviendas con teléfono fijo,61.0
+2020,Castilla-La Mancha,29.25654761904762,Viviendas con teléfono móvil,99.7
+2020,Cataluña,22.625357142857144,Viviendas con algún tipo de ordenador,86.4
+2020,Cataluña,22.625357142857144,Viviendas que disponen de acceso a Internet,96.7
+2020,Cataluña,22.625357142857144,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.6
+2020,Cataluña,22.625357142857144,Viviendas con teléfono fijo,77.2
+2020,Cataluña,22.625357142857144,Viviendas con teléfono móvil,99.6
+2020,Ceuta,42.88325301204819,Viviendas con algún tipo de ordenador,76.3
+2020,Ceuta,42.88325301204819,Viviendas que disponen de acceso a Internet,96.0
+2020,Ceuta,42.88325301204819,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.0
+2020,Ceuta,42.88325301204819,Viviendas con teléfono fijo,82.0
+2020,Ceuta,42.88325301204819,Viviendas con teléfono móvil,100.0
+2020,España,26.459285714285716,Viviendas con algún tipo de ordenador,81.4
+2020,España,26.459285714285716,Viviendas que disponen de acceso a Internet,95.4
+2020,España,26.459285714285716,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.3
+2020,España,26.459285714285716,Viviendas con teléfono fijo,71.1
+2020,España,26.459285714285716,Viviendas con teléfono móvil,99.5
+2020,Extremadura,34.61916666666667,Viviendas con algún tipo de ordenador,76.4
+2020,Extremadura,34.61916666666667,Viviendas que disponen de acceso a Internet,94.2
+2020,Extremadura,34.61916666666667,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.2
+2020,Extremadura,34.61916666666667,Viviendas con teléfono fijo,60.4
+2020,Extremadura,34.61916666666667,Viviendas con teléfono móvil,99.3
+2020,Galicia,22.168928571428573,Viviendas con algún tipo de ordenador,72.1
+2020,Galicia,22.168928571428573,Viviendas que disponen de acceso a Internet,92.4
+2020,Galicia,22.168928571428573,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",92.0
+2020,Galicia,22.168928571428573,Viviendas con teléfono fijo,71.2
+2020,Galicia,22.168928571428573,Viviendas con teléfono móvil,99.4
+2020,La Rioja,20.32843373493976,Viviendas con algún tipo de ordenador,77.7
+2020,La Rioja,20.32843373493976,Viviendas que disponen de acceso a Internet,93.6
+2020,La Rioja,20.32843373493976,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.6
+2020,La Rioja,20.32843373493976,Viviendas con teléfono fijo,70.8
+2020,La Rioja,20.32843373493976,Viviendas con teléfono móvil,99.4
+2020,Comunidad de Madrid,22.072142857142858,Viviendas con algún tipo de ordenador,86.7
+2020,Comunidad de Madrid,22.072142857142858,Viviendas que disponen de acceso a Internet,97.1
+2020,Comunidad de Madrid,22.072142857142858,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.1
+2020,Comunidad de Madrid,22.072142857142858,Viviendas con teléfono fijo,82.3
+2020,Comunidad de Madrid,22.072142857142858,Viviendas con teléfono móvil,99.6
+2020,Melilla,44.211666666666666,Viviendas con algún tipo de ordenador,80.2
+2020,Melilla,44.211666666666666,Viviendas que disponen de acceso a Internet,98.9
+2020,Melilla,44.211666666666666,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",98.9
+2020,Melilla,44.211666666666666,Viviendas con teléfono fijo,65.8
+2020,Melilla,44.211666666666666,Viviendas con teléfono móvil,100.0
+2020,Región de Murcia,26.69821428571429,Viviendas con algún tipo de ordenador,79.5
+2020,Región de Murcia,26.69821428571429,Viviendas que disponen de acceso a Internet,94.4
+2020,Región de Murcia,26.69821428571429,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.4
+2020,Región de Murcia,26.69821428571429,Viviendas con teléfono fijo,53.0
+2020,Región de Murcia,26.69821428571429,Viviendas con teléfono móvil,98.3
+2020,Comunidad Foral de Navarra,16.32425,Viviendas con algún tipo de ordenador,86.3
+2020,Comunidad Foral de Navarra,16.32425,Viviendas que disponen de acceso a Internet,96.5
+2020,Comunidad Foral de Navarra,16.32425,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.5
+2020,Comunidad Foral de Navarra,16.32425,Viviendas con teléfono fijo,75.0
+2020,Comunidad Foral de Navarra,16.32425,Viviendas con teléfono móvil,99.3
+2020,País Vasco,20.22626506024096,Viviendas con algún tipo de ordenador,84.6
+2020,País Vasco,20.22626506024096,Viviendas que disponen de acceso a Internet,95.5
+2020,País Vasco,20.22626506024096,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.5
+2020,País Vasco,20.22626506024096,Viviendas con teléfono fijo,79.8
+2020,País Vasco,20.22626506024096,Viviendas con teléfono móvil,99.7
+2020,Comunidad Valenciana,26.16297619047619,Viviendas con algún tipo de ordenador,81.1
+2020,Comunidad Valenciana,26.16297619047619,Viviendas que disponen de acceso a Internet,95.8
+2020,Comunidad Valenciana,26.16297619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.7
+2020,Comunidad Valenciana,26.16297619047619,Viviendas con teléfono fijo,59.5
+2020,Comunidad Valenciana,26.16297619047619,Viviendas con teléfono móvil,99.9
+2021,Andalucía,32.825476190476195,Viviendas con algún tipo de ordenador,78.6
+2021,Andalucía,32.825476190476195,Viviendas que disponen de acceso a Internet,94.5
+2021,Andalucía,32.825476190476195,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.5
+2021,Andalucía,32.825476190476195,Viviendas con teléfono fijo,57.6
+2021,Andalucía,32.825476190476195,Viviendas con teléfono móvil,99.9
+2021,Aragón,17.69297619047619,Viviendas con algún tipo de ordenador,85.2
+2021,Aragón,17.69297619047619,Viviendas que disponen de acceso a Internet,96.3
+2021,Aragón,17.69297619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.3
+2021,Aragón,17.69297619047619,Viviendas con teléfono fijo,74.9
+2021,Aragón,17.69297619047619,Viviendas con teléfono móvil,99.9
+2021,Principado de Asturias,22.50542168674699,Viviendas con algún tipo de ordenador,81.3
+2021,Principado de Asturias,22.50542168674699,Viviendas que disponen de acceso a Internet,94.3
+2021,Principado de Asturias,22.50542168674699,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.3
+2021,Principado de Asturias,22.50542168674699,Viviendas con teléfono fijo,66.8
+2021,Principado de Asturias,22.50542168674699,Viviendas con teléfono móvil,99.2
+2021,Islas Baleares,22.87904761904762,Viviendas con algún tipo de ordenador,86.3
+2021,Islas Baleares,22.87904761904762,Viviendas que disponen de acceso a Internet,97.3
+2021,Islas Baleares,22.87904761904762,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.3
+2021,Islas Baleares,22.87904761904762,Viviendas con teléfono fijo,70.7
+2021,Islas Baleares,22.87904761904762,Viviendas con teléfono móvil,99.0
+2021,Islas Canarias,39.711309523809526,Viviendas con algún tipo de ordenador,82.7
+2021,Islas Canarias,39.711309523809526,Viviendas que disponen de acceso a Internet,96.7
+2021,Islas Canarias,39.711309523809526,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.7
+2021,Islas Canarias,39.711309523809526,Viviendas con teléfono fijo,76.6
+2021,Islas Canarias,39.711309523809526,Viviendas con teléfono móvil,99.5
+2021,Cantabria,19.715,Viviendas con algún tipo de ordenador,83.3
+2021,Cantabria,19.715,Viviendas que disponen de acceso a Internet,95.0
+2021,Cantabria,19.715,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.0
+2021,Cantabria,19.715,Viviendas con teléfono fijo,71.1
+2021,Cantabria,19.715,Viviendas con teléfono móvil,99.5
+2021,Castilla y León,22.15535714285714,Viviendas con algún tipo de ordenador,83.6
+2021,Castilla y León,22.15535714285714,Viviendas que disponen de acceso a Internet,95.6
+2021,Castilla y León,22.15535714285714,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.6
+2021,Castilla y León,22.15535714285714,Viviendas con teléfono fijo,73.1
+2021,Castilla y León,22.15535714285714,Viviendas con teléfono móvil,99.3
+2021,Castilla-La Mancha,25.10571428571429,Viviendas con algún tipo de ordenador,78.9
+2021,Castilla-La Mancha,25.10571428571429,Viviendas que disponen de acceso a Internet,94.4
+2021,Castilla-La Mancha,25.10571428571429,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.4
+2021,Castilla-La Mancha,25.10571428571429,Viviendas con teléfono fijo,58.1
+2021,Castilla-La Mancha,25.10571428571429,Viviendas con teléfono móvil,99.2
+2021,Cataluña,20.03,Viviendas con algún tipo de ordenador,87.8
+2021,Cataluña,20.03,Viviendas que disponen de acceso a Internet,96.9
+2021,Cataluña,20.03,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.9
+2021,Cataluña,20.03,Viviendas con teléfono fijo,72.8
+2021,Cataluña,20.03,Viviendas con teléfono móvil,99.3
+2021,Ceuta,44.63172839506173,Viviendas con algún tipo de ordenador,71.4
+2021,Ceuta,44.63172839506173,Viviendas que disponen de acceso a Internet,92.5
+2021,Ceuta,44.63172839506173,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",92.5
+2021,Ceuta,44.63172839506173,Viviendas con teléfono fijo,78.1
+2021,Ceuta,44.63172839506173,Viviendas con teléfono móvil,100.0
+2021,España,24.909642857142856,Viviendas con algún tipo de ordenador,83.7
+2021,España,24.909642857142856,Viviendas que disponen de acceso a Internet,95.9
+2021,España,24.909642857142856,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.9
+2021,España,24.909642857142856,Viviendas con teléfono fijo,67.2
+2021,España,24.909642857142856,Viviendas con teléfono móvil,99.5
+2021,Extremadura,33.43952380952381,Viviendas con algún tipo de ordenador,76.7
+2021,Extremadura,33.43952380952381,Viviendas que disponen de acceso a Internet,94.6
+2021,Extremadura,33.43952380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.6
+2021,Extremadura,33.43952380952381,Viviendas con teléfono fijo,55.8
+2021,Extremadura,33.43952380952381,Viviendas con teléfono móvil,99.2
+2021,Galicia,21.32892857142857,Viviendas con algún tipo de ordenador,78.7
+2021,Galicia,21.32892857142857,Viviendas que disponen de acceso a Internet,93.3
+2021,Galicia,21.32892857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.2
+2021,Galicia,21.32892857142857,Viviendas con teléfono fijo,65.9
+2021,Galicia,21.32892857142857,Viviendas con teléfono móvil,99.0
+2021,La Rioja,21.20036585365854,Viviendas con algún tipo de ordenador,80.6
+2021,La Rioja,21.20036585365854,Viviendas que disponen de acceso a Internet,94.9
+2021,La Rioja,21.20036585365854,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.9
+2021,La Rioja,21.20036585365854,Viviendas con teléfono fijo,66.8
+2021,La Rioja,21.20036585365854,Viviendas con teléfono móvil,98.8
+2021,Comunidad de Madrid,21.57119047619048,Viviendas con algún tipo de ordenador,89.2
+2021,Comunidad de Madrid,21.57119047619048,Viviendas que disponen de acceso a Internet,97.5
+2021,Comunidad de Madrid,21.57119047619048,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.5
+2021,Comunidad de Madrid,21.57119047619048,Viviendas con teléfono fijo,81.4
+2021,Comunidad de Madrid,21.57119047619048,Viviendas con teléfono móvil,99.7
+2021,Melilla,38.77975,Viviendas con algún tipo de ordenador,89.5
+2021,Melilla,38.77975,Viviendas que disponen de acceso a Internet,98.6
+2021,Melilla,38.77975,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",98.6
+2021,Melilla,38.77975,Viviendas con teléfono fijo,62.8
+2021,Melilla,38.77975,Viviendas con teléfono móvil,100.0
+2021,Región de Murcia,24.174285714285716,Viviendas con algún tipo de ordenador,84.9
+2021,Región de Murcia,24.174285714285716,Viviendas que disponen de acceso a Internet,96.9
+2021,Región de Murcia,24.174285714285716,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.9
+2021,Región de Murcia,24.174285714285716,Viviendas con teléfono fijo,47.8
+2021,Región de Murcia,24.174285714285716,Viviendas con teléfono móvil,99.4
+2021,Comunidad Foral de Navarra,18.56277108433735,Viviendas con algún tipo de ordenador,87.3
+2021,Comunidad Foral de Navarra,18.56277108433735,Viviendas que disponen de acceso a Internet,96.2
+2021,Comunidad Foral de Navarra,18.56277108433735,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.2
+2021,Comunidad Foral de Navarra,18.56277108433735,Viviendas con teléfono fijo,69.2
+2021,Comunidad Foral de Navarra,18.56277108433735,Viviendas con teléfono móvil,99.6
+2021,País Vasco,22.882142857142856,Viviendas con algún tipo de ordenador,85.5
+2021,País Vasco,22.882142857142856,Viviendas que disponen de acceso a Internet,95.5
+2021,País Vasco,22.882142857142856,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.5
+2021,País Vasco,22.882142857142856,Viviendas con teléfono fijo,77.1
+2021,País Vasco,22.882142857142856,Viviendas con teléfono móvil,99.9
+2021,Comunidad Valenciana,26.55059523809524,Viviendas con algún tipo de ordenador,84.0
+2021,Comunidad Valenciana,26.55059523809524,Viviendas que disponen de acceso a Internet,96.8
+2021,Comunidad Valenciana,26.55059523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.8
+2021,Comunidad Valenciana,26.55059523809524,Viviendas con teléfono fijo,53.5
+2021,Comunidad Valenciana,26.55059523809524,Viviendas con teléfono móvil,99.8
+2022,Andalucía,27.70357142857143,Viviendas con algún tipo de ordenador,78.4
+2022,Andalucía,27.70357142857143,Viviendas que disponen de acceso a Internet,94.5
+2022,Andalucía,27.70357142857143,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.5
+2022,Andalucía,27.70357142857143,Viviendas con teléfono fijo,53.0
+2022,Andalucía,27.70357142857143,Viviendas con teléfono móvil,99.3
+2022,Aragón,16.63488095238095,Viviendas con algún tipo de ordenador,86.0
+2022,Aragón,16.63488095238095,Viviendas que disponen de acceso a Internet,98.2
+2022,Aragón,16.63488095238095,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",98.2
+2022,Aragón,16.63488095238095,Viviendas con teléfono fijo,71.6
+2022,Aragón,16.63488095238095,Viviendas con teléfono móvil,99.7
+2022,Principado de Asturias,26.17571428571429,Viviendas con algún tipo de ordenador,78.1
+2022,Principado de Asturias,26.17571428571429,Viviendas que disponen de acceso a Internet,94.3
+2022,Principado de Asturias,26.17571428571429,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.3
+2022,Principado de Asturias,26.17571428571429,Viviendas con teléfono fijo,61.7
+2022,Principado de Asturias,26.17571428571429,Viviendas con teléfono móvil,99.2
+2022,Islas Baleares,17.300595238095237,Viviendas con algún tipo de ordenador,86.8
+2022,Islas Baleares,17.300595238095237,Viviendas que disponen de acceso a Internet,97.5
+2022,Islas Baleares,17.300595238095237,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.5
+2022,Islas Baleares,17.300595238095237,Viviendas con teléfono fijo,65.2
+2022,Islas Baleares,17.300595238095237,Viviendas con teléfono móvil,99.9
+2022,Islas Canarias,28.879166666666663,Viviendas con algún tipo de ordenador,83.3
+2022,Islas Canarias,28.879166666666663,Viviendas que disponen de acceso a Internet,96.9
+2022,Islas Canarias,28.879166666666663,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.9
+2022,Islas Canarias,28.879166666666663,Viviendas con teléfono fijo,69.9
+2022,Islas Canarias,28.879166666666663,Viviendas con teléfono móvil,99.5
+2022,Cantabria,18.98392857142857,Viviendas con algún tipo de ordenador,80.1
+2022,Cantabria,18.98392857142857,Viviendas que disponen de acceso a Internet,94.7
+2022,Cantabria,18.98392857142857,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.7
+2022,Cantabria,18.98392857142857,Viviendas con teléfono fijo,62.2
+2022,Cantabria,18.98392857142857,Viviendas con teléfono móvil,99.6
+2022,Castilla y León,19.145714285714284,Viviendas con algún tipo de ordenador,80.2
+2022,Castilla y León,19.145714285714284,Viviendas que disponen de acceso a Internet,94.9
+2022,Castilla y León,19.145714285714284,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.9
+2022,Castilla y León,19.145714285714284,Viviendas con teléfono fijo,68.7
+2022,Castilla y León,19.145714285714284,Viviendas con teléfono móvil,99.5
+2022,Castilla-La Mancha,24.232261904761906,Viviendas con algún tipo de ordenador,78.7
+2022,Castilla-La Mancha,24.232261904761906,Viviendas que disponen de acceso a Internet,95.0
+2022,Castilla-La Mancha,24.232261904761906,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.0
+2022,Castilla-La Mancha,24.232261904761906,Viviendas con teléfono fijo,53.9
+2022,Castilla-La Mancha,24.232261904761906,Viviendas con teléfono móvil,99.6
+2022,Cataluña,17.08178571428571,Viviendas con algún tipo de ordenador,85.6
+2022,Cataluña,17.08178571428571,Viviendas que disponen de acceso a Internet,97.4
+2022,Cataluña,17.08178571428571,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.4
+2022,Cataluña,17.08178571428571,Viviendas con teléfono fijo,68.0
+2022,Cataluña,17.08178571428571,Viviendas con teléfono móvil,99.8
+2022,Ceuta,40.423855421686746,Viviendas con algún tipo de ordenador,80.3
+2022,Ceuta,40.423855421686746,Viviendas que disponen de acceso a Internet,97.3
+2022,Ceuta,40.423855421686746,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.3
+2022,Ceuta,40.423855421686746,Viviendas con teléfono fijo,70.1
+2022,Ceuta,40.423855421686746,Viviendas con teléfono móvil,98.9
+2022,España,21.35238095238095,Viviendas con algún tipo de ordenador,82.9
+2022,España,21.35238095238095,Viviendas que disponen de acceso a Internet,96.1
+2022,España,21.35238095238095,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.1
+2022,España,21.35238095238095,Viviendas con teléfono fijo,62.5
+2022,España,21.35238095238095,Viviendas con teléfono móvil,99.5
+2022,Extremadura,29.021071428571428,Viviendas con algún tipo de ordenador,76.3
+2022,Extremadura,29.021071428571428,Viviendas que disponen de acceso a Internet,94.6
+2022,Extremadura,29.021071428571428,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.6
+2022,Extremadura,29.021071428571428,Viviendas con teléfono fijo,50.0
+2022,Extremadura,29.021071428571428,Viviendas con teléfono móvil,99.9
+2022,Galicia,21.31023809523809,Viviendas con algún tipo de ordenador,79.0
+2022,Galicia,21.31023809523809,Viviendas que disponen de acceso a Internet,93.4
+2022,Galicia,21.31023809523809,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.4
+2022,Galicia,21.31023809523809,Viviendas con teléfono fijo,62.2
+2022,Galicia,21.31023809523809,Viviendas con teléfono móvil,98.9
+2022,La Rioja,17.415542168674698,Viviendas con algún tipo de ordenador,78.4
+2022,La Rioja,17.415542168674698,Viviendas que disponen de acceso a Internet,94.3
+2022,La Rioja,17.415542168674698,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.3
+2022,La Rioja,17.415542168674698,Viviendas con teléfono fijo,63.5
+2022,La Rioja,17.415542168674698,Viviendas con teléfono móvil,98.8
+2022,Comunidad de Madrid,20.13083333333333,Viviendas con algún tipo de ordenador,89.4
+2022,Comunidad de Madrid,20.13083333333333,Viviendas que disponen de acceso a Internet,97.8
+2022,Comunidad de Madrid,20.13083333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.8
+2022,Comunidad de Madrid,20.13083333333333,Viviendas con teléfono fijo,76.6
+2022,Comunidad de Madrid,20.13083333333333,Viviendas con teléfono móvil,99.4
+2022,Melilla,42.3075,Viviendas con algún tipo de ordenador,96.0
+2022,Melilla,42.3075,Viviendas que disponen de acceso a Internet,100.0
+2022,Melilla,42.3075,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",100.0
+2022,Melilla,42.3075,Viviendas con teléfono fijo,68.9
+2022,Melilla,42.3075,Viviendas con teléfono móvil,100.0
+2022,Región de Murcia,20.667380952380952,Viviendas con algún tipo de ordenador,82.4
+2022,Región de Murcia,20.667380952380952,Viviendas que disponen de acceso a Internet,96.9
+2022,Región de Murcia,20.667380952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.9
+2022,Región de Murcia,20.667380952380952,Viviendas con teléfono fijo,44.6
+2022,Región de Murcia,20.667380952380952,Viviendas con teléfono móvil,99.8
+2022,Comunidad Foral de Navarra,16.81940476190476,Viviendas con algún tipo de ordenador,86.3
+2022,Comunidad Foral de Navarra,16.81940476190476,Viviendas que disponen de acceso a Internet,96.4
+2022,Comunidad Foral de Navarra,16.81940476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.4
+2022,Comunidad Foral de Navarra,16.81940476190476,Viviendas con teléfono fijo,67.3
+2022,Comunidad Foral de Navarra,16.81940476190476,Viviendas con teléfono móvil,99.1
+2022,País Vasco,16.494880952380953,Viviendas con algún tipo de ordenador,83.9
+2022,País Vasco,16.494880952380953,Viviendas que disponen de acceso a Internet,96.3
+2022,País Vasco,16.494880952380953,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.3
+2022,País Vasco,16.494880952380953,Viviendas con teléfono fijo,71.7
+2022,País Vasco,16.494880952380953,Viviendas con teléfono móvil,99.6
+2022,Comunidad Valenciana,20.996666666666663,Viviendas con algún tipo de ordenador,82.8
+2022,Comunidad Valenciana,20.996666666666663,Viviendas que disponen de acceso a Internet,96.3
+2022,Comunidad Valenciana,20.996666666666663,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.3
+2022,Comunidad Valenciana,20.996666666666663,Viviendas con teléfono fijo,48.7
+2022,Comunidad Valenciana,20.996666666666663,Viviendas con teléfono móvil,99.4
+2023,Andalucía,28.931428571428576,Viviendas con algún tipo de ordenador,79.1
+2023,Andalucía,28.931428571428576,Viviendas que disponen de acceso a Internet,95.9
+2023,Andalucía,28.931428571428576,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.9
+2023,Andalucía,28.931428571428576,Viviendas con teléfono fijo,48.9
+2023,Andalucía,28.931428571428576,Viviendas con teléfono móvil,99.5
+2023,Aragón,16.47654761904762,Viviendas con algún tipo de ordenador,84.1
+2023,Aragón,16.47654761904762,Viviendas que disponen de acceso a Internet,97.5
+2023,Aragón,16.47654761904762,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.5
+2023,Aragón,16.47654761904762,Viviendas con teléfono fijo,66.0
+2023,Aragón,16.47654761904762,Viviendas con teléfono móvil,100.0
+2023,Principado de Asturias,23.124880952380952,Viviendas con algún tipo de ordenador,81.1
+2023,Principado de Asturias,23.124880952380952,Viviendas que disponen de acceso a Internet,96.4
+2023,Principado de Asturias,23.124880952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.4
+2023,Principado de Asturias,23.124880952380952,Viviendas con teléfono fijo,52.3
+2023,Principado de Asturias,23.124880952380952,Viviendas con teléfono móvil,99.6
+2023,Islas Baleares,16.713809523809523,Viviendas con algún tipo de ordenador,84.4
+2023,Islas Baleares,16.713809523809523,Viviendas que disponen de acceso a Internet,97.3
+2023,Islas Baleares,16.713809523809523,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.3
+2023,Islas Baleares,16.713809523809523,Viviendas con teléfono fijo,56.2
+2023,Islas Baleares,16.713809523809523,Viviendas con teléfono móvil,99.5
+2023,Islas Canarias,22.651666666666667,Viviendas con algún tipo de ordenador,81.3
+2023,Islas Canarias,22.651666666666667,Viviendas que disponen de acceso a Internet,97.1
+2023,Islas Canarias,22.651666666666667,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.9
+2023,Islas Canarias,22.651666666666667,Viviendas con teléfono fijo,66.4
+2023,Islas Canarias,22.651666666666667,Viviendas con teléfono móvil,99.3
+2023,Cantabria,15.019146341463411,Viviendas con algún tipo de ordenador,81.0
+2023,Cantabria,15.019146341463411,Viviendas que disponen de acceso a Internet,95.6
+2023,Cantabria,15.019146341463411,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.6
+2023,Cantabria,15.019146341463411,Viviendas con teléfono fijo,58.6
+2023,Cantabria,15.019146341463411,Viviendas con teléfono móvil,99.3
+2023,Castilla y León,17.675714285714285,Viviendas con algún tipo de ordenador,79.7
+2023,Castilla y León,17.675714285714285,Viviendas que disponen de acceso a Internet,93.8
+2023,Castilla y León,17.675714285714285,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.8
+2023,Castilla y León,17.675714285714285,Viviendas con teléfono fijo,65.3
+2023,Castilla y León,17.675714285714285,Viviendas con teléfono móvil,98.5
+2023,Castilla-La Mancha,21.42369047619048,Viviendas con algún tipo de ordenador,77.8
+2023,Castilla-La Mancha,21.42369047619048,Viviendas que disponen de acceso a Internet,95.8
+2023,Castilla-La Mancha,21.42369047619048,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.8
+2023,Castilla-La Mancha,21.42369047619048,Viviendas con teléfono fijo,50.7
+2023,Castilla-La Mancha,21.42369047619048,Viviendas con teléfono móvil,99.4
+2023,Cataluña,15.617380952380952,Viviendas con algún tipo de ordenador,86.1
+2023,Cataluña,15.617380952380952,Viviendas que disponen de acceso a Internet,97.1
+2023,Cataluña,15.617380952380952,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.1
+2023,Cataluña,15.617380952380952,Viviendas con teléfono fijo,63.6
+2023,Cataluña,15.617380952380952,Viviendas con teléfono móvil,99.4
+2023,Ceuta,42.47857142857143,Viviendas con algún tipo de ordenador,68.8
+2023,Ceuta,42.47857142857143,Viviendas que disponen de acceso a Internet,95.5
+2023,Ceuta,42.47857142857143,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.5
+2023,Ceuta,42.47857142857143,Viviendas con teléfono fijo,67.2
+2023,Ceuta,42.47857142857143,Viviendas con teléfono móvil,100.0
+2023,España,20.4225,Viviendas con algún tipo de ordenador,82.6
+2023,España,20.4225,Viviendas que disponen de acceso a Internet,96.4
+2023,España,20.4225,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.4
+2023,España,20.4225,Viviendas con teléfono fijo,57.5
+2023,España,20.4225,Viviendas con teléfono móvil,99.5
+2023,Extremadura,28.56952380952381,Viviendas con algún tipo de ordenador,74.8
+2023,Extremadura,28.56952380952381,Viviendas que disponen de acceso a Internet,93.3
+2023,Extremadura,28.56952380952381,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.3
+2023,Extremadura,28.56952380952381,Viviendas con teléfono fijo,45.9
+2023,Extremadura,28.56952380952381,Viviendas con teléfono móvil,99.6
+2023,Galicia,17.044166666666666,Viviendas con algún tipo de ordenador,80.0
+2023,Galicia,17.044166666666666,Viviendas que disponen de acceso a Internet,94.4
+2023,Galicia,17.044166666666666,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",94.2
+2023,Galicia,17.044166666666666,Viviendas con teléfono fijo,57.3
+2023,Galicia,17.044166666666666,Viviendas con teléfono móvil,99.0
+2023,La Rioja,17.32614457831325,Viviendas con algún tipo de ordenador,83.9
+2023,La Rioja,17.32614457831325,Viviendas que disponen de acceso a Internet,96.1
+2023,La Rioja,17.32614457831325,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.1
+2023,La Rioja,17.32614457831325,Viviendas con teléfono fijo,63.5
+2023,La Rioja,17.32614457831325,Viviendas con teléfono móvil,99.4
+2023,Comunidad de Madrid,18.77,Viviendas con algún tipo de ordenador,87.9
+2023,Comunidad de Madrid,18.77,Viviendas que disponen de acceso a Internet,97.7
+2023,Comunidad de Madrid,18.77,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.6
+2023,Comunidad de Madrid,18.77,Viviendas con teléfono fijo,70.4
+2023,Comunidad de Madrid,18.77,Viviendas con teléfono móvil,99.7
+2023,Melilla,37.424691358024695,Viviendas con algún tipo de ordenador,84.0
+2023,Melilla,37.424691358024695,Viviendas que disponen de acceso a Internet,98.5
+2023,Melilla,37.424691358024695,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",98.5
+2023,Melilla,37.424691358024695,Viviendas con teléfono fijo,56.3
+2023,Melilla,37.424691358024695,Viviendas con teléfono móvil,100.0
+2023,Región de Murcia,20.78059523809524,Viviendas con algún tipo de ordenador,79.4
+2023,Región de Murcia,20.78059523809524,Viviendas que disponen de acceso a Internet,97.0
+2023,Región de Murcia,20.78059523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.0
+2023,Región de Murcia,20.78059523809524,Viviendas con teléfono fijo,39.3
+2023,Región de Murcia,20.78059523809524,Viviendas con teléfono móvil,99.7
+2023,Comunidad Foral de Navarra,17.819285714285712,Viviendas con algún tipo de ordenador,86.8
+2023,Comunidad Foral de Navarra,17.819285714285712,Viviendas que disponen de acceso a Internet,96.2
+2023,Comunidad Foral de Navarra,17.819285714285712,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.2
+2023,Comunidad Foral de Navarra,17.819285714285712,Viviendas con teléfono fijo,64.7
+2023,Comunidad Foral de Navarra,17.819285714285712,Viviendas con teléfono móvil,99.5
+2023,País Vasco,15.142857142857142,Viviendas con algún tipo de ordenador,84.0
+2023,País Vasco,15.142857142857142,Viviendas que disponen de acceso a Internet,96.6
+2023,País Vasco,15.142857142857142,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.6
+2023,País Vasco,15.142857142857142,Viviendas con teléfono fijo,66.7
+2023,País Vasco,15.142857142857142,Viviendas con teléfono móvil,99.4
+2023,Comunidad Valenciana,21.548809523809524,Viviendas con algún tipo de ordenador,82.6
+2023,Comunidad Valenciana,21.548809523809524,Viviendas que disponen de acceso a Internet,97.1
+2023,Comunidad Valenciana,21.548809523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.1
+2023,Comunidad Valenciana,21.548809523809524,Viviendas con teléfono fijo,42.3
+2023,Comunidad Valenciana,21.548809523809524,Viviendas con teléfono móvil,99.8
+2024,Andalucía,25.81309523809524,Viviendas con algún tipo de ordenador,80.7
+2024,Andalucía,25.81309523809524,Viviendas que disponen de acceso a Internet,96.3
+2024,Andalucía,25.81309523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.3
+2024,Andalucía,25.81309523809524,Viviendas con teléfono fijo,45.9
+2024,Andalucía,25.81309523809524,Viviendas con teléfono móvil,99.5
+2024,Aragón,16.131309523809524,Viviendas con algún tipo de ordenador,84.4
+2024,Aragón,16.131309523809524,Viviendas que disponen de acceso a Internet,97.4
+2024,Aragón,16.131309523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.4
+2024,Aragón,16.131309523809524,Viviendas con teléfono fijo,63.7
+2024,Aragón,16.131309523809524,Viviendas con teléfono móvil,99.6
+2024,Principado de Asturias,21.930714285714288,Viviendas con algún tipo de ordenador,77.1
+2024,Principado de Asturias,21.930714285714288,Viviendas que disponen de acceso a Internet,93.8
+2024,Principado de Asturias,21.930714285714288,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",93.8
+2024,Principado de Asturias,21.930714285714288,Viviendas con teléfono fijo,48.2
+2024,Principado de Asturias,21.930714285714288,Viviendas con teléfono móvil,98.8
+2024,Islas Baleares,17.65297619047619,Viviendas con algún tipo de ordenador,84.8
+2024,Islas Baleares,17.65297619047619,Viviendas que disponen de acceso a Internet,97.7
+2024,Islas Baleares,17.65297619047619,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.7
+2024,Islas Baleares,17.65297619047619,Viviendas con teléfono fijo,51.3
+2024,Islas Baleares,17.65297619047619,Viviendas con teléfono móvil,99.7
+2024,Islas Canarias,20.561785714285715,Viviendas con algún tipo de ordenador,78.9
+2024,Islas Canarias,20.561785714285715,Viviendas que disponen de acceso a Internet,96.8
+2024,Islas Canarias,20.561785714285715,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.8
+2024,Islas Canarias,20.561785714285715,Viviendas con teléfono fijo,61.6
+2024,Islas Canarias,20.561785714285715,Viviendas con teléfono móvil,98.9
+2024,Cantabria,14.89690476190476,Viviendas con algún tipo de ordenador,81.5
+2024,Cantabria,14.89690476190476,Viviendas que disponen de acceso a Internet,96.0
+2024,Cantabria,14.89690476190476,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.0
+2024,Cantabria,14.89690476190476,Viviendas con teléfono fijo,53.7
+2024,Cantabria,14.89690476190476,Viviendas con teléfono móvil,99.4
+2024,Castilla y León,18.584166666666665,Viviendas con algún tipo de ordenador,80.2
+2024,Castilla y León,18.584166666666665,Viviendas que disponen de acceso a Internet,95.4
+2024,Castilla y León,18.584166666666665,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.4
+2024,Castilla y León,18.584166666666665,Viviendas con teléfono fijo,61.1
+2024,Castilla y León,18.584166666666665,Viviendas con teléfono móvil,99.1
+2024,Castilla-La Mancha,22.075714285714284,Viviendas con algún tipo de ordenador,79.3
+2024,Castilla-La Mancha,22.075714285714284,Viviendas que disponen de acceso a Internet,96.0
+2024,Castilla-La Mancha,22.075714285714284,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.0
+2024,Castilla-La Mancha,22.075714285714284,Viviendas con teléfono fijo,48.1
+2024,Castilla-La Mancha,22.075714285714284,Viviendas con teléfono móvil,99.3
+2024,Cataluña,15.792976190476187,Viviendas con algún tipo de ordenador,86.1
+2024,Cataluña,15.792976190476187,Viviendas que disponen de acceso a Internet,97.7
+2024,Cataluña,15.792976190476187,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.7
+2024,Cataluña,15.792976190476187,Viviendas con teléfono fijo,60.6
+2024,Cataluña,15.792976190476187,Viviendas con teléfono móvil,99.7
+2024,Ceuta,43.56409638554217,Viviendas con algún tipo de ordenador,86.6
+2024,Ceuta,43.56409638554217,Viviendas que disponen de acceso a Internet,98.8
+2024,Ceuta,43.56409638554217,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",98.8
+2024,Ceuta,43.56409638554217,Viviendas con teléfono fijo,55.7
+2024,Ceuta,43.56409638554217,Viviendas con teléfono móvil,98.9
+2024,España,19.00321428571429,Viviendas con algún tipo de ordenador,83.0
+2024,España,19.00321428571429,Viviendas que disponen de acceso a Internet,96.8
+2024,España,19.00321428571429,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.8
+2024,España,19.00321428571429,Viviendas con teléfono fijo,53.9
+2024,España,19.00321428571429,Viviendas con teléfono móvil,99.5
+2024,Extremadura,26.211190476190477,Viviendas con algún tipo de ordenador,75.7
+2024,Extremadura,26.211190476190477,Viviendas que disponen de acceso a Internet,95.0
+2024,Extremadura,26.211190476190477,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.0
+2024,Extremadura,26.211190476190477,Viviendas con teléfono fijo,42.4
+2024,Extremadura,26.211190476190477,Viviendas con teléfono móvil,99.5
+2024,Galicia,17.568809523809524,Viviendas con algún tipo de ordenador,80.4
+2024,Galicia,17.568809523809524,Viviendas que disponen de acceso a Internet,95.1
+2024,Galicia,17.568809523809524,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",95.1
+2024,Galicia,17.568809523809524,Viviendas con teléfono fijo,58.4
+2024,Galicia,17.568809523809524,Viviendas con teléfono móvil,99.5
+2024,La Rioja,19.703333333333333,Viviendas con algún tipo de ordenador,83.6
+2024,La Rioja,19.703333333333333,Viviendas que disponen de acceso a Internet,96.1
+2024,La Rioja,19.703333333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.1
+2024,La Rioja,19.703333333333333,Viviendas con teléfono fijo,60.3
+2024,La Rioja,19.703333333333333,Viviendas con teléfono móvil,98.9
+2024,Comunidad de Madrid,15.01107142857143,Viviendas con algún tipo de ordenador,88.2
+2024,Comunidad de Madrid,15.01107142857143,Viviendas que disponen de acceso a Internet,98.0
+2024,Comunidad de Madrid,15.01107142857143,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",98.0
+2024,Comunidad de Madrid,15.01107142857143,Viviendas con teléfono fijo,66.1
+2024,Comunidad de Madrid,15.01107142857143,Viviendas con teléfono móvil,99.5
+2024,Melilla,43.27146341463415,Viviendas con algún tipo de ordenador,85.4
+2024,Melilla,43.27146341463415,Viviendas que disponen de acceso a Internet,96.7
+2024,Melilla,43.27146341463415,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.7
+2024,Melilla,43.27146341463415,Viviendas con teléfono fijo,52.8
+2024,Melilla,43.27146341463415,Viviendas con teléfono móvil,98.9
+2024,Región de Murcia,19.69833333333333,Viviendas con algún tipo de ordenador,79.0
+2024,Región de Murcia,19.69833333333333,Viviendas que disponen de acceso a Internet,97.2
+2024,Región de Murcia,19.69833333333333,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.2
+2024,Región de Murcia,19.69833333333333,Viviendas con teléfono fijo,33.4
+2024,Región de Murcia,19.69833333333333,Viviendas con teléfono móvil,99.3
+2024,Comunidad Foral de Navarra,14.402857142857142,Viviendas con algún tipo de ordenador,87.7
+2024,Comunidad Foral de Navarra,14.402857142857142,Viviendas que disponen de acceso a Internet,97.0
+2024,Comunidad Foral de Navarra,14.402857142857142,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.0
+2024,Comunidad Foral de Navarra,14.402857142857142,Viviendas con teléfono fijo,57.3
+2024,Comunidad Foral de Navarra,14.402857142857142,Viviendas con teléfono móvil,99.7
+2024,País Vasco,14.867831325301204,Viviendas con algún tipo de ordenador,84.2
+2024,País Vasco,14.867831325301204,Viviendas que disponen de acceso a Internet,96.2
+2024,País Vasco,14.867831325301204,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",96.2
+2024,País Vasco,14.867831325301204,Viviendas con teléfono fijo,62.1
+2024,País Vasco,14.867831325301204,Viviendas con teléfono móvil,99.6
+2024,Comunidad Valenciana,19.65630952380953,Viviendas con algún tipo de ordenador,83.8
+2024,Comunidad Valenciana,19.65630952380953,Viviendas que disponen de acceso a Internet,97.8
+2024,Comunidad Valenciana,19.65630952380953,"Viviendas con conexión de Banda Ancha (ADSL, Red de cable, etc.)",97.8
+2024,Comunidad Valenciana,19.65630952380953,Viviendas con teléfono fijo,38.2
+2024,Comunidad Valenciana,19.65630952380953,Viviendas con teléfono móvil,99.7
