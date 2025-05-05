@@ -28,7 +28,7 @@ Este proyecto está enfocado en analizar la **brecha digital** en España, ident
 
 ### 📂 transformaciones
 
-  - `edaUE-python.ipynb`: Jupyter_notebook encargado de la limpieza de los datos extraídos referentes a la UE.
+  - `dataset_ue.ipynb`: Jupyter_notebook encargado de la limpieza de los datos extraídos referentes a la UE.
 
   - `dataset_global.ipynb`: Jupyter_notebook que realiza el estudio y limpieza de varios de los csv estraídos del INE (Instituto Nacional de Estadística) como valor central de la situación en España .
 
